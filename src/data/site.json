@@ -1,7 +1,7 @@
 {
-  "name": "AI in China",
-  "tagline": "中文 AI 社区视角的开源工具目录",
-  "description": "以中文社区视角收录全球开源的 agent、skill、mcp、harness、编排器、基础设施等 AI 相关项目。",
+  "name": "Harness X",
+  "tagline": "源自 DeepSeek harness 征集，汇聚全球 agent 工具生态",
+  "description": "以中文社区视角，从 DeepSeek harness 社区征集出发，持续收录全球开源的 agent、skill、mcp、harness、编排器、基础设施等 AI 相关项目。",
   "githubRepo": "hanelalo/ai-in-china",
   "defaultBranch": "main"
 }

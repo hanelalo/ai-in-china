@@ -1,6 +1,6 @@
-# AI in China
+# Harness X
 
-以中文社区视角收录全球开源的 agent、skill、mcp、harness、编排器、基础设施等 AI 项目——源自 DeepSeek harness 社区征集，持续收录中文社区关注的开源项目。
+源自 DeepSeek harness 社区征集，以中文社区视角汇聚全球开源的 agent、skill、mcp、harness、编排器、基础设施等 AI 项目，持续收录中文社区关注的开源项目。
 
 - **数据即源码**：每个项目一个 JSON 文件，存放在 `src/data/projects/`
 - **静态站点**：Astro 构建，可部署到 Cloudflare Pages / Vercel / GitHub Pages

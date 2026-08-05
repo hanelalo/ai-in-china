@@ -1,0 +1,23 @@
+{
+  "repo": "zhuzhaoyun/Molio",
+  "category": "infra",
+  "summary": "本地优先的 AI 知识系统，把积累的知识转化为可演化的 LLM Wiki 与知识图谱，赋能 agent",
+  "description": "Local-first AI knowledge system that transforms your accumulated knowledge into an evolving LLM Wiki and knowledge graph. Empower AI agents with your personal knowledge.",
+  "language": "TypeScript",
+  "topics": [
+    "claude-code",
+    "knowledge-management",
+    "llmwiki",
+    "local-first",
+    "obsidian",
+    "web-clipper",
+    "wechat-bot"
+  ],
+  "stars": 110,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

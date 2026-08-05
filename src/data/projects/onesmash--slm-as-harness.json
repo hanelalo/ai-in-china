@@ -1,0 +1,15 @@
+{
+  "repo": "onesmash/slm-as-harness",
+  "category": "harness",
+  "summary": "以小模型充当 harness 的实验性项目（描述缺失）",
+  "description": null,
+  "language": "Python",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

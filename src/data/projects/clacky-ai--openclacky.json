@@ -1,0 +1,19 @@
+{
+  "repo": "clacky-ai/openclacky",
+  "category": "agent",
+  "summary": "主打极致 token 效率的开源 AI Agent。",
+  "description": "The most Token-efficient open-source AI Agent",
+  "language": "Ruby",
+  "topics": [
+    "agent",
+    "openclaw",
+    "skills"
+  ],
+  "stars": 1161,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

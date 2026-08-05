@@ -1,0 +1,28 @@
+{
+  "repo": "QwenLM/qwen-code",
+  "category": "harness",
+  "summary": "阿里通义千问开源的终端 AI 编码代理，对标 Claude Code。",
+  "description": "An open-source AI coding agent that lives in your terminal.",
+  "language": "TypeScript",
+  "topics": [
+    "agentic",
+    "ai",
+    "ai-agent",
+    "ai-coding",
+    "cli",
+    "coding-agent",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "qwen",
+    "terminal",
+    "typescript"
+  ],
+  "stars": 26720,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

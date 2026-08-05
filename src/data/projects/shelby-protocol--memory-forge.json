@@ -1,0 +1,24 @@
+{
+  "repo": "shelby-protocol/memory-forge",
+  "category": "mcp",
+  "summary": "AI agent 持久记忆引擎：8 个 MCP 工具 + 5 个自动引擎，支持本地与 Shelby 云",
+  "description": "AI Agent persistent memory engine. 8 MCP tools + 5 auto-engines. Free local + Pro Shelby cloud.",
+  "language": "TypeScript",
+  "topics": [
+    "ai-agent",
+    "claude-code",
+    "mcp",
+    "memory",
+    "persistent-memory",
+    "shelby",
+    "typescript",
+    "vector-search"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

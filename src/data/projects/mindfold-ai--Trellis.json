@@ -1,0 +1,21 @@
+{
+  "repo": "mindfold-ai/Trellis",
+  "category": "harness",
+  "summary": "标榜“The best agent harness”的工程级 agent 编排框架，适配 Claude Code/Codex",
+  "description": "The best agent harness.",
+  "language": "TypeScript",
+  "topics": [
+    "agentic-coding",
+    "ai-workflow",
+    "claudecode",
+    "codex",
+    "harness"
+  ],
+  "stars": 13641,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

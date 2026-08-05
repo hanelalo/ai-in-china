@@ -1,0 +1,25 @@
+{
+  "repo": "datagallery-lab/datafoundry",
+  "category": "ui",
+  "summary": "开源数据分析 AI 工作台，统一数据源、知识、工具与 agent 运行时到可治理工作空间。",
+  "description": "DataFoundry is an open-source AI workbench for data analysis, unifying data sources, knowledge, tools, and agent runtime into a governed workspace for interactive analytics.",
+  "language": "TypeScript",
+  "topics": [
+    "ag-ui",
+    "agent-runtime",
+    "ai",
+    "ai-agents",
+    "data-analysis",
+    "data-sources",
+    "data-workbench",
+    "ink",
+    "mastra"
+  ],
+  "stars": 610,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

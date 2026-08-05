@@ -1,0 +1,68 @@
+---
+import Base from '../../layouts/Base.astro';
+import categories from '../../data/categories.json';
+import { getProjects, slugOf } from '../../lib/projects.mjs';
+
+export async function getStaticPaths() {
+  const projects = await getProjects();
+  return projects.map((project) => ({
+    params: { slug: slugOf(project) },
+    props: { project },
+  }));
+}
+
+const { project } = Astro.props;
+const category = categories.find((c) => c.id === project.category);
+const repoUrl = `https://github.com/${project.repo}`;
+const meta = [
+  { label: '仓库', value: project.repo, href: repoUrl },
+  ...(project.website ? [{ label: '主页', value: project.website, href: project.website }] : []),
+  { label: '语言', value: project.language ?? '—' },
+  { label: 'Star', value: String(project.stars) },
+  { label: '分类', value: `${category?.labelZh ?? project.category}（${project.category}）` },
+  { label: '状态', value: project.status === 'archived' ? '已归档' : '活跃' },
+  { label: '收录时间', value: project.addedAt },
+  { label: '来源', value: project.source },
+];
+---
+
+<Base title={project.repo}>
+  <article class="detail">
+    <a class="back" href="/">← 返回目录</a>
+    <header class="detail-head">
+      <div class="badges">
+        <span class="badge">{category?.labelZh ?? project.category}</span>
+        {project.status === 'archived' && <span class="badge badge-warn">已归档</span>}
+      </div>
+      <h1>{project.repo}</h1>
+      <p class="detail-summary">{project.summary}</p>
+      {project.description && <blockquote class="detail-desc">{project.description}</blockquote>}
+    </header>
+
+    {(project.topics.length > 0 || project.platform.length > 0 || project.tags.length > 0) && (
+      <section class="detail-chips">
+        {project.topics.map((t) => <span class="chip">{t}</span>)}
+        {project.platform.map((p) => <span class="chip chip-accent">{p}</span>)}
+        {project.tags.map((t) => <span class="chip chip-green">{t}</span>)}
+      </section>
+    )}
+
+    <section class="meta">
+      {meta.map((m) => (
+        <div class="meta-row">
+          <span class="meta-label">{m.label}</span>
+          {m.href ? (
+            <a href={m.href} target="_blank" rel="noreferrer">{m.value}</a>
+          ) : (
+            <span>{m.value}</span>
+          )}
+        </div>
+      ))}
+    </section>
+
+    <div class="detail-actions">
+      <a class="btn btn-primary" href={repoUrl} target="_blank" rel="noreferrer">在 GitHub 查看 ↗</a>
+      <a class="btn" href="/submit">收录类似项目</a>
+    </div>
+  </article>
+</Base>

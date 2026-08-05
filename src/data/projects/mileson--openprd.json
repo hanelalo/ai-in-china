@@ -1,0 +1,27 @@
+{
+  "repo": "mileson/openprd",
+  "category": "harness",
+  "summary": "面向 Vibe Coding 的能力增强型协作 harness 框架，让 AI 编码过程可审查、可学习、可进化",
+  "description": "面向 Vibe Coding 的能力增强型协作框架（Harness），让 Vibe Coding 看得见，可审查、可学习、可进化。",
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "context-engineering",
+    "engineering",
+    "human-in-the-loop",
+    "planning",
+    "prd",
+    "spec",
+    "spec-driven-development",
+    "specification",
+    "vibe-coding",
+    "workflow-automation"
+  ],
+  "stars": 49,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

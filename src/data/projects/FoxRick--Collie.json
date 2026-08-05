@@ -1,0 +1,21 @@
+{
+  "repo": "FoxRick/Collie",
+  "category": "ui",
+  "summary": "面向 Windows 的本地优先、聊天优先的 AI 助手。",
+  "description": "Local-first, chat-first AI assistant for Windows.",
+  "language": "Python",
+  "topics": [
+    "ai-assistant",
+    "electron",
+    "local-first",
+    "python",
+    "windows"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "ZMGID/kivio",
+  "category": "ui",
+  "summary": "基于 Tauri 的 macOS/Windows 桌面级 AI 助手，支持屏幕取词、截图 OCR、视觉问答，多模型 API Key 管理。",
+  "description": null,
+  "language": "Rust",
+  "topics": [],
+  "stars": 475,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

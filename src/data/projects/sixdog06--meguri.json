@@ -1,0 +1,15 @@
+{
+  "repo": "sixdog06/meguri",
+  "category": "agent",
+  "summary": "对话式圣地巡礼行程规划 Web agent（FastAPI + Vue3 + OpenTripPlanner + pgvector）",
+  "description": "圣地巡礼行程规划 Agent — 对话式 Web 应用（FastAPI + Vue3 + OpenTripPlanner + pgvector）",
+  "language": "Python",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

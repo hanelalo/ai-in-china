@@ -1,0 +1,31 @@
+{
+  "repo": "peisp/catdb",
+  "category": "ui",
+  "summary": "基于 Wails v3 (Go + Vue 3) 的跨平台数据库客户端桌面应用",
+  "description": "Cross-platform database client based on Wails3 (Go + Vue 3 + WebView). 基于 Wails v3（Go + Vue 3 + WebView）的跨平台数据库客户端。",
+  "language": "Go",
+  "topics": [
+    "cross-platform",
+    "database",
+    "database-client",
+    "dbeaver-alternative",
+    "desktop-app",
+    "golang",
+    "gui",
+    "mysql",
+    "navicat-alternative",
+    "tableplus-alternative",
+    "typescript",
+    "vue3",
+    "wails",
+    "wails-v3",
+    "wails3"
+  ],
+  "stars": 28,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

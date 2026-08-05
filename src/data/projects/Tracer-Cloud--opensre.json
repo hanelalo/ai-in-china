@@ -1,0 +1,27 @@
+{
+  "repo": "Tracer-Cloud/opensre",
+  "category": "agent",
+  "summary": "面向 AI 时代的开源 SRE Agent 工具包：告警、值班、根因分析与自愈。",
+  "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+  "language": "Python",
+  "topics": [
+    "ai-sre",
+    "alerting",
+    "datadog",
+    "grafana",
+    "incident-management",
+    "observability",
+    "remediation",
+    "root-cause-analysis",
+    "site-reliability-engineering",
+    "slack",
+    "sre"
+  ],
+  "stars": 10011,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

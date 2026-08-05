@@ -1,0 +1,29 @@
+{
+  "repo": "lora-sys/free-vision-skill",
+  "category": "skill",
+  "summary": "面向纯文本编程 agent 的低 token 视觉证据编译器，把图片压缩成 VEP 包喂给 DeepSeek/Codex/Claude Code",
+  "description": "A low-token visual evidence compiler for text-only coding agents. Convert images into compact Visual Evidence Packets (VEP) for DeepSeek, Codex, Claude Code, and other text-only models.",
+  "language": "TypeScript",
+  "topics": [
+    "agent-skill",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "deepseek",
+    "image-analysis",
+    "low-token",
+    "multimodal",
+    "ocr",
+    "opencode",
+    "vep",
+    "vision",
+    "visual-evidence"
+  ],
+  "stars": 9,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

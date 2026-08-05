@@ -1,0 +1,15 @@
+{
+  "repo": "hangwin/mcp-chrome",
+  "category": "mcp",
+  "summary": "基于 Chrome 扩展的 MCP server，把浏览器自动化、内容分析与语义搜索开放给 Claude 等 AI。",
+  "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 12262,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "Mashiro2000/We0Code",
+  "category": "ui",
+  "summary": "面向编码 Agent 的终端 TUI 界面。",
+  "description": "We0Code is a code agent TUI.",
+  "language": "Python",
+  "topics": [],
+  "stars": 3,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

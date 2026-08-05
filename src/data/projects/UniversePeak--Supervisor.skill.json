@@ -1,0 +1,26 @@
+{
+  "repo": "UniversePeak/Supervisor.skill",
+  "category": "skill",
+  "summary": "扮演「导师」角色的 Agent skill，让导师角色在 Agent 流程中再次伟大。",
+  "description": "导师skill，让导师再次伟大！Make Supervisor Great Again！Inspired by colleague-skill（同事skill）and ex-skill (前任skill)",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai-skill",
+    "ai-skills",
+    "automation",
+    "mentor",
+    "mentor-skill",
+    "skill",
+    "skill-engine",
+    "skills",
+    "supervisor-skill"
+  ],
+  "stars": 43,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,20 @@
+{
+  "repo": "MoFox-Studio/Neo-MoFox",
+  "category": "harness",
+  "summary": "全新重构的 AI 聊天机器人框架，目标是打造具备人格的「数字生命体」。",
+  "description": "一个全新重构的 AI 聊天机器人框架，它的目标不仅仅是回答问题，而是创造一个真正的数字生命体。",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "bot",
+    "chatbot"
+  ],
+  "stars": 92,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

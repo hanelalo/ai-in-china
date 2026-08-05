@@ -1,0 +1,15 @@
+{
+  "repo": "uisee-ai/zaofu",
+  "category": "harness",
+  "summary": "开源编码 harness 平台，面向长程、多 agent 的软件交付场景",
+  "description": "An open-source Coding Harness Platform for long-horizon, multi-agent software delivery.",
+  "language": "Python",
+  "topics": [],
+  "stars": 22,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

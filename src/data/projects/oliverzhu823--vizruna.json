@@ -1,0 +1,22 @@
+{
+  "repo": "oliverzhu823/vizruna",
+  "category": "ui",
+  "summary": "为 Pi agent 量身打造的本地优先可视化桌面工作区（Electron 实现）",
+  "description": "A visible, controllable, local-first desktop workspace for Pi-powered AI agents.",
+  "language": "TypeScript",
+  "topics": [
+    "ai-agent",
+    "desktop-app",
+    "electron",
+    "local-first",
+    "pi-agent",
+    "typescript"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

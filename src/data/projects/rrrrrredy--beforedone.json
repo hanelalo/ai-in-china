@@ -1,0 +1,26 @@
+{
+  "repo": "rrrrrredy/beforedone",
+  "category": "eval",
+  "summary": "要求 coding agent 提交完成声明前必须提供新鲜、文件级验证证据的 CLI（Go 实现）",
+  "description": "Require fresh, file-bound verification evidence before coding agents declare completion.",
+  "language": "Go",
+  "topics": [
+    "agent-reliability",
+    "ai-agents",
+    "cli",
+    "codex",
+    "coding-agent",
+    "developer-tools",
+    "go",
+    "observability",
+    "open-source",
+    "verification"
+  ],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

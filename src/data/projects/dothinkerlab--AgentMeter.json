@@ -1,0 +1,15 @@
+{
+  "repo": "dothinkerlab/AgentMeter",
+  "category": "ui",
+  "summary": "监测多个 AI 账号配额状态的桌面应用。",
+  "description": "AI quota status under your watch.",
+  "language": "Swift",
+  "topics": [],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

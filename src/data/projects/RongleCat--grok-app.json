@@ -1,0 +1,15 @@
+{
+  "repo": "RongleCat/grok-app",
+  "category": "ui",
+  "summary": "Grok Build CLI 的桌面工作台（Tauri 2，非官方）。",
+  "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 520,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

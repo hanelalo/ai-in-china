@@ -1,0 +1,23 @@
+{
+  "repo": "zqiren/Orbital",
+  "category": "orchestrator",
+  "summary": "项目级 agent：让每个 agent 的工作在你的本地项目中持续累积，支持 ACP、Claude Code",
+  "description": "The Project Agent: Where every agent's work compounds in your local project",
+  "language": "Python",
+  "topics": [
+    "acp",
+    "agent-management",
+    "ai-agent",
+    "autonomous-agents",
+    "claude-code",
+    "open-source",
+    "sandbox"
+  ],
+  "stars": 134,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

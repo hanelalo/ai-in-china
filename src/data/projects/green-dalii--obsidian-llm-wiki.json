@@ -1,0 +1,28 @@
+{
+  "repo": "green-dalii/obsidian-llm-wiki",
+  "category": "skill",
+  "summary": "Obsidian 的 Karpathy LLM Wiki 实现插件：把笔记与 PDF 变成带实体/概念页与图谱问答的知识库。",
+  "description": "Karpathy's LLM Wiki implementation plugin for Obsidian - turns notes and PDFs into a linked, LLM-powered knowledge base with entity pages, concept pages, graph-powered Q&A, and local-first privacy.",
+  "language": "TypeScript",
+  "topics": [
+    "graph-algorithms",
+    "karpathy",
+    "knowledge-graph",
+    "knowledge-management",
+    "llm-wiki",
+    "markdown",
+    "note-taking",
+    "obsidian",
+    "obsidian-plugins",
+    "pdf",
+    "pdf-processing",
+    "privacy-first"
+  ],
+  "stars": 414,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

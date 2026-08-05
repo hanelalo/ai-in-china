@@ -1,0 +1,15 @@
+{
+  "repo": "billion-token-one-task/Codex_testing_bench",
+  "category": "eval",
+  "summary": "对 Codex harness 模式进行系统化调研与测试结论沉淀的实验台。",
+  "description": "systematic investigations and research conclusions into the harness patterns of Codex",
+  "language": "Rust",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

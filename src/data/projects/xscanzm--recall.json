@@ -1,0 +1,22 @@
+{
+  "repo": "xscanzm/recall",
+  "category": "ui",
+  "summary": "回声 Recall：主动型桌面上下文记忆助理（Electron）",
+  "description": "回声 Recall - 主动型桌面上下文记忆助理",
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "desktop",
+    "electron",
+    "memory",
+    "open-source",
+    "productivity"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

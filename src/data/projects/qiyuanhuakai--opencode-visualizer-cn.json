@@ -1,0 +1,19 @@
+{
+  "repo": "qiyuanhuakai/opencode-visualizer-cn",
+  "category": "ui",
+  "summary": "OpenCode 的中文本地化第三方 WebUI/桌面 GUI（基于 Vis）",
+  "description": "OpenCode Visualizer.An enhanced Chinese-localized third-party webui/desktop GUI for OpenCode, based on Vis and independently maintained.   OpenCode可视化工具。OpenCode 的增强版中文本地化第三方 webui/桌面GUI，基于 Vis 并独立维护。",
+  "language": "TypeScript",
+  "topics": [
+    "desktop",
+    "opencode",
+    "webui"
+  ],
+  "stars": 14,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

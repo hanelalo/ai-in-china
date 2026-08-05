@@ -1,0 +1,15 @@
+{
+  "repo": "simba119/janus-rag",
+  "category": "infra",
+  "summary": "基于博查 API 的低成本高精度 RAG 搜索方案",
+  "description": "低成本高精度 RAG 搜索方案 - 基于博查 API",
+  "language": "Python",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

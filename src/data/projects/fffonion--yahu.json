@@ -1,0 +1,15 @@
+{
+  "repo": "fffonion/yahu",
+  "category": "ui",
+  "summary": "Yet Another Hermes UI：Hermes Agent 的另一种前端实现。",
+  "description": "Yet Another Hermes UI",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 16,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "heimoshuiyu/opencode",
+  "category": "harness",
+  "summary": "开源编码 agent 的独立实现。",
+  "description": "The open source coding agent.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 6,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

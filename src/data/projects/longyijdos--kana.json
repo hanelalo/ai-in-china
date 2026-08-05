@@ -1,0 +1,32 @@
+{
+  "repo": "longyijdos/kana",
+  "category": "harness",
+  "summary": "本地优先的终端 AI agent：自研精简运行时、TUI、MCP/OAuth 栈、provider 流式与持久会话。",
+  "description": "Local-first terminal AI agent with a lean, in-house runtime, TUI, MCP/OAuth stack, provider streaming, and durable sessions.",
+  "language": "TypeScript",
+  "topics": [
+    "ai-agent",
+    "bun",
+    "cli",
+    "coding-assistant",
+    "deepseek",
+    "from-scratch",
+    "headless",
+    "local-first",
+    "minimal-dependencies",
+    "model-context-protocol",
+    "oauth2",
+    "openai-codex",
+    "terminal-agent",
+    "tool-calling",
+    "tui",
+    "typescript"
+  ],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

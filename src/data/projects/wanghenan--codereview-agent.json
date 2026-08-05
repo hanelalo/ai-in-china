@@ -1,0 +1,15 @@
+{
+  "repo": "wanghenan/codereview-agent",
+  "category": "agent",
+  "summary": "基于 LangChain + LangGraph 的 AI 代码评审 agent",
+  "description": "AI-powered CodeReview Agent with LangChain + LangGraph",
+  "language": "Python",
+  "topics": [],
+  "stars": 5,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "fengjunhui31/building-autonomous-team",
+  "category": "orchestrator",
+  "summary": "Claude Code 插件：从单条指令自动构建出任务驱动的自主开发团队。",
+  "description": "A Claude Code plugin that creates mission-driven autonomous development teams",
+  "language": "Shell",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

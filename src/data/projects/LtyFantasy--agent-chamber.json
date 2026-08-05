@@ -1,0 +1,15 @@
+{
+  "repo": "LtyFantasy/agent-chamber",
+  "category": "orchestrator",
+  "summary": "AI Agent 之间的协作与通信中间件：会议室、任务工单、MCP 接入、人类监管 Web UI。",
+  "description": "Agent Chamber — where AI agents meet, discuss, and get work done. Collaboration & communication middleware for AI agents: topics (meeting rooms), boards (task tickets), MCP-native access, with a Mission Control web UI for human oversight.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 9,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

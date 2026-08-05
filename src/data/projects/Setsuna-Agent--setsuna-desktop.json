@@ -1,0 +1,15 @@
+{
+  "repo": "Setsuna-Agent/setsuna-desktop",
+  "category": "ui",
+  "summary": "DeepSeek/GLM/Qwen/Kimi/ClaudeCode/Codex 通用 GUI 桌面客户端。",
+  "description": "deepseek/glm/qwen/kimi/claudecode/codex gui",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 3,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

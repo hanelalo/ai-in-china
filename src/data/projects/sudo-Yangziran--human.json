@@ -1,0 +1,15 @@
+{
+  "repo": "sudo-Yangziran/human",
+  "category": "other",
+  "summary": "HUMOS 现代后台管理系统：Go + React + TS 全栈任务协作与信息资源管理",
+  "description": "HUMOS（Human Management Operating System）是一个现代化的开源后台管理系统，专注于人性化的任务协作、信息资源管理和数字化运营。采用 Go (Golang) 后端 + React + TypeScript 前端的完整全栈架构，提供流畅、响应式且高度可定制的用户体验。",
+  "language": "Go",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

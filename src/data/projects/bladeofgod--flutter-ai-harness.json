@@ -1,0 +1,15 @@
+{
+  "repo": "bladeofgod/flutter-ai-harness",
+  "category": "harness",
+  "summary": "面向生产级 Flutter 与混合移动端工程的 AI-native 工程化 harness。",
+  "description": "An AI-native engineering harness for production Flutter and hybrid mobile app  repositories.",
+  "language": "Dart",
+  "topics": [],
+  "stars": 23,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

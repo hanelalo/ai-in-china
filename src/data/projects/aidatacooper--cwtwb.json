@@ -1,0 +1,15 @@
+{
+  "repo": "aidatacooper/cwtwb",
+  "category": "agent",
+  "summary": "基于 Python 的 Text-to-Tableau 引擎，把自然语言转为 twb 仪表盘。",
+  "description": "A Python-based engine that enables Text-to-Tableau twb dashboards generation.",
+  "language": "Python",
+  "topics": [],
+  "stars": 40,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

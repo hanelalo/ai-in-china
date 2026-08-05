@@ -1,0 +1,15 @@
+{
+  "repo": "seek-hope/pi-ex",
+  "category": "harness",
+  "summary": "AI agent 工具包：统一 LLM API、agent 循环、TUI 与编码 agent CLI",
+  "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

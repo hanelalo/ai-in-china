@@ -1,0 +1,21 @@
+{
+  "repo": "coding-chimera/chimera",
+  "category": "harness",
+  "summary": "内置 CodeGraph 影响分析与传播审计的 AI 编程 agent CLI，针对 Kimi/DeepSeek 适配。",
+  "description": "AI coding agent CLI with built-in CodeGraph-powered impact analysis and propagation audit, harness tooling, native-agent experience, and tailored adapters for Kimi and DeepSeek.",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "ai-coding-agent",
+    "harness-engineering",
+    "opencode",
+    "propagation-audit"
+  ],
+  "stars": 3,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

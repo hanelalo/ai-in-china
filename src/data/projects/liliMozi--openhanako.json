@@ -1,0 +1,15 @@
+{
+  "repo": "liliMozi/openhanako",
+  "category": "agent",
+  "summary": "具备记忆、人格与自主性的个人 AI agent。",
+  "description": "A personal AI agent with memory, personality, and autonomy.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 5813,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "rust-infra/tact",
+  "category": "other",
+  "summary": "Rust 基础设施项目（描述缺失，需查具体功能）",
+  "description": null,
+  "language": "Rust",
+  "topics": [],
+  "stars": 10,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

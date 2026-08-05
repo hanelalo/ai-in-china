@@ -1,0 +1,25 @@
+{
+  "repo": "hxs996-beep/deepAct",
+  "category": "harness",
+  "summary": "CLI 编程 agent：每一步动作都有歧义检查、设计评审与范围控制护栏。",
+  "description": "CLI coding agent that guards every action: ambiguity check,   design review, scope control.",
+  "language": "Go",
+  "topics": [
+    "ai-coding-assistant",
+    "code-agent",
+    "code-agent-harness",
+    "deepseek-harness",
+    "deepseek-tui",
+    "deepseek-v4",
+    "golang",
+    "harness",
+    "vibecoding"
+  ],
+  "stars": 7,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

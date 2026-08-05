@@ -1,0 +1,15 @@
+{
+  "repo": "FriendsHL/skillforge",
+  "category": "harness",
+  "summary": "开源生产级 Java Agent Harness，含 Agent Loop、Tool/Skill/MCP、上下文、多 Agent 编排、Eval、自进化等。",
+  "description": "开源生产级 Java Agent Harness：Agent Loop、Tool/Skill/MCP、上下文与 Memory、多 Agent 编排、Eval、自进化及多渠道接入",
+  "language": "Java",
+  "topics": [],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

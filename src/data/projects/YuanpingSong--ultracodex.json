@@ -1,0 +1,29 @@
+{
+  "repo": "YuanpingSong/ultracodex",
+  "category": "harness",
+  "summary": "把 Claude Code 工作流脚本无缝跑在 OpenAI Codex CLI 上：fable 规划、codex 执行、验证回环的并行 agent 集群。",
+  "description": "Run Claude Code workflow scripts, unmodified, on the OpenAI Codex CLI — fable plans, codex executes, fable verifies. Parallel agent fleets, builder–verifier loops, token budgets, full-screen TUI.",
+  "language": "TypeScript",
+  "topics": [
+    "agent-orchestration",
+    "ai-agents",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "codex",
+    "llm",
+    "multi-agent",
+    "openai",
+    "tui",
+    "typescrip-",
+    "ultracode",
+    "workflow-engine"
+  ],
+  "stars": 65,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

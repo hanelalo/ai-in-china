@@ -1,0 +1,22 @@
+{
+  "repo": "wenjinnn/.dotfiles",
+  "category": "other",
+  "summary": "个人 NixOS 配置与相关 dotfiles 集合",
+  "description": "Personal NixOS configurations and more",
+  "language": "Nix",
+  "topics": [
+    "dotfiles",
+    "flake",
+    "lua",
+    "neovim",
+    "nix",
+    "nixos"
+  ],
+  "stars": 115,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

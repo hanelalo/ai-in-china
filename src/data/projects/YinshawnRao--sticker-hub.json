@@ -1,0 +1,15 @@
+{
+  "repo": "YinshawnRao/sticker-hub",
+  "category": "skill",
+  "summary": "制作微信表情包的工作流，产物符合表情包开放平台规范，可直接上传。",
+  "description": "一套制作微信表情包的工作流，可生成符合表情包开放平台规范的全套产物，直接用于上传",
+  "language": null,
+  "topics": [],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

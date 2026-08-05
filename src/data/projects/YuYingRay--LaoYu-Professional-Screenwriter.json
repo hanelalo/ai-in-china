@@ -1,0 +1,15 @@
+{
+  "repo": "YuYingRay/LaoYu-Professional-Screenwriter",
+  "category": "skill",
+  "summary": "面向 Claude Code 的专业编剧技能，提供从故事设计到产出交付的完整工作流。",
+  "description": "Professional screenwriting skill with first-principles story design, adversarial review, traceable project control, and production handoff.",
+  "language": "Python",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

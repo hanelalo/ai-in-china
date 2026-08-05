@@ -1,0 +1,28 @@
+{
+  "repo": "openxlings/xlings",
+  "category": "infra",
+  "summary": "通用包管理基础设施，类 OS 的 SubOS 隔离、多版本无 root、面向 agent 的去中心化索引",
+  "description": "Universal package infrastructure with OS-like SubOS isolation - Multi-version · Rootless · Decentralized Index · Agent-ready.",
+  "language": "C++",
+  "topics": [
+    "ai",
+    "auto-configuration",
+    "auto-detect",
+    "d2x",
+    "demos",
+    "installer",
+    "llm-application",
+    "package-manager",
+    "project-management",
+    "tools",
+    "version-manager",
+    "xlings"
+  ],
+  "stars": 599,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,27 @@
+{
+  "repo": "lora-sys/ai-engineering-harness",
+  "category": "harness",
+  "summary": "AI 原生软件工程 harness：18 个 agent、9 套工作流，从 Issue 到 Merge 的闭环工程框架",
+  "description": "AI-native software engineering harness — 18 agents, 9 workflows, one closed loop: Issue → Worktree → Plan → Build → Review → Evidence → Merge → Memory.",
+  "language": "Shell",
+  "topics": [
+    "adr",
+    "ai-agents",
+    "ai-engineering",
+    "code-review",
+    "context-control",
+    "evidence",
+    "multi-agent",
+    "mvp",
+    "pr-review",
+    "skills",
+    "workflow"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

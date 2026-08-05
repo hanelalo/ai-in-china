@@ -1,0 +1,26 @@
+{
+  "repo": "ale-160/web-text",
+  "category": "content",
+  "summary": "基于 CodeMirror 的在线 Markdown/纯文本编辑器，本地存储实时预览。",
+  "description": "在线编辑器(web-text)",
+  "language": "TypeScript",
+  "topics": [
+    "codemirror",
+    "live-preview",
+    "local-storage",
+    "markdown",
+    "markdown-editor",
+    "nextjs",
+    "react",
+    "typescript",
+    "web",
+    "web-editor"
+  ],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

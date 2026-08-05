@@ -1,0 +1,15 @@
+{
+  "repo": "YinshawnRao/cc-media",
+  "category": "skill",
+  "summary": "基于 Claude Code 剪辑音乐类盘点视频的稳定工作流。",
+  "description": "一套基于ClaudeCode剪辑音乐类盘点视频的稳定工作流。",
+  "language": "Python",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

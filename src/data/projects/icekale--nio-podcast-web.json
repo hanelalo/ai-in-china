@@ -1,0 +1,22 @@
+{
+  "repo": "icekale/nio-podcast-web",
+  "category": "content",
+  "summary": "NIO 播客 PWA，支持每日更新、播放进度与稍后播放。",
+  "description": "面向手机与电脑浏览器的 NIO 播客 PWA，支持每日更新、播放进度、最近听过和稍后播放。",
+  "language": "JavaScript",
+  "topics": [
+    "github-pages",
+    "nio",
+    "podcast",
+    "pwa",
+    "react",
+    "vite"
+  ],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

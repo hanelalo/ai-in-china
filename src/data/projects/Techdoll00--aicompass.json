@@ -1,0 +1,23 @@
+{
+  "repo": "Techdoll00/aicompass",
+  "category": "agent",
+  "summary": "面向大学生的 AI 双语学习搜索工具，基于 Morphic 构建，主打速学与深研。",
+  "description": "AI-powered bilingual learning search for college students — built on Morphic, 速学+深研",
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "education",
+    "generative-ui",
+    "learning",
+    "morphic",
+    "nextjs",
+    "search"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

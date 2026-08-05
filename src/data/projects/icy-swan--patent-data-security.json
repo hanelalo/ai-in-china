@@ -1,0 +1,15 @@
+{
+  "repo": "icy-swan/patent-data-security",
+  "category": "other",
+  "summary": "数据安全专利识别相关的小工具。",
+  "description": "identify data security patent",
+  "language": "Python",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

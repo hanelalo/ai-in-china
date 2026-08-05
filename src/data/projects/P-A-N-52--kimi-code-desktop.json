@@ -1,0 +1,15 @@
+{
+  "repo": "P-A-N-52/kimi-code-desktop",
+  "category": "ui",
+  "summary": "Kimi CLI 的 Windows 桌面外壳。",
+  "description": "Windows desktop shell for the Kimi CLI runtime.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 34,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

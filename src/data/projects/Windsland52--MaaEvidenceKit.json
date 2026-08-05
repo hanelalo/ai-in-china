@@ -1,0 +1,17 @@
+{
+  "repo": "Windsland52/MaaEvidenceKit",
+  "category": "skill",
+  "summary": "MaaFramework 的确定性证据提取与诊断辅助工具包。",
+  "description": "面向 MaaFramework 的确定性证据提取与诊断辅助工具包 | A deterministic evidence extraction and diagnostic toolkit for MaaFramework.",
+  "language": "TypeScript",
+  "topics": [
+    "maafw"
+  ],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

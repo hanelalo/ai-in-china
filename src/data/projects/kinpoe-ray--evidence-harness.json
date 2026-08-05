@@ -1,0 +1,23 @@
+{
+  "repo": "kinpoe-ray/evidence-harness",
+  "category": "infra",
+  "summary": "证据优先的 TypeScript 内核：把 agent 执行约束在策略门控与可验证边界内。",
+  "description": "Evidence-first TypeScript kernel for bounded, policy-gated, verifiable agent execution.",
+  "language": "TypeScript",
+  "topics": [
+    "agent-harness",
+    "agentic-ai",
+    "ai-agents",
+    "bun",
+    "evidence",
+    "nodejs",
+    "typescript"
+  ],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

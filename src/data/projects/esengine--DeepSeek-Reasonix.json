@@ -1,0 +1,32 @@
+{
+  "repo": "esengine/DeepSeek-Reasonix",
+  "category": "harness",
+  "summary": "为 DeepSeek 量身打造的终端 AI 编程 agent，围绕 prefix-cache 稳定性优化可常驻运行。",
+  "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+  "language": "Go",
+  "topics": [
+    "agent",
+    "agent-framework",
+    "ai-agent",
+    "ai-coding",
+    "cli",
+    "coding-agent",
+    "deepseek",
+    "developer-tools",
+    "ink",
+    "llm",
+    "prompt-caching",
+    "r1",
+    "terminal",
+    "tool-use",
+    "tui",
+    "typescript"
+  ],
+  "stars": 31142,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

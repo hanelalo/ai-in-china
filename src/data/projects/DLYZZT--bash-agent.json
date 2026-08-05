@@ -1,0 +1,15 @@
+{
+  "repo": "DLYZZT/bash-agent",
+  "category": "agent",
+  "summary": "智能 Bash 命令执行代理。",
+  "description": "Bash Agent - Intelligent Command Execution Agent.",
+  "language": "Python",
+  "topics": [],
+  "stars": 13,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

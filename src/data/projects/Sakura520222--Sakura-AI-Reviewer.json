@@ -1,0 +1,15 @@
+{
+  "repo": "Sakura520222/Sakura-AI-Reviewer",
+  "category": "agent",
+  "summary": "基于 AI 的智能 GitHub PR 审查与 Issue 分析机器人，能主动探索代码库。",
+  "description": "基于 AI 的智能 GitHub Pull Request 代码审查与 Issue 分析机器人，具备主动探索代码库的能力",
+  "language": "Python",
+  "topics": [],
+  "stars": 21,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

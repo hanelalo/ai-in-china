@@ -1,0 +1,15 @@
+{
+  "repo": "AX1202/pi-feishu-lark",
+  "category": "mcp",
+  "summary": "把飞书/Lark 消息桥接到 pi coding agent，实现远程对话。",
+  "description": "飞书/lark 超快速机器人连接至pi agent 扩展！随时随地远程与 pi agent 对话。",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 18,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

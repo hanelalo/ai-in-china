@@ -1,0 +1,15 @@
+{
+  "repo": "rocky2431/ultra-builder-pro",
+  "category": "harness",
+  "summary": "面向 Claude Code 的生产级 AI 驱动开发系统",
+  "description": "Production-Grade AI-Powered Development System for Claude Code",
+  "language": "Python",
+  "topics": [],
+  "stars": 11,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

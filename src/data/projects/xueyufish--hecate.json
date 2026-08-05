@@ -1,0 +1,31 @@
+{
+  "repo": "xueyufish/hecate",
+  "category": "orchestrator",
+  "summary": "企业级多租户、模型无关、MCP-first 的 agent 平台",
+  "description": "Enterprise-grade, multi-tenant, model-agnostic, MCP-first Agent platform.",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "ai-agents",
+    "enterprise",
+    "llm",
+    "mcp",
+    "multi-agent",
+    "multi-tenant",
+    "orchestration",
+    "pregel",
+    "python",
+    "rag",
+    "self-hosted",
+    "workflow"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

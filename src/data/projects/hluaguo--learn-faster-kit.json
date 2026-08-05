@@ -1,0 +1,23 @@
+{
+  "repo": "hluaguo/learn-faster-kit",
+  "category": "skill",
+  "summary": "AI 学习教练：基于间隔重复原理，配合 Claude Code 提供个性化大纲与进度跟踪。",
+  "description": "AI-powered learning coach with spaced repetition with Claude Code - master any knowledge faster with personalized syllabi and progress tracking",
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "education",
+    "learning",
+    "productivity",
+    "python",
+    "spaced-repetition",
+    "study"
+  ],
+  "stars": 346,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

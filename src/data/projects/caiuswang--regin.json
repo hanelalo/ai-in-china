@@ -1,0 +1,18 @@
+{
+  "repo": "caiuswang/regin",
+  "category": "harness",
+  "summary": "Reg-in 自称'不是 agent 平台，而是 agent 周围的 harness 层'，聚焦 Claude Code 的工程层。",
+  "description": "regin is not an agent platform. It's the layer around an agent — the harness. ",
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "harness-engineering"
+  ],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

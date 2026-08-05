@@ -1,0 +1,20 @@
+{
+  "repo": "abcwyc/pi-agent-desktop",
+  "category": "ui",
+  "summary": "Pi：跨平台桌面 AI 编程 agent，零环境配置，开箱即用。",
+  "description": "Pi — A cross-platform AI coding agent, bringing the Claude Code experience to your desktop. No environment setup, no terminal commands. Download and start coding right away.",
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "desktop-app",
+    "pi"
+  ],
+  "stars": 20,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

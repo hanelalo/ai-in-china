@@ -1,0 +1,20 @@
+{
+  "repo": "rustscript-lang/rustscript",
+  "category": "other",
+  "summary": "RustScript DSL 与 VM 实现，一种嵌入式脚本语言",
+  "description": "RustScript implementation",
+  "language": "Rust",
+  "topics": [
+    "dsl",
+    "rust",
+    "rustscript",
+    "vm"
+  ],
+  "stars": 19,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

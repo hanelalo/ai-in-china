@@ -1,0 +1,28 @@
+{
+  "repo": "noumena-labs/Sipp",
+  "category": "infra",
+  "summary": "基于 Rust + C++ 的零依赖 WebGPU 推理运行时，浏览器内直接跑 GGUF 模型",
+  "description": "AI inference, packed simply. A blazing-fast, zero-dependency WebGPU runtime to run GGUF models directly in the browser. Features a symmetric API for seamless local execution and cloud provider routing. Built with Rust & C++.",
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "cpp",
+    "gguf",
+    "inference",
+    "llamacpp",
+    "llm",
+    "local-ai",
+    "rust",
+    "transfomersjs",
+    "wasm",
+    "webgpu",
+    "webllm"
+  ],
+  "stars": 104,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "omengye/deerflow-api",
+  "category": "harness",
+  "summary": "基于 deerflow 的轻量级 agent harness API 服务",
+  "description": "lite agent harness api server based on deerflow",
+  "language": "Python",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

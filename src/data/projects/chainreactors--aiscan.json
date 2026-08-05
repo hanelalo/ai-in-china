@@ -1,0 +1,21 @@
+{
+  "repo": "chainreactors/aiscan",
+  "category": "agent",
+  "summary": "类 pi 风格的 AI 网络安全 agent，单二进制提供渗透测试、红队、漏洞赏金工作流。",
+  "description": "AI-driven pi-like agent for cyber security — single binary for  pentest, red team, bug  bounty",
+  "language": "Go",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-pentesting",
+    "pentesting",
+    "redteam"
+  ],
+  "stars": 233,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

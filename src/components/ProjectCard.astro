@@ -1,0 +1,62 @@
+---
+import categories from '../data/categories.json';
+import { slugOf } from '../lib/projects.mjs';
+
+interface Props {
+  project: {
+    repo: string;
+    category: string;
+    summary: string;
+    language: string | null;
+    topics: string[];
+    platform: string[];
+    tags: string[];
+    stars: number;
+    addedAt: string;
+  };
+}
+
+const { project } = Astro.props;
+const category = categories.find((c) => c.id === project.category);
+const repoUrl = `https://github.com/${project.repo}`;
+const searchText = [
+  project.repo,
+  project.summary,
+  project.language,
+  ...(project.topics ?? []),
+  ...(project.platform ?? []),
+  ...(project.tags ?? []),
+]
+  .join(' ')
+  .toLowerCase();
+---
+
+<article
+  class="card"
+  data-card
+  data-category={project.category}
+  data-stars={project.stars}
+  data-added={project.addedAt}
+  data-name={project.repo.toLowerCase()}
+  data-search={searchText}
+>
+  <a class="card-main" href={`/projects/${slugOf(project)}/`}>
+    <div class="card-head">
+      <span class="badge">{category?.labelZh ?? project.category}</span>
+      <span class="stars">★ {project.stars}</span>
+    </div>
+    <h3 class="card-title">{project.repo}</h3>
+    <p class="card-summary">{project.summary}</p>
+    {(project.topics ?? []).length > 0 && (
+      <div class="chips">
+        {project.topics.slice(0, 4).map((t) => (
+          <span class="chip">{t}</span>
+        ))}
+      </div>
+    )}
+  </a>
+  <footer class="card-foot">
+    <span class="lang">{project.language ?? '—'}</span>
+    <a class="card-link" href={repoUrl} target="_blank" rel="noreferrer">GitHub ↗</a>
+  </footer>
+</article>

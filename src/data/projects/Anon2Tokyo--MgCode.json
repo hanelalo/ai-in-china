@@ -1,0 +1,15 @@
+{
+  "repo": "Anon2Tokyo/MgCode",
+  "category": "agent",
+  "summary": "用 Java 写的命令行编码代理（coding agent CLI）。",
+  "description": "a java coding agent cli....",
+  "language": "Java",
+  "topics": [],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

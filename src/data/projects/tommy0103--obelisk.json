@@ -1,0 +1,31 @@
+{
+  "repo": "tommy0103/obelisk",
+  "category": "infra",
+  "summary": "把 agent 所有历史会话、子 agent 与工作流变成可查询数据库的 CLI 工具",
+  "description": "Every past session, subagent, and workflow -- queryable by your agent, browsable by you",
+  "language": "JavaScript",
+  "topics": [
+    "agent",
+    "agent-sessions",
+    "ai-agent",
+    "ai-agent-tools",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agent-memory",
+    "developer-tools",
+    "infrastructure",
+    "kimi-code",
+    "memory",
+    "query",
+    "queryable-data",
+    "session-tracker"
+  ],
+  "stars": 296,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

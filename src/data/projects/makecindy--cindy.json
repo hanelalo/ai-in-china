@@ -1,0 +1,29 @@
+{
+  "repo": "makecindy/cindy",
+  "category": "ui",
+  "summary": "跨平台开源 AI agent 桌面客户端，开箱即用，支持 Claude Code/Codex 多端",
+  "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "ai-agent",
+    "ai-assistant",
+    "android",
+    "claude-code",
+    "codex",
+    "electron",
+    "ios",
+    "llm",
+    "macos",
+    "react-native",
+    "typescript",
+    "windows"
+  ],
+  "stars": 1770,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

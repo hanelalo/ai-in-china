@@ -1,0 +1,23 @@
+{
+  "repo": "solo-agent/solo",
+  "category": "orchestrator",
+  "summary": "人类与 AI agent 协作的工作空间：通过频道、任务与持久化工作区联动 Claude Code/Codex",
+  "description": "For human and AI agents to collaborate through channels, tasks, and persistent workspaces.",
+  "language": "Go",
+  "topics": [
+    "agent-workspace",
+    "ai-agents",
+    "ai-workspace",
+    "claude-code",
+    "codex",
+    "multi-agent",
+    "opencode"
+  ],
+  "stars": 553,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

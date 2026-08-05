@@ -1,0 +1,15 @@
+{
+  "repo": "hwei/unity-puer-exec",
+  "category": "infra",
+  "summary": "Unity 包与 CLI：用外部 CLI 驱动 Puerts 主机。",
+  "description": "Unity package and CLI for driving a Puerts host from an external CLI.",
+  "language": "Python",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

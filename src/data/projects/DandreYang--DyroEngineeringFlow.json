@@ -1,0 +1,30 @@
+{
+  "repo": "DandreYang/DyroEngineeringFlow",
+  "category": "orchestrator",
+  "summary": "面向多仓库团队的本地优先工程自动化与交付控制平台，串联 worktree、任务编排、Agent 启动、门禁与合并审计。",
+  "description": "DyroEngineeringFlow 是面向多仓团队的本地优先工程自动化与交付控制平台。它将开发线、Git worktree、任务编排、   Agent 启动、质量门禁、独立复核与合并审计统一到可版本化配置中，帮助团队从任务创建到交付合并形成清晰、安全、   可追溯的自动化流程。日常通过简洁命令 dyro 即可完成初始化、环境检查、任务执行与协作交付。",
+  "language": "Python",
+  "topics": [
+    "dyro",
+    "evidence",
+    "gates",
+    "git-merge",
+    "git-review",
+    "git-worktrees",
+    "graph-engineering",
+    "long-running-tasks",
+    "long-running-workflows",
+    "loop-engineering",
+    "multi-agent",
+    "multirepo",
+    "parallel-tasks",
+    "task-graph"
+  ],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

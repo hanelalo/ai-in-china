@@ -1,0 +1,15 @@
+{
+  "repo": "GMYXDS/AI-Markdown-Translator",
+  "category": "agent",
+  "summary": "基于 LLM 的现代化 Markdown 批量翻译工具，支持智能分片、并发、断点续传。",
+  "description": "一个基于 LLM (大语言模型) 的现代化 Markdown 批量翻译工具。专为翻译大型文档项目、博客和技术文档而设计。它具备智能分片、并发控制和断点续传功能，确保在大规模翻译任务中的稳定性和效率。",
+  "language": "Go",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

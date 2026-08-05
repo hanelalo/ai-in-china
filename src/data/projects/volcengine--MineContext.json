@@ -1,0 +1,30 @@
+{
+  "repo": "volcengine/MineContext",
+  "category": "agent",
+  "summary": "字节跳动开源的主动式上下文感知 AI 伙伴（Context-Engineering + ChatGPT Pulse 思路）",
+  "description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "context-engineering",
+    "electron",
+    "embedding-models",
+    "javascript",
+    "memory",
+    "proactive-ai",
+    "python",
+    "python3",
+    "rag",
+    "react",
+    "typescript",
+    "vector-database",
+    "vision-language-model"
+  ],
+  "stars": 5456,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

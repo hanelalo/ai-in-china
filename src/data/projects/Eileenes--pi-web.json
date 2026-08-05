@@ -1,0 +1,15 @@
+{
+  "repo": "Eileenes/pi-web",
+  "category": "ui",
+  "summary": "为 pi 编码代理提供 Web UI 界面。",
+  "description": "Web UI for the pi coding agent",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

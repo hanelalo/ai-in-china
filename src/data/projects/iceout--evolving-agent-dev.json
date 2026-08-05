@@ -1,0 +1,15 @@
+{
+  "repo": "iceout/evolving-agent-dev",
+  "category": "eval",
+  "summary": "在动手写 agent 前先把'agent 该如何行为'的迭代系统搭起来：真实使用→摩擦记录→根因→策略更新→评估验证。",
+  "description": null,
+  "language": "Python",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

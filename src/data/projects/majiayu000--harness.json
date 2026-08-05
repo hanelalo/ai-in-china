@@ -1,0 +1,26 @@
+{
+  "repo": "majiayu000/harness",
+  "category": "orchestrator",
+  "summary": "Rust 编写的多 agent 编排控制平面，支持 Claude Code 与 Codex 的并行舰队式调度、策略与可观测性",
+  "description": "Run fleets of parallel coding agents with governance — Rust control plane for Claude Code & Codex: orchestration, policy, cross-agent review, observability.",
+  "language": "Rust",
+  "topics": [
+    "ai-agent",
+    "ai-tools",
+    "cli",
+    "developer-tools",
+    "llm",
+    "observability",
+    "orchestration",
+    "rules-engine",
+    "rust",
+    "skills"
+  ],
+  "stars": 56,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

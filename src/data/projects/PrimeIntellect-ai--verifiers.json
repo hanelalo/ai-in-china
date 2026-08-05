@@ -1,0 +1,15 @@
+{
+  "repo": "PrimeIntellect-ai/verifiers",
+  "category": "eval",
+  "summary": "PrimeIntellect 出品的强化学习环境与评估库。",
+  "description": "Our library for RL environments + evals",
+  "language": "Python",
+  "topics": [],
+  "stars": 4431,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

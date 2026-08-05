@@ -1,0 +1,15 @@
+{
+  "repo": "Seekers2001/docs-governance",
+  "category": "skill",
+  "summary": "Claude Code 文档驱动开发治理插件：四件套防文档腐烂、分级读取、契约式前后端协作。",
+  "description": "Claude Code 插件：文档驱动开发治理——四件套防文档腐烂 + 分级读取省上下文 + 契约式前后端协作(CDC)。一个防文档漂移的插件，自己内部先不漂移。",
+  "language": "Python",
+  "topics": [],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

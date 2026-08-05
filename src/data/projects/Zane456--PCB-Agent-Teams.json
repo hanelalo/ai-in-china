@@ -1,0 +1,15 @@
+{
+  "repo": "Zane456/PCB-Agent-Teams",
+  "category": "agent",
+  "summary": "面向 KiCad 的多 Agent PCB 设计工作台，9 个技能驱动从拓扑讨论到 Gerber 出的阶段流水线。",
+  "description": "A multi-agent KiCad PCB design workspace: 9 skills driving a Phase 0-5 pipeline from topology discussion to Gerber shipout. Noncommercial.",
+  "language": "Python",
+  "topics": [],
+  "stars": 31,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

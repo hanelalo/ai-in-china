@@ -1,0 +1,33 @@
+{
+  "repo": "EverMind-AI/Raven",
+  "category": "harness",
+  "summary": "基于 EverOS 的「记忆优先、自进化」Agent Harness，集成 MiroThinker 深度研究能力。",
+  "description": "The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.",
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "codex",
+    "deep-research",
+    "deep-research-agent",
+    "evermind",
+    "hermes",
+    "hermes-agent",
+    "llm",
+    "openai",
+    "openclaw",
+    "openhuman",
+    "self-evolving",
+    "self-improving"
+  ],
+  "stars": 3510,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

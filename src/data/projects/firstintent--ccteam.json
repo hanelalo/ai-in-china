@@ -1,0 +1,20 @@
+{
+  "repo": "firstintent/ccteam",
+  "category": "orchestrator",
+  "summary": "把 Claude Code/Codex/Grok/Kimi 等编程 agent 编成一支跨厂商跨机器的团队，统一从 Telegram/飞书/网页调度。",
+  "description": "ccteam turns the coding agents you already run (Claude Code, Codex, Grok, Kimi…) into one team — any session can spawn, dispatch, and collect work from any vendor on any machine, while you steer it all from Telegram, Lark, or a browser tab. 把你在用的编程 agent 编成一支团队,跨厂商跨机器派活,Telegram/飞书/网页统一指挥。",
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "claude-code",
+    "codex",
+    "skill"
+  ],
+  "stars": 131,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "duh17/oppi",
+  "category": "ui",
+  "summary": "iPhone/iPad 客户端，把 Pi 编程会话的消息、工具调用与扩展 UI 投射到 iOS 上。",
+  "description": null,
+  "language": "Swift",
+  "topics": [],
+  "stars": 32,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

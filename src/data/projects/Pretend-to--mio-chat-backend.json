@@ -1,0 +1,26 @@
+{
+  "repo": "Pretend-to/mio-chat-backend",
+  "category": "harness",
+  "summary": "下一代 Agent OS：V3 Hook 架构、原生 MCP/Skills、PTY 沙箱、Puppeteer 自动化、上下文压缩、OneBot 桥接。",
+  "description": "🤖 Next-gen Agent OS: V3 Hook architecture, native MCP & Skills, real PTY sandbox (node-pty), Puppeteer automation, context compression (80% token reduction), and OneBot v11 bridging.",
+  "language": "JavaScript",
+  "topics": [
+    "agent-os",
+    "ai-agent",
+    "harness",
+    "mcp",
+    "onebot",
+    "openai",
+    "plugin",
+    "puppeteer",
+    "skills",
+    "sqlite"
+  ],
+  "stars": 37,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

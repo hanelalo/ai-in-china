@@ -1,0 +1,15 @@
+{
+  "repo": "zhoudongliang-lut/agent-runtime",
+  "category": "harness",
+  "summary": "基于 Claude Agent SDK 构建的轻量级 agent 运行时",
+  "description": "Lightweight Agent Runtime built on Claude Agent SDK",
+  "language": "Python",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,22 @@
+{
+  "repo": "aurochs-code/agentos",
+  "category": "orchestrator",
+  "summary": "macOS 本地优先的多 Agent 决策与编程工作台，把 Codex/Claude Code/Gemini CLI 变成可 @ 调用的角色。",
+  "description": "macOS 本地优先的多 Agent 决策与编程工作台 · agent harness / orchestrator + desktop UI：Codex / Kiro / Claude Code / Gemini CLI 作为可 @ 的参与者，有界协作协议 + 受控执行闭环。含产品/技术设计文档与完整可点击原型。",
+  "language": "CSS",
+  "topics": [
+    "agent-harness",
+    "coding-agent",
+    "macos",
+    "multi-agent",
+    "orchestrator",
+    "prototype"
+  ],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

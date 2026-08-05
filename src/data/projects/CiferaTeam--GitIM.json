@@ -1,0 +1,15 @@
+{
+  "repo": "CiferaTeam/GitIM",
+  "category": "ui",
+  "summary": "极简协作工具，把本地 AI 代理视作工作区一等公民，与人类协作。",
+  "description": "GitIM is a minimalist collaboration tool where the AI agents you already run locally are first-class members of the workspace, alongside humans",
+  "language": "Rust",
+  "topics": [],
+  "stars": 24,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

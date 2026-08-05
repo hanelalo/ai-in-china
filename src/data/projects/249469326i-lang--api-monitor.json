@@ -1,0 +1,29 @@
+{
+  "repo": "249469326i-lang/api-monitor",
+  "category": "infra",
+  "summary": "Windows 桌面端 LLM API 供应商监控工具：定时测速、故障切换、托盘常驻、DPAPI 密钥加密。",
+  "description": "Windows 桌面端 API 供应商监控工具：定时测速、故障切换、托盘常驻、DPAPI 密钥加密（单文件 exe，下载即用）",
+  "language": "Python",
+  "topics": [
+    "anthropic",
+    "api-monitor",
+    "api-monitoring",
+    "claude",
+    "desktop-app",
+    "dpapi",
+    "failover",
+    "latency-monitor",
+    "openai-compatible",
+    "python",
+    "pywebview",
+    "system-tray",
+    "windows"
+  ],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

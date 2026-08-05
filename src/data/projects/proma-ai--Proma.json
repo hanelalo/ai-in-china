@@ -1,0 +1,24 @@
+{
+  "repo": "proma-ai/Proma",
+  "category": "ui",
+  "summary": "通用 agent 工作流客户端，支持 Claude/Pi runtime、飞书群聊及任意 LLM 提供商",
+  "description": "Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era, it supports Claude and Pi runtimes, Feishu group chats, and any LLM provider.",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agent-sdk",
+    "agents",
+    "chatbot",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "llm"
+  ],
+  "stars": 1939,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "GodOnlyKn0w/mnema",
+  "category": "infra",
+  "summary": "面向人机/多 Agent 协同的「append-only 语义拓扑」记忆/结构层，强调坐标而非教程。",
+  "description": "Append-only semantic topology for durable human and multi-agent work — structure over sessions, coordinates not tutorials.",
+  "language": "Rust",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

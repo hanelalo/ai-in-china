@@ -1,0 +1,30 @@
+{
+  "repo": "eddyzzl/marvis-risk-agent",
+  "category": "agent",
+  "summary": "面向信贷风控全链路的多用途 agent：模型开发、验证、数据处理、特征工程、策略工作流。",
+  "description": "MARVIS-Agent: all-purpose credit risk agent for model development, validation, data processing, feature engineering, and strategy workflows.",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "credit",
+    "credit-risk",
+    "data-processing",
+    "feature-analysis",
+    "feature-engineering",
+    "model-development",
+    "model-validation",
+    "risk-control",
+    "risk-management",
+    "strategy-generation",
+    "strategy-validation"
+  ],
+  "stars": 516,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

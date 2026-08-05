@@ -1,0 +1,19 @@
+{
+  "repo": "Coooolfan/onlyboxes",
+  "category": "infra",
+  "summary": "面向个人/小团队的 MCP 代码执行沙箱平台。",
+  "description": "Code Execution Sandbox Platform Solution for Individuals and Small Teams with MCP",
+  "language": "Go",
+  "topics": [
+    "mcp",
+    "mcp-server",
+    "sandbox"
+  ],
+  "stars": 41,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,26 @@
+{
+  "repo": "simple-agent-lab/simple-long-horizon-agent",
+  "category": "harness",
+  "summary": "简单而有效的 AI agent，专为学习、实验与长程任务设计，定位 agent-harness",
+  "description": "Simple Long Horizon Agent - A simple yet effective AI agent for learning, experimentation, and long horizon work.",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agent-harness",
+    "harness",
+    "harness-engineering",
+    "llm",
+    "long-horizon",
+    "long-horizon-agents",
+    "python",
+    "swe-bench",
+    "terminal-bench"
+  ],
+  "stars": 97,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

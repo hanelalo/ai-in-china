@@ -1,0 +1,22 @@
+{
+  "repo": "amplifthq/opentag",
+  "category": "orchestrator",
+  "summary": "为 Slack/GitHub 提供的 @agent 路由，把 @提及请求分派到 Codex/Claude Code 并把结果回贴。",
+  "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+  "language": "TypeScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "codex",
+    "github",
+    "slack"
+  ],
+  "stars": 1379,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

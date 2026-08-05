@@ -1,0 +1,15 @@
+{
+  "repo": "Sma1lboy/kobe",
+  "category": "ui",
+  "summary": "面向编码 Agent 的终端 IDE：并行调度多 Agent，各自在独立 git worktree 中工作。",
+  "description": "The best terminal IDE for coding agents. kobe reimagines how you work with AI agents — fan out many in parallel, each isolated in its own git worktree, all from one screen. Engine-agnostic: Claude Code, Codex, and more.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 94,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "dyzsasd/dev-loop",
+  "category": "orchestrator",
+  "summary": "通过 Linear 协调 PM/QA/Dev 三类自主 agent 的 Claude Code 插件。",
+  "description": "Autonomous PM/QA/Dev agents coordinated via Linear (Claude Code plugin).",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

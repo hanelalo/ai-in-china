@@ -1,0 +1,15 @@
+{
+  "repo": "Caxson/proof-of-work",
+  "category": "skill",
+  "summary": "为 Claude Code 增加「自律工程师 + 持久自我」层，强调过程规范与可追溯。",
+  "description": "A disciplined-engineer + persistent-self layer for Claude Code",
+  "language": "Shell",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

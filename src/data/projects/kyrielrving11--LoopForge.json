@@ -1,0 +1,15 @@
+{
+  "repo": "kyrielrving11/LoopForge",
+  "category": "infra",
+  "summary": "Loop-Time Intelligence Layer：给 AI 编程 agent 提供每轮 prompt 编译器+结构化记忆+约束继承+漂移纠正。",
+  "description": "**Loop-Time Intelligence Layer** for AI coding agents. Per-iteration prompt compiler with structured memory, constraint inheritance, and drift correction — maintains cognitive stability across long-horizon agent loops.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,24 @@
+{
+  "repo": "aaravarr/claudex",
+  "category": "ui",
+  "summary": "手机端远程控制本地 Claude CLI，自托管，凭据与算力完全留在自有机器。",
+  "description": "Mobile-first remote control for Claude Code — drive your local claude CLI from your phone. Self-hosted, your keys, your machine.",
+  "language": "TypeScript",
+  "topics": [
+    "anthropic",
+    "claude",
+    "claude-code",
+    "mobile-first",
+    "react",
+    "remote-control",
+    "self-hosted",
+    "typescript"
+  ],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

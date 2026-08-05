@@ -1,0 +1,23 @@
+{
+  "repo": "Zleap-AI/Zleap-Agent",
+  "category": "harness",
+  "summary": "专为本地小参数模型打造的 Agent Harness，支持 Hermes Agent 等环境。",
+  "description": "Agent Harness developed specifically for local small-parameter models.",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agent-harness",
+    "hermes-agent",
+    "llm",
+    "nodejs",
+    "openclaw",
+    "zleap-agent"
+  ],
+  "stars": 207,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

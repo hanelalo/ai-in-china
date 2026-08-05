@@ -1,0 +1,30 @@
+{
+  "repo": "addsumtech/slides_maker",
+  "category": "agent",
+  "summary": "为 Codex/Claude Code 把论文、代码、文档一键变可原生编辑的 PPTX，内置图表公式、演讲备注与独立评审。",
+  "description": "Turn papers, code, and docs into presentation-ready, natively editable PPTX in Codex / Claude Code. Native charts and equations, speaker notes, click-build animations, and an independent critic review before delivery.",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "claude",
+    "claude-code",
+    "codex",
+    "powerpoint",
+    "ppt",
+    "pptx",
+    "presentation",
+    "presentation-generator",
+    "python",
+    "skill",
+    "slides"
+  ],
+  "stars": 368,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

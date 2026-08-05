@@ -1,0 +1,15 @@
+{
+  "repo": "GeniusHu-tgty/Open-tgtylab",
+  "category": "agent",
+  "summary": "集成逆向工程、CTF、移动安全、Web 安全于一体的安全研究工作台。",
+  "description": "安全研究工作台，集成逆向工程、CTF、移动安全、Web安全于一体",
+  "language": "Lua",
+  "topics": [],
+  "stars": 197,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "jsjm1986/AGIME",
+  "category": "harness",
+  "summary": "既可作本地 AI 助理也可通过 Team Server 升级为团队协作平台的 Agent 框架。",
+  "description": "AGIME 既可以作为本地 AI 助理使用，也可以通过 Team Server 升级为团队协作平台。 它适合文档处理、流程自动化、长期任务执行、对外服务发布，以及把传统软件通过 API 赋予 Agent 能力并形成跨软件协作。",
+  "language": "Rust",
+  "topics": [],
+  "stars": 7,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,26 @@
+{
+  "repo": "xingranya/GitHub-Stars-AI-Tools",
+  "category": "ui",
+  "summary": "本地优先的 GitHub Stars AI 桌面工具，可 AI 检索/解析已 Star 项目（Tauri + Rust）",
+  "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars.",
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "desktop-app",
+    "github-stars",
+    "knowledge-base",
+    "local-first",
+    "natural-language-search",
+    "react",
+    "rust",
+    "sqlite",
+    "tauri"
+  ],
+  "stars": 88,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

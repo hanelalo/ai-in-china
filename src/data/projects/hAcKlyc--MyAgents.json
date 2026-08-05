@@ -1,0 +1,23 @@
+{
+  "repo": "hAcKlyc/MyAgents",
+  "category": "ui",
+  "summary": "MyAgents：优雅易用的 Agent 一站式桌面工作台与任务中心。",
+  "description": "MyAgents - 优雅、易用的 Agent 桌面端 ，一站式 Agent 工作台与任务中心",
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "code-agent",
+    "desktop",
+    "manus",
+    "skills"
+  ],
+  "stars": 800,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

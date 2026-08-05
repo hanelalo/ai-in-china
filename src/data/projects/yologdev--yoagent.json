@@ -1,0 +1,31 @@
+{
+  "repo": "yologdev/yoagent",
+  "category": "harness",
+  "summary": "Rust 编写的 agent 循环框架：支持 7 种 LLM 协议流式输出与工具调用循环",
+  "description": "The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done.",
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "agent-framework",
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "coding-agent",
+    "gemini",
+    "llm",
+    "llm-agent",
+    "mcp",
+    "openai",
+    "rust",
+    "streaming",
+    "tool-calling"
+  ],
+  "stars": 173,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

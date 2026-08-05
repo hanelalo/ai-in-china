@@ -1,0 +1,15 @@
+{
+  "repo": "Hyp6666/PalmiAgent",
+  "category": "ui",
+  "summary": "iOS 平台上的多 LLM Agent App。",
+  "description": "An iOS Agent app for working with various LLMs.",
+  "language": "Swift",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

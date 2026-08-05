@@ -1,0 +1,23 @@
+{
+  "repo": "DerekYRC/mini-spring",
+  "category": "content",
+  "summary": "简化版 Spring 框架教学项目，用于学习 Spring 核心原理。",
+  "description": "mini-spring is a simplified version of the Spring framework that helps you quickly familiarize yourself with Spring source code and master Spring's core principles. It extracts Spring's core logic with extremely simplified code while preserving Spring's core functionality.",
+  "language": "Java",
+  "topics": [
+    "mini-spring",
+    "spring",
+    "spring-boot",
+    "spring-mvc",
+    "springboot",
+    "springframework",
+    "tiny-spring"
+  ],
+  "stars": 6372,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

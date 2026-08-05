@@ -1,0 +1,19 @@
+{
+  "repo": "simple-agent-lab/AutoTrainess",
+  "category": "eval",
+  "summary": "让语言模型自主改进语言模型的递归自我提升训练框架 AutoTrainess 论文实现",
+  "description": "Repo for \"AutoTrainess: Teaching Language Models to Improve Language Models Autonomously\"",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "recursive-self-improvement",
+    "self-improvement"
+  ],
+  "stars": 19,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

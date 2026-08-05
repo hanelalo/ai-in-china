@@ -1,0 +1,15 @@
+{
+  "repo": "citarreikee/visible_manus",
+  "category": "ui",
+  "summary": "可视化多 Agent 编排系统：在交互画布上实时观察 agent 的计划、执行与协作过程。",
+  "description": null,
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 112,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

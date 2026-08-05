@@ -1,0 +1,15 @@
+{
+  "repo": "lifuyue/issue-finder",
+  "category": "agent",
+  "summary": "面向使用编码 agent 开发者的本地优先 issue 交接准备工具。",
+  "description": "Local-first handoff prep for developers using coding agents.",
+  "language": "Rust",
+  "topics": [],
+  "stars": 140,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "pandarayc/ergate",
+  "category": "ui",
+  "summary": "支持 DeepSeek 的 TUI 终端 agent 客户端（Go 实现）",
+  "description": "目前是支持deepseek 的tui",
+  "language": "Go",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

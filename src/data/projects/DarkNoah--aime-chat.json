@@ -1,0 +1,27 @@
+{
+  "repo": "DarkNoah/aime-chat",
+  "category": "ui",
+  "summary": "基于 Electron+React+Mastra 的跨平台 AI 协同桌面客户端，支持多 LLM/RAG/MCP 工具。",
+  "description": "A cross-platform AI desktop chat cowork app supporting 10+ LLM providers, RAG knowledge base, and MCP tools. Built with Electron + React + Mastra.",
+  "language": "TypeScript",
+  "topics": [
+    "ai-agent",
+    "cowork",
+    "cross-platform",
+    "desktop-app",
+    "electron",
+    "mastra",
+    "ptc",
+    "shadcn-ui",
+    "skills",
+    "typescript",
+    "vercel-ai-sdk"
+  ],
+  "stars": 42,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

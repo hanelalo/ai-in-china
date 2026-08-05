@@ -1,0 +1,24 @@
+{
+  "repo": "VIONWILLIAMS/agent-os-harness",
+  "category": "harness",
+  "summary": "从 Agent OS 拆出的、面向 DeepSeek 的小型、证据优先的编码 Agent Harness。",
+  "description": "A small, DeepSeek-native, evidence-first coding agent harness extracted from Agent OS.",
+  "language": "TypeScript",
+  "topics": [
+    "agent-harness",
+    "bun",
+    "coding-agent",
+    "deepseek",
+    "evidence",
+    "local-first",
+    "tool-use",
+    "typescript"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,24 @@
+{
+  "repo": "huangruiteng/loopx",
+  "category": "infra",
+  "summary": "面向长跑 AI agent 团队的轻量 loop 工程状态内核：跨 Codex/Claude Code，含配额自醒与可验证交接。",
+  "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+  "language": "Python",
+  "topics": [
+    "agent-control-plane",
+    "agent-ops",
+    "ai-agents",
+    "codex",
+    "long-running-agents",
+    "loop-engineering",
+    "loopx",
+    "workflow-automation"
+  ],
+  "stars": 1689,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "qufei1993/skills-hub",
+  "category": "ui",
+  "summary": "跨平台桌面端 Agent Skills 管理器，一次安装同步到多 AI 编码工具全局目录",
+  "description": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.",
+  "language": "Rust",
+  "topics": [],
+  "stars": 1159,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

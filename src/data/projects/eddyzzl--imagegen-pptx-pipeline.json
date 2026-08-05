@@ -1,0 +1,22 @@
+{
+  "repo": "eddyzzl/imagegen-pptx-pipeline",
+  "category": "skill",
+  "summary": "Agent 技能：把 ImageGen 出图严格保真转成可编辑 PPTX。",
+  "description": "Agent skill for ImageGen-driven editable PowerPoint deck generation and strict slide-image-to-PPTX conversion",
+  "language": "Python",
+  "topics": [
+    "codex",
+    "imagegen",
+    "powerpoint",
+    "pptx",
+    "presentations",
+    "skill"
+  ],
+  "stars": 38,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

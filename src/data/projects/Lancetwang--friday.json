@@ -1,0 +1,15 @@
+{
+  "repo": "Lancetwang/friday",
+  "category": "agent",
+  "summary": "基于 agent-core-runtime 构建的个人 CLI 代理 Friday。",
+  "description": "Friday, a personal CLI agent built on agent-core-runtime.",
+  "language": "Python",
+  "topics": [],
+  "stars": 3,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

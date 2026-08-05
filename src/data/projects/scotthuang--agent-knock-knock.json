@@ -1,0 +1,29 @@
+{
+  "repo": "scotthuang/agent-knock-knock",
+  "category": "mcp",
+  "summary": "通过共享 tmux 终端在 OpenClaw 中控制本地 Codex/Claude Code，实现人 agent 无缝交接",
+  "description": "Control local Codex and Claude Code from OpenClaw through shared tmux terminals, with seamless human-agent handoff.",
+  "language": "TypeScript",
+  "topics": [
+    "agent-orchestration",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "human-in-the-loop",
+    "local-first",
+    "openclaw",
+    "openclaw-plugin",
+    "terminal-control",
+    "terminal-handoff",
+    "tmux",
+    "typescript"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

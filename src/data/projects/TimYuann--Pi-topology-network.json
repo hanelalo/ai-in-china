@@ -1,0 +1,15 @@
+{
+  "repo": "TimYuann/Pi-topology-network",
+  "category": "orchestrator",
+  "summary": "用「拓扑网络」方式组织 Agent 团队的协作框架（按命名推断）。",
+  "description": "A different approach to build teams.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

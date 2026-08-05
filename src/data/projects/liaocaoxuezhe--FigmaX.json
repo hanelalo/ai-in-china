@@ -1,0 +1,15 @@
+{
+  "repo": "liaocaoxuezhe/FigmaX",
+  "category": "skill",
+  "summary": "用 Codex/Claude Code 玩转 Figma 的最佳实践集合。",
+  "description": "Best practics of figam-use with Codex or ClaudeCode",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 7,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

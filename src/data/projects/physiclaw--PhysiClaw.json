@@ -1,0 +1,27 @@
+{
+  "repo": "physiclaw/PhysiClaw",
+  "category": "agent",
+  "summary": "面向真实世界交互的具身/电脑使用 AI agent，擅长 GUI 操作与手机、机器人控制",
+  "description": "The AI agent that interacts with you in the real world.",
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "ai-agent",
+    "computer-use",
+    "embodied-agent",
+    "embodied-ai",
+    "gui-agent",
+    "gui-agents",
+    "phone-automation",
+    "phone-use-agent",
+    "robot-arm",
+    "robotics"
+  ],
+  "stars": 294,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

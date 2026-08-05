@@ -1,0 +1,15 @@
+{
+  "repo": "putl-dream/ppt",
+  "category": "harness",
+  "summary": "面向演示文稿的 agent harness，本地优先桌面运行时统一管理 Skill、工具与 CommitGate 审批",
+  "description": "Agent PPT 是面向演示文稿的 agent harness：本地优先的桌面运行时为模型提供 workspace 事实、Skill 与工具，并把每一次真实改稿都送入 schema 校验、沙箱执行与 `CommitGate` 审批。Agent 负责产出可审阅的 SVG 页面与过程产物；harness 保证预览、放映与 PPTX 共用同一视觉事实源——模型可以设计，但不能静默改写你的稿件。",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

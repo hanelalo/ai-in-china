@@ -1,0 +1,28 @@
+{
+  "repo": "hypernewbie/phi",
+  "category": "ui",
+  "summary": "Φ phi：终端复用器 + 浏览器控制中心，统一管理 OpenCode/Claude Code/Antigravity/Pi Coder 等 AI 编程助手。",
+  "description": "Φ phi — a terminal multiplexer and browser-based control center for AI coding assistants (OpenCode, Claude Code, Antigravity, Pi Coder).",
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "antigravity",
+    "claude-code",
+    "coding-assistant",
+    "developer-tools",
+    "golang",
+    "multiplexer",
+    "opencode",
+    "pty",
+    "terminal",
+    "websocket",
+    "xterm-js"
+  ],
+  "stars": 7,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "fengjunhui31/bzzz",
+  "category": "orchestrator",
+  "summary": "面向 AI Agent 的声明式编排引擎。",
+  "description": "Declarative orchestration engine for AI Agents",
+  "language": "Rust",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

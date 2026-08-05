@@ -1,0 +1,13 @@
+[
+  { "id": "agent", "labelZh": "智能体", "description": "自主运行的智能体，通常面向具体任务" },
+  { "id": "harness", "labelZh": "Harness/框架", "description": "Agent 运行框架、CLI harness 与编码代理" },
+  { "id": "skill", "labelZh": "Skill/技能包", "description": "技能包、插件与扩展，为现有 agent 增加能力" },
+  { "id": "mcp", "labelZh": "MCP", "description": "MCP 服务器与模型上下文协议集成" },
+  { "id": "orchestrator", "labelZh": "编排器", "description": "多智能体编排与协作框架" },
+  { "id": "infra", "labelZh": "基础设施", "description": "API 网关、代理、监控与部署基础设施" },
+  { "id": "ui", "labelZh": "客户端/界面", "description": "桌面端、Web 端等客户端与界面" },
+  { "id": "eval", "labelZh": "评测", "description": "评测基准与测试工具" },
+  { "id": "content", "labelZh": "内容", "description": "内容站、文档与资料" },
+  { "id": "other", "labelZh": "其他", "description": "其他未分类项目" },
+  { "id": "unavailable", "labelZh": "不可访问", "description": "仓库暂不可访问或已删除" }
+]

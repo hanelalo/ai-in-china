@@ -1,0 +1,28 @@
+{
+  "repo": "basionwang-bot/HermesPet",
+  "category": "ui",
+  "summary": "刘海里的 Mac 桌面 AI 伴侣应用，多引擎并行、零依赖开箱即用。",
+  "description": "让 AI 住在你 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣（Swift 6 / SwiftUI / macOS 14+）",
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "chatgpt",
+    "chinese",
+    "claude",
+    "deepseek",
+    "desktop-app",
+    "dynamic-island",
+    "llm",
+    "macos",
+    "menu-bar-app",
+    "swift",
+    "swiftui"
+  ],
+  "stars": 595,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

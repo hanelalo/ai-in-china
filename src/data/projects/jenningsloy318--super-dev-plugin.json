@@ -1,0 +1,15 @@
+{
+  "repo": "jenningsloy318/super-dev-plugin",
+  "category": "skill",
+  "summary": "为 Claude Code/Codex/Gemini CLI 提供的组长驱动型开发工作流插件。",
+  "description": "Team-lead-driven development workflow plugin for Claude Code, OpenAI Codex, and Gemini CLI",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

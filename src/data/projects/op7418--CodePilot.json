@@ -1,0 +1,24 @@
+{
+  "repo": "op7418/CodePilot",
+  "category": "ui",
+  "summary": "Electron + Next.js 构建的多模型 AI agent 桌面客户端，支持 MCP 与 Skills 扩展并可手机远程控制",
+  "description": "A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.",
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "desktop-app",
+    "electron",
+    "gui",
+    "nextjs"
+  ],
+  "stars": 6357,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

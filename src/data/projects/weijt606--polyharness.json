@@ -1,0 +1,21 @@
+{
+  "repo": "weijt606/polyharness",
+  "category": "harness",
+  "summary": "开源的元 harness 搜索引擎：通过迭代评估自动进化 agent 的 prompt、工具与 harness 逻辑",
+  "description": "Open-source search engine that automatically evolves your AI agent's prompts, tools, and harness logic through iterative evaluation — plug in Claude Code, Codex, Hermes, or any CLI agent.",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "harness",
+    "harness-engineering",
+    "meta-harness",
+    "self-improving-agent"
+  ],
+  "stars": 7,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,21 @@
+{
+  "repo": "luneth90/lifeos",
+  "category": "agent",
+  "summary": "Obsidian + AI Agent 组合的个人终身学习与知识管理系统 LifeOS",
+  "description": "Obsidian + AI Agent = LifeOS 你的终身学习系统。",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "harness",
+    "knowledge-management",
+    "memory",
+    "obsidian"
+  ],
+  "stars": 37,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

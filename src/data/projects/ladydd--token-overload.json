@@ -1,0 +1,23 @@
+{
+  "repo": "ladydd/token-overload",
+  "category": "orchestrator",
+  "summary": "强模型规划+弱模型执行+程序验证的编程任务调度系统，可省约 60% token。",
+  "description": "强模型规划+弱模型执行+程序验证的编程任务调度系统。强模型只动嘴，弱模型干脏活，token 省约 60%。",
+  "language": "Python",
+  "topics": [
+    "ai-agent",
+    "cost-optimization",
+    "llm",
+    "mcp",
+    "openai",
+    "orchestrator",
+    "python"
+  ],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

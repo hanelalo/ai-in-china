@@ -1,0 +1,18 @@
+{
+  "repo": "13f/aman",
+  "category": "agent",
+  "summary": "用 Rust 写的轻量级「人」型代理（agent），强调拟人化交互设计。",
+  "description": "a man, an agent man.",
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "human"
+  ],
+  "stars": 6,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

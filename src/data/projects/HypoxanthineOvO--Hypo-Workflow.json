@@ -1,0 +1,15 @@
+{
+  "repo": "HypoxanthineOvO/Hypo-Workflow",
+  "category": "harness",
+  "summary": "面向 AI Agent 的串行化提示词执行引擎，含 TDD 流水线、自审、中断恢复与多维评估。",
+  "description": "Serialized prompt execution engine for AI agents — TDD pipeline, self-review, interrupt recovery, multi-dimensional evaluation",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 24,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

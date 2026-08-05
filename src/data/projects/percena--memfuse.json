@@ -1,0 +1,26 @@
+{
+  "repo": "percena/memfuse",
+  "category": "infra",
+  "summary": "本地优先的 agent 持久记忆中枢，通过 REST/MCP/coding-agent hooks 提供事实与上下文注入",
+  "description": "Persistent memory hub for AI agents — local-first facts, episodes, and proactive context injection via REST, MCP, and coding-agent hooks.",
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "ai",
+    "claude-code",
+    "codex",
+    "llm",
+    "local-first",
+    "mcp",
+    "memory",
+    "rust",
+    "typescript"
+  ],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

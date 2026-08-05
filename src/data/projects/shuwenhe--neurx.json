@@ -1,0 +1,15 @@
+{
+  "repo": "shuwenhe/neurx",
+  "category": "harness",
+  "summary": "NeurX 自称 AI 操作系统（描述极少，需深查）",
+  "description": "NeurX is AI operating system.",
+  "language": "Assembly",
+  "topics": [],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

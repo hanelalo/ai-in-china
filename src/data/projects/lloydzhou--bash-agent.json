@@ -1,0 +1,20 @@
+{
+  "repo": "lloydzhou/bash-agent",
+  "category": "harness",
+  "summary": "极简 AI 编程 agent 运行时：纯 bash + awk，零运行时依赖。",
+  "description": "A minimal AI coding agent runtime. Pure bash + awk, zero runtime dependencies.",
+  "language": "C",
+  "topics": [
+    "bash",
+    "bash-agents",
+    "coding-agent",
+    "harness"
+  ],
+  "stars": 73,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

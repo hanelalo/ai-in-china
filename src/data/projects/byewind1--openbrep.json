@@ -1,0 +1,24 @@
+{
+  "repo": "byewind1/openbrep",
+  "category": "agent",
+  "summary": "面向 ArchiCAD 高阶用户与 GDL 开发者的 AI 工作台，编译验证+知识驱动+资产可追溯。",
+  "description": " OpenBrep — 面向 ArchiCAD 高阶用户和 GDL 开发者的 AI 工作台。编译验证、知识驱动、资产可追溯",
+  "language": "Python",
+  "topics": [
+    "ai-agent",
+    "archicad",
+    "bim",
+    "code-generation",
+    "llm",
+    "openbrep",
+    "parametric",
+    "parametric-design"
+  ],
+  "stars": 24,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

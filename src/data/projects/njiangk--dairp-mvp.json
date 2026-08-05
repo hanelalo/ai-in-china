@@ -1,0 +1,26 @@
+{
+  "repo": "njiangk/dairp-mvp",
+  "category": "infra",
+  "summary": "分布式 AI 中继协议 DAIRP 的概念验证，实现双签结算与信誉路由",
+  "description": "DAIRP MVP: distributed AI relay protocol proof of concept with dual-sign settlement and reputation routing",
+  "language": "Python",
+  "topics": [
+    "ai-gateway",
+    "ai-infrastructure",
+    "distributed-systems",
+    "llm",
+    "llm-gateway",
+    "minimax",
+    "openai-compatible",
+    "protocol",
+    "public-alpha",
+    "settlement"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

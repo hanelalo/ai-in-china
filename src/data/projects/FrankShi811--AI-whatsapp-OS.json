@@ -1,0 +1,19 @@
+{
+  "repo": "FrankShi811/AI-whatsapp-OS",
+  "category": "agent",
+  "summary": "面向全球销售场景的本地 AI 工作区 Relvyn（AI WhatsApp OS 的旧版源码）。",
+  "description": "Relvyn — Local AI Workspace for Global Sales. Legacy public source and update compatibility repository.",
+  "language": "C#",
+  "topics": [
+    "ai-tools",
+    "automatically",
+    "crm-system"
+  ],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

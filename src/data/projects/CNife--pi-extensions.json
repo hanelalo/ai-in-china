@@ -1,0 +1,15 @@
+{
+  "repo": "CNife/pi-extensions",
+  "category": "skill",
+  "summary": "pi 编码代理的扩展插件合集（无详细描述）。",
+  "description": null,
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 7,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

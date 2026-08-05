@@ -1,0 +1,15 @@
+{
+  "repo": "fanfan520zzq/hard-dsp-harness",
+  "category": "agent",
+  "summary": "MCU/FPGA 数字信号处理开发的 agent-harness 工具链：自动调用编译/烧录/串口回环调试，预留硬件仪器对接。",
+  "description": "用于MCU/FPGA的数字信号处理开发的agent-harness工具链，涵盖agent全自动调用工具链编译烧录、debug串口回环开发；未来将加入连通现实硬件比如示波器、逻辑分析仪。",
+  "language": "Python",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

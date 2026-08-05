@@ -1,0 +1,24 @@
+{
+  "repo": "yuelangmanle/plankton",
+  "category": "agent",
+  "summary": "面向浮游动物现场录入、图片/AI 核对、数据备份与报告导出的 Android 工具集（Kotlin）",
+  "description": "面向浮游动物现场录入、图片/AI 核对、数据备份与报告导出的 Android 工具集",
+  "language": "Kotlin",
+  "topics": [
+    "ai",
+    "android",
+    "ecology",
+    "excel",
+    "field-data-collection",
+    "jetpack-compose",
+    "kotlin",
+    "plankton"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

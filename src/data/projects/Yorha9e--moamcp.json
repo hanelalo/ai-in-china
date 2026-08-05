@@ -1,0 +1,15 @@
+{
+  "repo": "Yorha9e/moamcp",
+  "category": "mcp",
+  "summary": "Kimi Code/omkc 的多 Agent 辩论 MCP 插件，支持多视角审议协作。",
+  "description": "MOA multi-agent debate MCP plugin for Kimi Code / omkc",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

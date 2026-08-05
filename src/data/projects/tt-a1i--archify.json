@@ -1,0 +1,33 @@
+{
+  "repo": "tt-a1i/archify",
+  "category": "skill",
+  "summary": "为 agent 生成可验证、自包含 HTML 架构/工作流/时序/数据流图的 skill",
+  "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+  "language": "HTML",
+  "topics": [
+    "agent-skills",
+    "anthropic",
+    "architecture-diagram",
+    "claude-skill",
+    "codex",
+    "dark-mode",
+    "data-flow-diagram",
+    "developer-tools",
+    "diagram-as-code",
+    "html-diagram",
+    "lifecycle-diagram",
+    "mermaid-alternative",
+    "opencode",
+    "sequence-diagram",
+    "svg",
+    "system-design",
+    "workflow-diagram"
+  ],
+  "stars": 9304,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

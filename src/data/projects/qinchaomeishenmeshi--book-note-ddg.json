@@ -1,0 +1,15 @@
+{
+  "repo": "qinchaomeishenmeshi/book-note-ddg",
+  "category": "skill",
+  "summary": "利用 DuckDuckGo MCP 联网搜索并整理结构化中文读书笔记的 WorkBuddy skill",
+  "description": "用 DuckDuckGo MCP 联网搜索并整理结构化中文读书笔记的 WorkBuddy skill",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

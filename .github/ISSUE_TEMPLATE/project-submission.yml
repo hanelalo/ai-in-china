@@ -1,0 +1,53 @@
+name: 项目收录申请
+description: 提交一个中国开发者开源的 AI 相关项目
+title: "[收录] <仓库名>"
+labels: [submission]
+body:
+  - type: input
+    id: repo_url
+    attributes:
+      label: GitHub 仓库
+      description: 格式 owner/name，例如 openai/codex
+      placeholder: owner/name
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 分类
+      description: 不确定的话选 other
+      options:
+        - agent
+        - harness
+        - skill
+        - mcp
+        - orchestrator
+        - infra
+        - ui
+        - eval
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: 一句话介绍（中文）
+      description: 我们会基于此撰写收录摘要
+      placeholder: 用一句话说明这个项目是做什么的
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: 项目主页（可选）
+      placeholder: https://…
+  - type: input
+    id: platform
+    attributes:
+      label: 适配平台（可选）
+      description: 逗号分隔，例如 deepseek, openai-compatible, codex
+  - type: textarea
+    id: notes
+    attributes:
+      label: 补充说明（可选）
+      description: 比如它解决的问题、维护状态等

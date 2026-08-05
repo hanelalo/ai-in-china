@@ -1,0 +1,15 @@
+{
+  "repo": "oines/astral-code",
+  "category": "harness",
+  "summary": "基于 Codex 运行时架构、Provider 中立的类 Claude agent harness（Rust 实现）",
+  "description": "Provider-neutral Claude-ish agent harness built on Codex runtime architecture",
+  "language": "Rust",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

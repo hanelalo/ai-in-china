@@ -1,0 +1,15 @@
+{
+  "repo": "Tencent-TDS/KuiklyUI-AI",
+  "category": "skill",
+  "summary": "为 KuiklyUI 提供的 AI 开发工具与规则集，提升跨端开发效率。",
+  "description": "AI-powered development tools and rules for KuiklyUI — boost your Kuikly cross-platform development productivity.",
+  "language": "Shell",
+  "topics": [],
+  "stars": 111,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

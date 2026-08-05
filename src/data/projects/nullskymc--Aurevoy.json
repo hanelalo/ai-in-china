@@ -1,0 +1,22 @@
+{
+  "repo": "nullskymc/Aurevoy",
+  "category": "agent",
+  "summary": "本地运行的个人 AI agent，能自主规划、写代码并浏览网页完成任务",
+  "description": "Personal AI agent  — tell it what you want, it figures out how. Runs locally, plans autonomously, writes code, browses the web, and gets things done. ",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agent-loops",
+    "ai-agent",
+    "llm",
+    "rag",
+    "workflow"
+  ],
+  "stars": 10,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

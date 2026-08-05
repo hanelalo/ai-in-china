@@ -1,0 +1,15 @@
+{
+  "repo": "liaocaoxuezhe/ChromeX",
+  "category": "mcp",
+  "summary": "Chrome 浏览器插件 + MCP，把浏览器操控能力交给 agent。",
+  "description": "通过浏览器插件和 MCP，提供给 Agent 最好的 Chrome 操控体验",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

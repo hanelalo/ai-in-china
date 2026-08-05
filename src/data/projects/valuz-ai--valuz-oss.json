@@ -1,0 +1,20 @@
+{
+  "repo": "valuz-ai/valuz-oss",
+  "category": "orchestrator",
+  "summary": "本地友好的 agent 团队工作台，跑通 agent 协作全流程",
+  "description": "A local-friendly workbench, your agent team runs the whole loop.",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agent-teams",
+    "ai",
+    "local-first"
+  ],
+  "stars": 8,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

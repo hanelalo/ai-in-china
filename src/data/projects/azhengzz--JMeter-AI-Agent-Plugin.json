@@ -1,0 +1,15 @@
+{
+  "repo": "azhengzz/JMeter-AI-Agent-Plugin",
+  "category": "agent",
+  "summary": "JMeter 的 AI 智能插件，用自然语言创建、优化、排障测试计划，基于 Agent Loop 架构。",
+  "description": "JMeter AI Agent plugin — chat with LLMs to build, optimize, and debug JMeter test plans. JMeter 智能助手插件：用自然语言创建、优化、排查 JMeter 测试计划。基于 Agent Loop 架构，内置 73 组件 Schema 与技能系统。",
+  "language": "Java",
+  "topics": [],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

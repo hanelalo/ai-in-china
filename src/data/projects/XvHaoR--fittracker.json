@@ -1,0 +1,15 @@
+{
+  "repo": "XvHaoR/fittracker",
+  "category": "agent",
+  "summary": "本地优先的 AI 健身 App（Expo+RN+SQLite），支持训练计划、餐食识别、跑步记录。",
+  "description": "Local-first AI fitness app built with Expo, React Native, TypeScript, and SQLite. Supports AI workout planning, meal recognition, running tracking, and structured fitness logging.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

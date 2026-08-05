@@ -1,0 +1,29 @@
+{
+  "repo": "gordonlu/AuraPilot",
+  "category": "orchestrator",
+  "summary": "本地优先、agent 中立的多 repo AI 编码任务控制平面，以 Git 原生文件协议工作。",
+  "description": "A local-first, agent-agnostic control plane for managing AI coding tasks across repositories through a Git-native file protocol.",
+  "language": "Rust",
+  "topics": [
+    "agent-protocol",
+    "ai-agents",
+    "ai-coding",
+    "coding-agents",
+    "developer-tools",
+    "git-native",
+    "kanban",
+    "multi-repo",
+    "project-management",
+    "rust",
+    "task-management",
+    "tauri",
+    "vue"
+  ],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

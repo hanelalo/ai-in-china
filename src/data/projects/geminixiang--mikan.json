@@ -1,0 +1,20 @@
+{
+  "repo": "geminixiang/mikan",
+  "category": "agent",
+  "summary": "跨 Slack/Telegram/Discord 的多平台 AI 编程 agent。",
+  "description": "A multi-platform AI coding agent for Slack, Telegram, and Discord.",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "pi",
+    "sandbox",
+    "slack"
+  ],
+  "stars": 8,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "s1dashu/ousia",
+  "category": "ui",
+  "summary": "面向 Pi 的轻量极简桌面应用外壳",
+  "description": "Ousia — a lightweight, minimalist desktop app for Pi.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 66,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,33 @@
+{
+  "repo": "TonyWang-hub/mcp-cn-commerce",
+  "category": "mcp",
+  "summary": "国内电商数据 MCP 服务器合集，让 Agent 读取抖店/京东/淘宝/拼多多商家经营数据。",
+  "description": "Chinese e-commerce MCP servers — let AI agents read merchant business data (Ocean Engine, Douyin Shop, JD.com, Taobao, Pinduoduo). 电商经营数据 MCP 连接器。",
+  "language": "Python",
+  "topics": [
+    "agent-tool",
+    "ai-agent",
+    "ai-tools",
+    "business-data",
+    "china-ecommerce",
+    "claude",
+    "data-integration",
+    "doudian",
+    "ecommerce",
+    "jd",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "oceanengine",
+    "pinduoduo",
+    "python",
+    "taobao"
+  ],
+  "stars": 22,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

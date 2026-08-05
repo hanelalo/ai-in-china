@@ -1,0 +1,15 @@
+{
+  "repo": "helixnow/deep-student",
+  "category": "ui",
+  "summary": "开源、本地优先的 AI 学习工作台。",
+  "description": "An open-source, local-first AI learning workbench",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 236,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

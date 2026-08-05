@@ -1,0 +1,21 @@
+{
+  "repo": "shiquda/mediawiki-mcp-server",
+  "category": "mcp",
+  "summary": "支持任意 MediaWiki 站点（含 Wikipedia/Fandom）的搜索与内容获取 MCP server",
+  "description": "A MCP server that allows you to search and retrieve content on any wiki site using MediaWiki with LLMs 🤖 wikipedia.org, fandom.com, wiki.gg and more sites using Mediawiki are supported!",
+  "language": "Python",
+  "topics": [
+    "mcp",
+    "mcp-server",
+    "mediawiki",
+    "wiki",
+    "wikipedia"
+  ],
+  "stars": 26,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

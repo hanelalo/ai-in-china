@@ -1,0 +1,22 @@
+{
+  "repo": "CreminiAI/skillpack",
+  "category": "skill",
+  "summary": "把本地 AI agent 打包并快速部署给团队使用的工具。",
+  "description": "Pack and deploy local AI agents for your team in minutes",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agent-skills",
+    "agentic",
+    "agentic-ai",
+    "agentic-workflow",
+    "ai-skills"
+  ],
+  "stars": 1145,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,50 @@
+---
+import site from '../data/site.json';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+const pageTitle = title ? `${title} · ${site.name}` : `${site.name} · ${site.tagline}`;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description ?? site.description} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/styles/global.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="/">
+          <span class="brand-mark">AI</span>
+          <span class="brand-name">{site.name}</span>
+        </a>
+        <nav class="nav">
+          <a href="/">目录</a>
+          <a href="/submit">提交项目</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>{site.description}</p>
+        <p>
+          想收录你的项目？去
+          <a href="/submit">提交页</a>
+          或直接提 PR。
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

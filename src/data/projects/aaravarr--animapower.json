@@ -1,0 +1,15 @@
+{
+  "repo": "aaravarr/animapower",
+  "category": "agent",
+  "summary": "Anima 是一个具备内驱力的常驻数字生命 agent，由好奇心、连接、勤奋、能量四驱力自主驱动行为。",
+  "description": null,
+  "language": "Python",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

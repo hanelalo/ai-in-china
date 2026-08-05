@@ -1,0 +1,15 @@
+{
+  "repo": "FredericMN/Coder-Codex-Gemini",
+  "category": "orchestrator",
+  "summary": "Claude + Coder + Codex + Gemini 多模型协作框架，支持 Claude Code & OpenCode 双环境。",
+  "description": "CCG 多模型协作框架：Claude + Coder + Codex + Gemini | 支持 Claude Code & OpenCode 双环境 / CCG Multi-model Collaboration: Claude + Coder + Codex + Gemini | Supports Claude Code & OpenCode",
+  "language": "Python",
+  "topics": [],
+  "stars": 183,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,28 @@
+{
+  "repo": "green-dalii/pi-shift-router",
+  "category": "infra",
+  "summary": "自动路由 Pi 编程 agent turn 在快执行与强推理模型之间切换，零运行时依赖的模型 fallback 链。",
+  "description": "Auto-routing Pi coding agent turns between fast execution and smart reasoning models via LLM judge. Multi-model fallback chains, zero runtime deps.",
+  "language": "TypeScript",
+  "topics": [
+    "ai-agent",
+    "llm",
+    "llm-judge",
+    "llm-router",
+    "llm-router-chain",
+    "llm-router-plugins",
+    "model-router",
+    "multi-model",
+    "pi-agent",
+    "pi-agent-extension",
+    "tui",
+    "tyypescript"
+  ],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

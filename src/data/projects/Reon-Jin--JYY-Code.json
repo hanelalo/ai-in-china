@@ -1,0 +1,15 @@
+{
+  "repo": "Reon-Jin/JYY-Code",
+  "category": "orchestrator",
+  "summary": "基于 opencode 的多 Agent 协作系统。",
+  "description": "A multi-agent system based on opencode",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "ldclabs/anda-bot",
+  "category": "agent",
+  "summary": "Anda：熊猫诞生的、由 Anda Brain 驱动的电脑副驾驶 agent。",
+  "description": "🐼 Born of panda. Awakened as Anda. A copilot for your computer, powered by the Anda Brain.",
+  "language": "Rust",
+  "topics": [],
+  "stars": 23,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

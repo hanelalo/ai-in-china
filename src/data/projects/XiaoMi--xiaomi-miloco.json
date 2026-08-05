@@ -1,0 +1,15 @@
+{
+  "repo": "XiaoMi/xiaomi-miloco",
+  "category": "harness",
+  "summary": "小米 Miloco：本地模型 + 智能体协同方案（具体定位以官方为准）。",
+  "description": "Xiaomi Miloco",
+  "language": "Python",
+  "topics": [],
+  "stars": 3198,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

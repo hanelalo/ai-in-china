@@ -1,0 +1,25 @@
+{
+  "repo": "ai2humanagent/ai2humanwork",
+  "category": "other",
+  "summary": "项目已迁移到 AI2Human Network 网络，作为执行验证网络的客户端。",
+  "description": "Moved to AI2Human Network: https://github.com/ai2humannetwork",
+  "language": "TypeScript",
+  "topics": [
+    "agent-economy",
+    "ai-agents",
+    "ai2human",
+    "ai2humannetwork",
+    "execution-network",
+    "human-verification",
+    "proof-verification",
+    "structured-proof",
+    "verification-network"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

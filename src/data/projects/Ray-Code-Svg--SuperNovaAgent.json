@@ -1,0 +1,22 @@
+{
+  "repo": "Ray-Code-Svg/SuperNovaAgent",
+  "category": "ui",
+  "summary": "Windows 优先的桌面 AI Workbench（Tauri+React+Rust），把对话转成可追溯任务并产出可视化证据。",
+  "description": "SuperNova is a Windows-first desktop AI Workbench that turns chat into traceable tasks. It combines a Tauri + React Workbench, Rust Product Runtime, typed protocol, and Process Kernel so actions can produce visible artifacts, runtime receipts, replayable evidence, and controlled workspace execution.",
+  "language": "Rust",
+  "topics": [
+    "agent-framework",
+    "agent-orchestration",
+    "desktop-application",
+    "harness-engineering",
+    "harness-framework",
+    "windows"
+  ],
+  "stars": 210,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

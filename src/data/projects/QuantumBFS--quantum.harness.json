@@ -1,0 +1,15 @@
+{
+  "repo": "QuantumBFS/quantum.harness",
+  "category": "harness",
+  "summary": "QuantumBFS 出品的量子计算 Agent Harness（无描述，按命名推断）。",
+  "description": null,
+  "language": "Python",
+  "topics": [],
+  "stars": 58,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

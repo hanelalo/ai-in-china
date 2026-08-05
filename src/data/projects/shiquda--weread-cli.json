@@ -1,0 +1,29 @@
+{
+  "repo": "shiquda/weread-cli",
+  "category": "skill",
+  "summary": "微信读书官方 API CLI，面向人类与 AI agent 的书架/笔记/划线/书评工具",
+  "description": "微信读书 CLI / WeRead CLI: 基于官方支持 API，面向人类与 AI Agent 的书架、笔记、划线、书评、阅读统计和推荐工具。Official API-based WeRead command-line tool with Agent Skill support.",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agent-skill",
+    "books",
+    "claude-code",
+    "cli",
+    "codex",
+    "highlights",
+    "notes",
+    "openclaw",
+    "reading",
+    "skill",
+    "typescript",
+    "weread"
+  ],
+  "stars": 19,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

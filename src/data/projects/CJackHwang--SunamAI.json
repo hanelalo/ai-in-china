@@ -1,0 +1,23 @@
+{
+  "repo": "CJackHwang/SunamAI",
+  "category": "agent",
+  "summary": "一个实验性的 AI agent 演示项目（基于 WebAssembly）。",
+  "description": "The useless AI agent.",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-tools",
+    "fucking-awesome",
+    "wasm"
+  ],
+  "stars": 6,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

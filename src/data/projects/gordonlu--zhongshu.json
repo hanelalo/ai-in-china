@@ -1,0 +1,26 @@
+{
+  "repo": "gordonlu/zhongshu",
+  "category": "ui",
+  "summary": "Rust 编写的桌面端 AI 助理覆盖层：DeepSeek 推理优化、长期记忆、技能/装备自进化、Chrome CDP 浏览器自动化。",
+  "description": "Desktop AI assistant overlay with DeepSeek-optimized reasoning, long-term memory, skill/equipment self-evolution, Chrome CDP browser automation, and task tracking. Built in Rust with wry WebView.",
+  "language": "Rust",
+  "topics": [
+    "ai-agent",
+    "ai-assistant",
+    "autonomous-agents",
+    "browser-automation",
+    "context-window",
+    "deepseek",
+    "function-calling",
+    "llm",
+    "rust",
+    "tool-use"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

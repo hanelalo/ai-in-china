@@ -1,0 +1,15 @@
+{
+  "repo": "zgiai/zgi",
+  "category": "orchestrator",
+  "summary": "开源 AI 应用构建平台：工作流设计、agent 编排、数据集管理与模型集成一体化",
+  "description": "ZGI is an open-source platform for building AI applications. Its intuitive interface combines workflow design, agent orchestration, dataset management, and model integration—allowing you to quickly move from prototype to production.",
+  "language": "Go",
+  "topics": [],
+  "stars": 311,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "onevcat/Prowl",
+  "category": "orchestrator",
+  "summary": "原生 macOS 编码 agent 编排器（Swift 实现）",
+  "description": "native macOS codings agent orchestrator",
+  "language": "Swift",
+  "topics": [],
+  "stars": 585,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,26 @@
+{
+  "repo": "shi275773124/Falsify",
+  "category": "eval",
+  "summary": "AI 时代的决策门：对抗式审查 code/research/生产决策，支持 GitHub Actions CI",
+  "description": "Decision gate for AI-era work: adversarial review for code, research, and production decisions.",
+  "language": "Python",
+  "topics": [
+    "adversarial-review",
+    "ai-risk",
+    "audit",
+    "byok",
+    "ci",
+    "code-review",
+    "decision-gate",
+    "falsify",
+    "github-actions",
+    "open-core"
+  ],
+  "stars": 5,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

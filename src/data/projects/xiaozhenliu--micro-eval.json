@@ -1,0 +1,15 @@
+{
+  "repo": "xiaozhenliu/micro-eval",
+  "category": "eval",
+  "summary": "轻量级 agent 评估框架",
+  "description": "Evaluate your agents with ease. ",
+  "language": "Python",
+  "topics": [],
+  "stars": 7,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

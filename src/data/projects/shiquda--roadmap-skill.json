@@ -1,0 +1,26 @@
+{
+  "repo": "shiquda/roadmap-skill",
+  "category": "skill",
+  "summary": "人类与 AI agent 共用的路线图：人类用可视化看板/图谱，agent 用 Skills/MCP server",
+  "description": "Shared roadmap for humans and AI Agents. Visual kanban and graph for you, Skills and MCP server for Agents. Support Claude Code, Codex, Cursor, OpenCode and more!",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "claude-code",
+    "codex",
+    "cursor",
+    "kanban",
+    "mcp",
+    "opencode",
+    "project-management",
+    "skill",
+    "typescript"
+  ],
+  "stars": 72,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

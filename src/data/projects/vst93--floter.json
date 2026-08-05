@@ -1,0 +1,26 @@
+{
+  "repo": "vst93/floter",
+  "category": "ui",
+  "summary": "跨平台悬浮终端与应用启动器（Rust + Tauri）",
+  "description": "A floating terminal and app launcher - one hotkey away. macOS, Linux, Windows.",
+  "language": "Rust",
+  "topics": [
+    "alacritty",
+    "cross-platform",
+    "desktop",
+    "launcher",
+    "react",
+    "rust",
+    "spotlight",
+    "tauri",
+    "terminal",
+    "wayland"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

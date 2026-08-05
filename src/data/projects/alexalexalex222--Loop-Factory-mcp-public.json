@@ -1,0 +1,24 @@
+{
+  "repo": "alexalexalex222/Loop-Factory-mcp-public",
+  "category": "mcp",
+  "summary": "本地优先 MCP 监督器：从历史 agent 会话挖掘有效工作流，跨代改进并仅推广经过再验证的胜利。",
+  "description": "Loop Factory MCP — a local-first supervisor for evidence-gated AI agent loops. Mines past agent sessions for workflows that worked, improves them generation over generation, and only promotes a measured, re-verified win. Zero dependencies, MCP over stdio.",
+  "language": "JavaScript",
+  "topics": [
+    "agent",
+    "ai-agents",
+    "evidence-based",
+    "llm",
+    "local-first",
+    "mcp-server",
+    "model-context-protocol",
+    "nodejs"
+  ],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

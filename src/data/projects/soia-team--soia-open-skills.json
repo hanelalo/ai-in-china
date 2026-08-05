@@ -1,0 +1,26 @@
+{
+  "repo": "soia-team/soia-open-skills",
+  "category": "skill",
+  "summary": "SOIA 技能生态门户：规范真源、技能目录与跨仓路由清单",
+  "description": "SOIA 技能生态门户：规范真源、技能目录与跨仓路由清单",
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "fxtwitter",
+    "knowledge-management",
+    "obsidian",
+    "pkm",
+    "telegram",
+    "twitter"
+  ],
+  "stars": 3,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

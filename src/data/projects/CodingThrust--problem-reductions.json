@@ -1,0 +1,20 @@
+{
+  "repo": "CodingThrust/problem-reductions",
+  "category": "other",
+  "summary": "用于研究计算难题及其归约的命令行工具（非 agent 领域）。",
+  "description": "A command line tool for computational hard problems and their reductions",
+  "language": "Rust",
+  "topics": [
+    "cli",
+    "computational-complexity",
+    "np-complete",
+    "reduction"
+  ],
+  "stars": 35,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

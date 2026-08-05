@@ -1,0 +1,15 @@
+{
+  "repo": "praxstack/agent-org",
+  "category": "orchestrator",
+  "summary": "Claude Code 自动编码的评审↔编码 gated 循环，提供不可伪造的验证关卡与多视角评审委员会",
+  "description": "Reviewer↔coder gated loop for autonomous coding with Claude Code — unfakeable verification gate + multi-voice review council, no babysitting.",
+  "language": "Shell",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "zhourui392/agent-langchain4j",
+  "category": "harness",
+  "summary": "基于 LangChain4j 的 Java agent 框架（描述缺失）",
+  "description": null,
+  "language": "Java",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

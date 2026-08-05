@@ -1,0 +1,32 @@
+{
+  "repo": "NousResearch/hermes-agent",
+  "category": "harness",
+  "summary": "Nous Research 推出的旗舰级 agent：能与用户共同成长的通用 AI Agent。",
+  "description": "The agent that grows with you",
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "clawdbot",
+    "codex",
+    "hermes",
+    "hermes-agent",
+    "llm",
+    "moltbot",
+    "nous-research",
+    "openai",
+    "openclaw"
+  ],
+  "stars": 225758,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

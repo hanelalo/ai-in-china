@@ -1,0 +1,29 @@
+{
+  "repo": "CSZHK/goal-conditions",
+  "category": "skill",
+  "summary": "为 Claude Code 设计的防御性 /goal 条件模板，含 11 项检查的 linter 与 CI 自检。",
+  "description": "Defensive /goal condition templates for Claude Code · 4-piece recipe · 6 patterns · 8 NEVER rules · 11-check linter · self-validating CI · MIT",
+  "language": "TypeScript",
+  "topics": [
+    "agent-workflow",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-code-skill",
+    "claude-skill",
+    "defensive-design",
+    "evaluator",
+    "goal",
+    "llm-tools",
+    "skill",
+    "stop-hook",
+    "token-budget",
+    "token-budget-control"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

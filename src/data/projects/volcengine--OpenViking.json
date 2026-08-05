@@ -1,0 +1,21 @@
+{
+  "repo": "volcengine/OpenViking",
+  "category": "infra",
+  "summary": "字节跳动开源的自进化上下文数据库，统一 Agent Memory、知识 RAG 与 Skills",
+  "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "language": "Python",
+  "topics": [
+    "agent-memory",
+    "agent-plugins",
+    "agentic-rag",
+    "context-database",
+    "self-evolving"
+  ],
+  "stars": 27955,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

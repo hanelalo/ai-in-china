@@ -1,0 +1,15 @@
+{
+  "repo": "neutree-ai/agent-platform",
+  "category": "infra",
+  "summary": "开源 agent 平台，提供构建、分发与优化 AI agent 的基础设施，自托管可控",
+  "description": "The open-source agent platform to build, distribute, and optimize AI agents — on infrastructure you own.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 42,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

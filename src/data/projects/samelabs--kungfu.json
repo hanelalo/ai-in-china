@@ -1,0 +1,20 @@
+{
+  "repo": "samelabs/kungfu",
+  "category": "infra",
+  "summary": "面向 agent 的记忆与工作流管理工具（Go 实现）",
+  "description": "Agent Memory and Work",
+  "language": "Go",
+  "topics": [
+    "agent",
+    "agent-skill",
+    "agent-skills",
+    "agentic-ai"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

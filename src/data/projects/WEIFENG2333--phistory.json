@@ -1,0 +1,15 @@
+{
+  "repo": "WEIFENG2333/phistory",
+  "category": "infra",
+  "summary": "自动归档 Claude Code/Codex/OpenClaw/Hermes 等 Agent CLI 的版本化系统提示词快照。",
+  "description": "Phistory automatically archives versioned system prompt snapshots from agent CLIs like Claude Code, Codex, OpenClaw, and Hermes.",
+  "language": "HTML",
+  "topics": [],
+  "stars": 477,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

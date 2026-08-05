@@ -1,0 +1,15 @@
+{
+  "repo": "lznauy/NekoCode",
+  "category": "agent",
+  "summary": "终端里的 AI 编程伙伴（Go 实现），不局限于终端形态的持续迭代型 agent",
+  "description": "终端里的 AI 伙伴，不止于终端， 持续迭代中",
+  "language": "Go",
+  "topics": [],
+  "stars": 6,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "Howe829/team-first-development",
+  "category": "skill",
+  "summary": "为 Codex 设计的动态组队、渐进交付门禁与基于证据的多 Agent 开发技能。",
+  "description": "A Codex Skill for dynamic team formation, progressive delivery gates, and evidence-based multi-agent development",
+  "language": "Python",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

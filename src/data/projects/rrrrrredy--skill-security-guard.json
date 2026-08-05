@@ -1,0 +1,25 @@
+{
+  "repo": "rrrrrredy/skill-security-guard",
+  "category": "infra",
+  "summary": "面向 agent skill 的静态安全扫描器，提供 A-F 风险评级与 CI 规则集",
+  "description": "Static security scanner for agent skills: A-F risk rating, safe zip scanning, CI-tested rules",
+  "language": "Python",
+  "topics": [
+    "agent-security",
+    "ai-agent",
+    "audit",
+    "openclaw",
+    "scanner",
+    "security",
+    "skill",
+    "skill-security",
+    "static-analysis"
+  ],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

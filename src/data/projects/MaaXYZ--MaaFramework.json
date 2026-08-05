@@ -1,0 +1,18 @@
+{
+  "repo": "MaaXYZ/MaaFramework",
+  "category": "infra",
+  "summary": "基于图像识别的跨平台自动化黑盒测试框架。",
+  "description": "基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition",
+  "language": "C++",
+  "topics": [
+    "black-box-testing",
+    "computer-vision"
+  ],
+  "stars": 4595,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

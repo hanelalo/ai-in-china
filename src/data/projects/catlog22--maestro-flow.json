@@ -1,0 +1,26 @@
+{
+  "repo": "catlog22/maestro-flow",
+  "category": "orchestrator",
+  "summary": "面向多 agent 开发的意图驱动工作流编排：自适应生命周期+自我增强知识图谱+可视化仪表盘。",
+  "description": "Intent-driven workflow orchestration for multi-agent AI development — adaptive lifecycle engine, self-reinforcing knowledge graph, and visual dashboard for Claude Code, Gemini, Codex & more",
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "gemini",
+    "knowledge-graph",
+    "mcp",
+    "multi-agent",
+    "typescript",
+    "workflow-orchestration"
+  ],
+  "stars": 508,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

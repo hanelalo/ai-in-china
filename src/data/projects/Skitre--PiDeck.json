@@ -1,0 +1,15 @@
+{
+  "repo": "Skitre/PiDeck",
+  "category": "ui",
+  "summary": "Pi 编码代理的可视化桌面端：会话/工具调用/会话/模型/包管理。",
+  "description": "A desktop interface for Pi Coding Agent, with visual workflows for conversations, tool calls, sessions, models, and packages.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 16,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

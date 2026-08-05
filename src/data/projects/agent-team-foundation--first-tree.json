@@ -1,0 +1,23 @@
+{
+  "repo": "agent-team-foundation/first-tree",
+  "category": "orchestrator",
+  "summary": "First-tree 自动路由工作到合适 agent，复用团队上下文，仅在规则触发时引入人工，GitHub 内即可运行。",
+  "description": "First-tree routes work to the right agent, gives it the same context your team has, and loops humans in only when the rules say so. Lives in your GitHub. Open source.",
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "context-tree",
+    "context-wiki",
+    "harness-engineering"
+  ],
+  "stars": 112,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "Codegass/Setup-Agent",
+  "category": "agent",
+  "summary": "由 LLM 驱动的开源项目初始化/脚手架 Agent。",
+  "description": "LLM Powered open source project setup agent",
+  "language": "Python",
+  "topics": [],
+  "stars": 5,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

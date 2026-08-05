@@ -1,0 +1,15 @@
+{
+  "repo": "neuneed/loop-engineering",
+  "category": "skill",
+  "summary": "Claude Code 原生的安全有状态工程循环模板，提供隔离 worktree、独立校验与人类交付控制",
+  "description": "A Claude Code-native template for safe, stateful engineering loops. It turns one-off coding sessions into a repeatable process with isolated worktrees, independent verification, bounded retries, and human-controlled delivery.",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

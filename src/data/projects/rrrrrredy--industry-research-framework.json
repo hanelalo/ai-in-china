@@ -1,0 +1,27 @@
+{
+  "repo": "rrrrrredy/industry-research-framework",
+  "category": "skill",
+  "summary": "通用 agent 行业研究框架：基于可信信源的产业研究与可发布写作",
+  "description": "Industry Research Framework: an agent-agnostic framework for source-backed industry research and publishable writing",
+  "language": "Python",
+  "topics": [
+    "agent-skill",
+    "ai-research",
+    "industry-analysis",
+    "industry-research",
+    "industry-research-framework",
+    "longform-research",
+    "longform-writing",
+    "research-framework",
+    "research-workflow",
+    "source-backed-writing",
+    "writing-workflow"
+  ],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

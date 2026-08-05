@@ -1,0 +1,31 @@
+{
+  "repo": "crafter-station/petdex",
+  "category": "content",
+  "summary": "Codex/Claude Code/OpenCode/Gemini CLI 的像素宠物公共图鉴与精灵库。",
+  "description": "The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI",
+  "language": "TypeScript",
+  "topics": [
+    "claude-code",
+    "clerk",
+    "cli",
+    "codex",
+    "developer-tools",
+    "drizzle-orm",
+    "mascot",
+    "neon",
+    "nextjs",
+    "pixel-art",
+    "postgres",
+    "react",
+    "sprites",
+    "tailwindcss",
+    "vercel"
+  ],
+  "stars": 3695,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

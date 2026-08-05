@@ -1,0 +1,15 @@
+{
+  "repo": "UFOrz/EchoShot",
+  "category": "skill",
+  "summary": "Chrome/Edge 浏览器扩展：从网页图片反推提示词并生成同款图片。",
+  "description": "EchoShot · 拍同款：从网页图片反推提示词并生成同款图片的 Chrome/Edge 扩展",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 5,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

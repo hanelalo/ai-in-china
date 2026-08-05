@@ -1,0 +1,25 @@
+{
+  "repo": "pumblus/okf-harness",
+  "category": "harness",
+  "summary": "面向 OKF 兼容 LLM Wiki 的 agent-first 本地 harness",
+  "description": "Agent-first local harness for OKF-compatible LLM Wikis.",
+  "language": "TypeScript",
+  "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "knowledge-management",
+    "llm-wiki",
+    "local-first",
+    "macos",
+    "okf",
+    "open-knowledge-format"
+  ],
+  "stars": 31,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

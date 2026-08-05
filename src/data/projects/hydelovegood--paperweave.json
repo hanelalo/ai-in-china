@@ -1,0 +1,15 @@
+{
+  "repo": "hydelovegood/paperweave",
+  "category": "agent",
+  "summary": "本地优先的论文库 CLI：PDF 摄入、结构化摘要、深度问答与正向引用追踪。",
+  "description": "Local-first paper library CLI for PDF ingestion, structured summaries, deep Q&A, and forward-citation tracking.",
+  "language": "Python",
+  "topics": [],
+  "stars": 9,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

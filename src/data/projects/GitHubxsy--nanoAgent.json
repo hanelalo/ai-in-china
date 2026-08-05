@@ -1,0 +1,15 @@
+{
+  "repo": "GitHubxsy/nanoAgent",
+  "category": "content",
+  "summary": "一本从底层原理到工程实践的小书，拆解大模型、Agent 与 Skill 的核心概念。",
+  "description": "一本从底层原理到工程实践的小书，拆解大模型、Agent 与 Skill 的核心概念。",
+  "language": "Python",
+  "topics": [],
+  "stars": 498,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "eloklam/siyuan-agent",
+  "category": "skill",
+  "summary": "为 SiYuan 笔记软件开发的独立 CLI Agent 技能，直接 HTTP API 调用无需 npm 依赖。",
+  "description": null,
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 6,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

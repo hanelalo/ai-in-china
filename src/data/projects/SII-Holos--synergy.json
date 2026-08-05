@@ -1,0 +1,15 @@
+{
+  "repo": "SII-Holos/synergy",
+  "category": "harness",
+  "summary": "面向开放 Agentic Web 的下一代通用代理。",
+  "description": "A next-generation general-purpose agent for the Open Agentic Web.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 542,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

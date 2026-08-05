@@ -1,0 +1,24 @@
+{
+  "repo": "AQBot-Desktop/AQBot",
+  "category": "ui",
+  "summary": "Rust+Tauri 写的跨平台 AI 对话/Agent/网关桌面客户端，主打轻量高性能。",
+  "description": "☁️ 轻量级高性能跨平台AI对话 + AI Agent + AI网关桌面客户端 | Lightweight, high-performance cross-platform AI dialogue + AI Agent + AI gateway desktop client",
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "ai-client",
+    "ai-desktop",
+    "ai-gateway",
+    "ai-platform",
+    "openclaw",
+    "tauri",
+    "tauri-app"
+  ],
+  "stars": 743,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

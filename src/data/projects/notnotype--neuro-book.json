@@ -1,0 +1,24 @@
+{
+  "repo": "notnotype/neuro-book",
+  "category": "agent",
+  "summary": "面向长篇小说创作的 AI IDE，融合软件工程工作流与现代叙事方法的多 agent 系统",
+  "description": "An AI-powered IDE for long-form fiction writing, combining software engineering workflows, modern storytelling methodologies, and multi-agent systems.",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "airp",
+    "harness",
+    "ide",
+    "novel",
+    "rp",
+    "sillytavern",
+    "writing"
+  ],
+  "stars": 439,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

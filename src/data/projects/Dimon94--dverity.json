@@ -1,0 +1,15 @@
+{
+  "repo": "Dimon94/dverity",
+  "category": "skill",
+  "summary": "Claude Code 的「一行命令需求开发」工作流：子 Agent、质控门禁与自动化。",
+  "description": "🚀 One-command requirement development flow for Claude Code - Complete workflow system with sub-agents, quality gates, and intelligent automation",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 111,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

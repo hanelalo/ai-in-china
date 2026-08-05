@@ -1,0 +1,15 @@
+{
+  "repo": "ythx-101/agent-sop",
+  "category": "orchestrator",
+  "summary": "人机门控、能力分槽的编码 agent 协作 SOP：发现角色库、条件化角色与跨厂商评审",
+  "description": "Human-gated, capability-slotted collaboration workflow (SOP) for coding agents — discovered rosters, condition-based roles, cross-vendor review, signoff gates",
+  "language": "Python",
+  "topics": [],
+  "stars": 50,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

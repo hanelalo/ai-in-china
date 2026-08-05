@@ -1,0 +1,15 @@
+{
+  "repo": "hahhforest/linka",
+  "category": "infra",
+  "summary": "agent 时代缺失的链路层：面向 AI agent 的通信基础设施。",
+  "description": "The missing link between AI agents. Communication infrastructure for the agent era.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

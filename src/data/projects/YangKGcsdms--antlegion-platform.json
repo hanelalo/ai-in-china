@@ -1,0 +1,15 @@
+{
+  "repo": "YangKGcsdms/antlegion-platform",
+  "category": "orchestrator",
+  "summary": "蚂蚁军团平台：多 Agent 协作编排平台（无描述，按命名推断）。",
+  "description": null,
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 13,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,23 @@
+{
+  "repo": "yuanchenglu/llm-harness-agent",
+  "category": "harness",
+  "summary": "从零构建的 LLM Agent Harness 教学实践：Agent Loop、Tool Use、Context、Memory",
+  "description": "从零构建的 LLM Agent Harness 实践项目——Agent Loop、Tool Use、Context Engineering、Memory",
+  "language": "HTML",
+  "topics": [
+    "agent",
+    "ai-agent",
+    "context-engineering",
+    "deepseek",
+    "harness",
+    "llm",
+    "tool-use"
+  ],
+  "stars": 8,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

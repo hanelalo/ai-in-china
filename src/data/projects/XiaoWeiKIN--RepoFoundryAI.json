@@ -1,0 +1,15 @@
+{
+  "repo": "XiaoWeiKIN/RepoFoundryAI",
+  "category": "infra",
+  "summary": "Agent 原生的工程系统：把任意仓库变成 AI 就绪环境，含版本化规格、证据、决策与确定性校验。",
+  "description": "The Agent-Native Engineering System — turn any repository into an AI-ready environment with versioned specs, evidence, decisions, and deterministic validation.",
+  "language": "Python",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

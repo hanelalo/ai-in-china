@@ -1,0 +1,15 @@
+{
+  "repo": "DerekYRC/mini-claude-code",
+  "category": "harness",
+  "summary": "用 Java 简化复刻 Claude Code 的 Agent Harness，保留 Agent Loop/工具/权限/子代理/技能加载/MCP 等核心机制。",
+  "description": "mini-claude-code: a simplified Java Claude Code agent distilling core Agent Harness mechanisms. Features: Agent Loop, tools, permission control, Hooks, Todo, Subagent, Skill Loading, context compression, memory, tasks, background tasks, scheduling, multi-agent collaboration, team protocol, autonomous claiming, MCP Plugin.",
+  "language": "Java",
+  "topics": [],
+  "stars": 174,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

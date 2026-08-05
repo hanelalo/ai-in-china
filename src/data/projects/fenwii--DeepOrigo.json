@@ -1,0 +1,15 @@
+{
+  "repo": "fenwii/DeepOrigo",
+  "category": "agent",
+  "summary": "DeepOrigo：商业结果导向的工程 agent。",
+  "description": "DeepOrigo，Commercial Outcome Native Engineering Agent",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 3,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

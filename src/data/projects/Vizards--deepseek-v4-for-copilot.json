@@ -1,0 +1,15 @@
+{
+  "repo": "Vizards/deepseek-v4-for-copilot",
+  "category": "ui",
+  "summary": "让 VS Code Copilot Chat 模型选择器出现 DeepSeek V4（保留其他 Copilot 能力）。",
+  "description": "Pick DeepSeek V4 from the Copilot Chat model picker — and keep everything else Copilot already gives you.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 1292,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

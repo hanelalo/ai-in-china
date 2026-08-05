@@ -1,0 +1,15 @@
+{
+  "repo": "BoWuGit/news-report",
+  "category": "agent",
+  "summary": "面向用户 Agent 的新闻简报生成服务。",
+  "description": "面向用户 Agent 的新闻简报 / News Report For User Agent",
+  "language": "Python",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

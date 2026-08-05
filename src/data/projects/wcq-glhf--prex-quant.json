@@ -1,0 +1,15 @@
+{
+  "repo": "wcq-glhf/prex-quant",
+  "category": "infra",
+  "summary": "PREX Quant 托管式量化回测 API 合约及客户端示例",
+  "description": "Hosted quantitative backtest API contract and client examples for PREX Quant.",
+  "language": null,
+  "topics": [],
+  "stars": 7,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

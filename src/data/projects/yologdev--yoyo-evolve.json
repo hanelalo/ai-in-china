@@ -1,0 +1,15 @@
+{
+  "repo": "yologdev/yoyo-evolve",
+  "category": "agent",
+  "summary": "能公开自我演化的编码 agent，从 200 行 Rust 起步，所有提交由 agent 写且测试把关",
+  "description": "A coding agent that evolves its own source, in public — 200 lines of Rust on day one, every commit since agent-written and tests-gated.",
+  "language": "Rust",
+  "topics": [],
+  "stars": 1855,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

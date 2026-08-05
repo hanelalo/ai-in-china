@@ -1,0 +1,31 @@
+{
+  "repo": "bigfatsea/vmr",
+  "category": "infra",
+  "summary": "本地优先单二进制 LLM 路由+agent 飞行记录器，把字节级日志自动结构化为任务故事并代理 provider failover。",
+  "description": "A local-first, single-binary LLM router & Agent flight recorder. Automatically turns byte-faithful logs into structured Agent task stories, compares agent behaviors, and hides provider failover behind virtual endpoints.",
+  "language": "Go",
+  "topics": [
+    "ai-agent",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "deepseek",
+    "failover",
+    "go",
+    "llm",
+    "llm-gateway",
+    "llm-proxy",
+    "llm-router",
+    "minimax",
+    "openai-proxy",
+    "self-hosted",
+    "single-binary"
+  ],
+  "stars": 3,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

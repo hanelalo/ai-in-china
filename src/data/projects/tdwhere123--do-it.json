@@ -1,0 +1,26 @@
+{
+  "repo": "tdwhere123/do-it",
+  "category": "harness",
+  "summary": "可安装的 AI 编码工作流：基于风险的路由、限定范围子 agent 与证据闭环完成",
+  "description": "Installable AI coding workflow for risk-based routing, scoped sub-agents, and evidence-backed completion.",
+  "language": "Shell",
+  "topics": [
+    "agentic-workflow",
+    "agents",
+    "ai-agents",
+    "codex",
+    "codex-cli",
+    "developer-tools",
+    "do-it",
+    "skills",
+    "subagents",
+    "workflow"
+  ],
+  "stars": 21,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

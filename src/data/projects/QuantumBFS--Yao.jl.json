@@ -1,0 +1,23 @@
+{
+  "repo": "QuantumBFS/Yao.jl",
+  "category": "other",
+  "summary": "面向人类的可扩展、高效量子算法设计框架（Julia），与 agent 无关。",
+  "description": "Extensible, Efficient Quantum Algorithm Design for Humans.",
+  "language": "Julia",
+  "topics": [
+    "machine-learning",
+    "quantum-algorithms",
+    "quantum-circuit",
+    "quantum-computing",
+    "quantum-information",
+    "unitaryhack",
+    "yao"
+  ],
+  "stars": 1039,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

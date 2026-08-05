@@ -1,0 +1,15 @@
+{
+  "repo": "catlog22/pi-maestro-flow",
+  "category": "orchestrator",
+  "summary": "Maestro 工作流在 Pi 上的扩展：pi-teammate 与 pi-maestro-agent 双件套。",
+  "description": "Maestro workflow tools as Pi extensions — pi-teammate + pi-maestro-agent",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 68,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

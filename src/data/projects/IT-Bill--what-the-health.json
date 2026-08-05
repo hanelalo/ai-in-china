@@ -1,0 +1,15 @@
+{
+  "repo": "IT-Bill/what-the-health",
+  "category": "other",
+  "summary": "基于 Next.js 16 + React 19 的移动优先健康管理应用，与 agent 生态关联弱。",
+  "description": "移动优先的健康管理应用，基于 Next.js 16 App Router + React 19 + Tailwind CSS v4 + Prisma 7。",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

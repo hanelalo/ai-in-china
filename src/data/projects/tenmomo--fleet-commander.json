@@ -1,0 +1,15 @@
+{
+  "repo": "tenmomo/fleet-commander",
+  "category": "orchestrator",
+  "summary": "编码 agent 舰队的实地指挥纪律：tmux + herdr + 远程席位，让中端模型也能稳定跑舰队",
+  "description": "Field-tested fleet command discipline for coding agents — tmux, herdr, and remote seats. Encodes command judgment so a mid-tier model can run a fleet reliably.",
+  "language": "Python",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

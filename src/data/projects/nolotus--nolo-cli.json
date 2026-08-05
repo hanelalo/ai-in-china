@@ -1,0 +1,15 @@
+{
+  "repo": "nolotus/nolo-cli",
+  "category": "ui",
+  "summary": "Agent-first 的终端工作空间，支持本地与远程 AI agent 工作流",
+  "description": "Agent-first terminal workspace for local and remote AI agent workflows",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

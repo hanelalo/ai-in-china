@@ -1,0 +1,15 @@
+{
+  "repo": "xicilion/boxsh",
+  "category": "infra",
+  "summary": "沙箱化的 POSIX shell，支持并发 JSON-line RPC 模式",
+  "description": "A sandboxed POSIX shell with a concurrent JSON-line RPC mode",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 327,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

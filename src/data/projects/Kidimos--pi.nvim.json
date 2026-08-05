@@ -1,0 +1,21 @@
+{
+  "repo": "Kidimos/pi.nvim",
+  "category": "ui",
+  "summary": "pi 编码代理的 Neovim 插件：TUI、会话管理、上下文发送、快速对话。",
+  "description": "Neovim integration for the pi coding agent — terminal UI, session management, context sending, and quick chat",
+  "language": "Lua",
+  "topics": [
+    "ai",
+    "coding-agent",
+    "lua",
+    "neovim",
+    "plugin"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

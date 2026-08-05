@@ -1,0 +1,15 @@
+{
+  "repo": "weiesky/cc-viewer",
+  "category": "ui",
+  "summary": "Claude Code 请求监控系统：实时捕获并可视化所有 API 请求与响应，便于 Vibe Coding 调试",
+  "description": "A request monitoring system for Claude Code that captures and visualizes all API requests and responses in real time. Helps developers monitor their Context for reviewing and debugging during Vibe Coding.",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 1059,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

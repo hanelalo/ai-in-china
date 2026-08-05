@@ -1,0 +1,15 @@
+{
+  "repo": "aaravarr/openrouter-proxy",
+  "category": "infra",
+  "summary": "零依赖代理，让 OpenRouter 客户端可免费用 Xiaomi MiMo，并修复 VS Code Claude Code 扩展的 SSE 流式问题。",
+  "description": "A zero-dependency proxy that unlocks free Xiaomi MiMo on OpenRouter for any client, and fixes SSE streaming issues with the VS Code Claude Code extension.",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 68,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

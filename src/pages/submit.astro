@@ -1,0 +1,96 @@
+---
+import Base from '../layouts/Base.astro';
+import categories from '../data/categories.json';
+import site from '../data/site.json';
+
+const issueBase = `https://github.com/${site.githubRepo}/issues/new`;
+const contributingUrl = `https://github.com/${site.githubRepo}/blob/${site.defaultBranch}/CONTRIBUTING.md`;
+---
+
+<Base title="提交项目">
+  <section class="submit">
+    <h1>提交项目</h1>
+    <p class="lead">
+      填完这份表单后，会自动打开一个<strong>预填好的 GitHub Issue</strong>，点一下「Submit new issue」就完成了。
+      维护者审核后会把项目收录进目录。
+    </p>
+
+    {site.githubRepo.startsWith('your-') && (
+      <p class="hint warn">
+        提示：发布前请先在 src/data/site.json 里把 githubRepo 改成你的仓库地址。
+      </p>
+    )}
+
+    <form id="submit-form" class="form" autocomplete="off">
+      <label class="field">
+        <span>GitHub 仓库 <em>*</em></span>
+        <input
+          name="repo_url"
+          type="text"
+          placeholder="owner/name"
+          required
+          pattern="[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+"
+        />
+      </label>
+
+      <label class="field">
+        <span>分类 <em>*</em></span>
+        <select name="category" required>
+          {categories
+            .filter((c) => c.id !== 'unavailable')
+            .map((c) => (
+              <option value={c.id}>{c.labelZh}（{c.id}）</option>
+            ))}
+        </select>
+      </label>
+
+      <label class="field">
+        <span>一句话介绍（中文）<em>*</em></span>
+        <textarea name="summary" rows={3} required placeholder="用一句话说明这个项目是做什么的、适合谁用"></textarea>
+      </label>
+
+      <label class="field">
+        <span>项目主页（可选）</span>
+        <input name="website" type="url" placeholder="https://…（非 GitHub 的主页）" />
+      </label>
+
+      <label class="field">
+        <span>适配平台（可选）</span>
+        <input name="platform" type="text" placeholder="如 deepseek, openai-compatible, codex（逗号分隔）" />
+      </label>
+
+      <label class="field">
+        <span>补充说明（可选）</span>
+        <textarea name="notes" rows={3} placeholder="比如它解决的问题、维护状态等"></textarea>
+      </label>
+
+      <button class="btn btn-primary" type="submit">生成 Issue 提交</button>
+    </form>
+
+    <p class="hint">
+      也可以直接走
+      <a href={contributingUrl} target="_blank" rel="noreferrer">PR 流程</a>
+      （fork → 运行 add-project 脚本 → 提 PR）。
+    </p>
+  </section>
+
+  <script define:vars={{ issueBase }}>
+    const form = document.getElementById('submit-form');
+    form.addEventListener('submit', (event) => {
+      event.preventDefault();
+      const data = new FormData(form);
+      const params = new URLSearchParams({
+        template: 'project-submission.yml',
+        title: `[收录] ${data.get('repo_url')}`,
+        repo_url: data.get('repo_url'),
+        category: data.get('category'),
+        summary: data.get('summary'),
+      });
+      for (const key of ['website', 'platform', 'notes']) {
+        const value = data.get(key);
+        if (value) params.set(key, value);
+      }
+      window.open(`${issueBase}?${params.toString()}`, '_blank', 'noopener');
+    });
+  </script>
+</Base>

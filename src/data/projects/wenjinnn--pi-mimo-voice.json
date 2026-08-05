@@ -1,0 +1,15 @@
+{
+  "repo": "wenjinnn/pi-mimo-voice",
+  "category": "skill",
+  "summary": "基于小米 MiMo TTS/STT 为 Pi agent 增加语音输入与播报能力",
+  "description": "Voice input (STT) and output (TTS) for https://github.com/earendil-works/pi powered by Xiaomi MiMo TTS API",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

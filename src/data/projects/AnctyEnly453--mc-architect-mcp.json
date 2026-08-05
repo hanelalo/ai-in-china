@@ -1,0 +1,24 @@
+{
+  "repo": "AnctyEnly453/mc-architect-mcp",
+  "category": "mcp",
+  "summary": "Minecraft Java Fabric Mod 配套的 MCP 服务器，提供 AI 协助的世界检视/建造/验证/截图等工具。",
+  "description": "Minecraft Java Fabric mod and MCP server for AI-assisted world inspection, building, validation, screenshots, and persistent undo.",
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "building-tools",
+    "fabric",
+    "java",
+    "mcp",
+    "minecraft",
+    "model-context-protocol",
+    "typescript"
+  ],
+  "stars": 6,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

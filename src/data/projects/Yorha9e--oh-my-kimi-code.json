@@ -1,0 +1,15 @@
+{
+  "repo": "Yorha9e/oh-my-kimi-code",
+  "category": "harness",
+  "summary": "Kimi Code 的社区派生版，作为下一代 agent 的起点。",
+  "description": "Community fork of Kimi Code — the starting point for next-gen agents",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 5,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

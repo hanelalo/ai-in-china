@@ -1,16 +1,9 @@
-import { readdir, readFile } from 'node:fs/promises';
-import { join, resolve } from 'node:path';
+// 用 Vite 的 import.meta.glob 在构建期打包所有项目 JSON：
+// 静态数据随 bundle 走，不依赖 node:fs，因此在 Cloudflare 运行时也能执行。
+const projectModules = import.meta.glob('../data/projects/*.json', { eager: true });
 
-// Astro 构建时会把页面代码打包进 dist/.prerender，不能依赖 import.meta.url，
-// 统一以项目根目录（process.cwd()）为基准解析数据目录。
-const dataDir = resolve(process.cwd(), 'src/data/projects');
-
-export async function getProjects() {
-  const files = (await readdir(dataDir)).filter((f) => f.endsWith('.json'));
-  const projects = await Promise.all(
-    files.map(async (f) => JSON.parse(await readFile(join(dataDir, f), 'utf8')))
-  );
-  return projects;
+export function getProjects() {
+  return Object.values(projectModules).map((mod) => mod.default);
 }
 
 export function slugOf(project) {

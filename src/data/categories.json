@@ -5,7 +5,7 @@
   { "id": "mcp", "labelZh": "MCP", "description": "MCP 服务器与模型上下文协议集成" },
   { "id": "orchestrator", "labelZh": "编排器", "description": "多智能体编排与协作框架" },
   { "id": "infra", "labelZh": "基础设施", "description": "API 网关、代理、监控与部署基础设施" },
-  { "id": "ui", "labelZh": "客户端/界面", "description": "桌面端、Web 端等客户端与界面" },
+  { "id": "ui", "labelZh": "客户端/UI", "description": "桌面端、Web 端等客户端与界面" },
   { "id": "eval", "labelZh": "评测", "description": "评测基准与测试工具" },
   { "id": "content", "labelZh": "内容", "description": "内容站、文档与资料" },
   { "id": "other", "labelZh": "其他", "description": "其他未分类项目" },

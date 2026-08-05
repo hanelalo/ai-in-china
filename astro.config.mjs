@@ -2,7 +2,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  // 发布前把这里改成正式域名，用于生成 canonical URL
-  site: 'https://ai-in-china.example.com',
+  // 默认指向 GitHub Pages；如果部署到其他域名，发布前改这里
+  site: 'https://hanelalo.github.io/ai-in-china/',
   output: 'static',
 });

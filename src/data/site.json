@@ -1,7 +1,7 @@
 {
   "name": "AI in China",
-  "tagline": "中国开发者构建的 AI 工具生态目录",
-  "description": "收录中国开发者开源的 agent、skill、mcp、harness、编排器、基础设施等 AI 相关项目。",
+  "tagline": "中文 AI 社区视角的开源工具目录",
+  "description": "以中文社区视角收录全球开源的 agent、skill、mcp、harness、编排器、基础设施等 AI 相关项目。",
   "githubRepo": "your-github-name/ai-in-china",
   "defaultBranch": "main"
 }

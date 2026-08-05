@@ -1,5 +1,5 @@
 name: 项目收录申请
-description: 提交一个中国开发者开源的 AI 相关项目
+description: 提交一个中文 AI 社区关注的开源 AI 项目
 title: "[收录] <仓库名>"
 labels: [submission]
 body:

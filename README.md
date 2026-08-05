@@ -1,6 +1,6 @@
 # AI in China
 
-中国开发者构建的 AI 工具生态目录：agent、skill、mcp、harness、编排器、基础设施等，收录来自真实中文开发者社区的开源项目。
+以中文社区视角收录全球开源的 agent、skill、mcp、harness、编排器、基础设施等 AI 项目——源自 DeepSeek harness 社区征集，持续收录中文社区关注的开源项目。
 
 - **数据即源码**：每个项目一个 JSON 文件，存放在 `src/data/projects/`
 - **静态站点**：Astro 构建，可部署到 Cloudflare Pages / Vercel / GitHub Pages

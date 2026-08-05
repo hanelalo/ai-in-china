@@ -1,7 +1,7 @@
 {
   "name": "ai-in-china",
   "version": "0.1.0",
-  "description": "中国开发者构建的 AI 工具生态目录：agent、skill、mcp、harness 等",
+  "description": "中文 AI 社区视角的开源工具目录：agent、skill、mcp、harness 等",
   "type": "module",
   "private": true,
   "scripts": {

@@ -14,8 +14,10 @@ const totalStars = projects.reduce((sum, p) => sum + p.stars, 0);
 
 <Base title="目录" description={site.description}>
   <section class="hero">
-    <h1>中国开发者构建的 AI 工具生态</h1>
-    <p class="tagline">{site.tagline} — 所有项目都来自真实的中文开发者社区。</p>
+    <h1>中文 AI 社区视角的开源工具生态</h1>
+    <p class="tagline">
+      {site.tagline} — 源自 DeepSeek harness 社区征集，持续收录中文社区关注的开源项目。
+    </p>
     <div class="stats">
       <div class="stat">
         <strong>{projects.length}</strong>

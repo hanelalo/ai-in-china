@@ -1,0 +1,15 @@
+{
+  "repo": "joeseesun/qiaomu-blog-opensource",
+  "category": "content",
+  "summary": "基于 OpenNext、Next.js 16、D1、R2 的 Cloudflare 开源博客模板。",
+  "description": "Open-source Cloudflare blog template based on OpenNext, Next.js 16, D1, and R2",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 291,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "slidict/wip",
+  "category": "infra",
+  "summary": "Wip 是一个 Ruby 写的 CLI 工具，给 WSL 容器内应用提供本地化的原生交互体验。",
+  "description": "Wip is a CLI developer tool that provides native-like interaction with applications running in WSL Containers(WSLC).",
+  "language": "Ruby",
+  "topics": [],
+  "stars": 7,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

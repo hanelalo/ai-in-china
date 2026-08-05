@@ -1,0 +1,15 @@
+{
+  "repo": "siwei-yuan/coral",
+  "category": "agent",
+  "summary": "Coral 通过修改代码自身进化的 Agent Swarm，每次迭代都通过代码提交留痕以保证可审计性。",
+  "description": "Agent Swarms that evolve by changing code. Every iteration committed. Every change auditable.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 7,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "fakechris/lumen-asr",
+  "category": "skill",
+  "summary": "为 AI Agent 提供语音识别能力的轻量 Rust 工具集。",
+  "description": null,
+  "language": "Rust",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

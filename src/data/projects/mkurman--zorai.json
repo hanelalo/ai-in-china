@@ -1,0 +1,15 @@
+{
+  "repo": "mkurman/zorai",
+  "category": "harness",
+  "summary": "一个用 Rust 写的常驻型多智能体执行平台，由守护进程统一管理任务、记忆、审批、工具和长程目标。",
+  "description": "Zorai is a persistent, multi-agent, auditable, learning execution platform where the daemon owns work, memory, approvals, tools, and long-running goals.",
+  "language": "Rust",
+  "topics": [],
+  "stars": 320,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

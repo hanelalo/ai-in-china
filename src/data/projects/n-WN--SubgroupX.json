@@ -1,0 +1,25 @@
+{
+  "repo": "n-WN/SubgroupX",
+  "category": "orchestrator",
+  "summary": "oiia 托管的 agent 会话可执行到云沙盒、SSH 主机或无公网机器，支持多 agent 持久化，可安装为 PWA。",
+  "description": "oiia — hosted agent sessions that execute wherever you point them: a cloud sandbox, an SSH host, or a machine with no public IP. Multi-agent, durable across reloads, installable as a PWA. Built by SubgroupX.",
+  "language": "TypeScript",
+  "topics": [
+    "agent-orchestration",
+    "ai-agents",
+    "coding-agent",
+    "multi-agent",
+    "pentest",
+    "pwa",
+    "remote-execution",
+    "self-hosted",
+    "typescript"
+  ],
+  "stars": 351,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

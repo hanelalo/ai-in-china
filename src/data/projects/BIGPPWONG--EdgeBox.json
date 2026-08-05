@@ -1,0 +1,22 @@
+{
+  "repo": "BIGPPWONG/EdgeBox",
+  "category": "infra",
+  "summary": "带桌面界面的本地 LLM Agent 沙盒，支持 MCP 及浏览器、终端和桌面操作。",
+  "description": "A fully-featured, GUI-powered local LLM Agent sandbox with complete MCP protocol support.   Features both CLI and full desktop environment, enabling AI agents to operate browsers, terminal, and other desktop applications just like humans. Based on E2B oss code.",
+  "language": "TypeScript",
+  "topics": [
+    "code-interpreter",
+    "computer-use",
+    "e2b",
+    "llm-agent",
+    "llm-sandbox",
+    "mcp"
+  ],
+  "stars": 213,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

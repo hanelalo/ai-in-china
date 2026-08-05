@@ -1,0 +1,20 @@
+{
+  "repo": "eunomia-bpf/agentsight",
+  "category": "infra",
+  "summary": "基于 eBPF 的 Agent 系统级性能与可观测性分析器，附带技能库。",
+  "description": "system-level profiler/monitor and skills for Agents in eBPF or Mac",
+  "language": "C",
+  "topics": [
+    "agent",
+    "ebpf",
+    "llm",
+    "observability"
+  ],
+  "stars": 561,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

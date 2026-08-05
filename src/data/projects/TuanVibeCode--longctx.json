@@ -1,0 +1,15 @@
+{
+  "repo": "TuanVibeCode/longctx",
+  "category": "infra",
+  "summary": "面向本地大模型的超长上下文优化引擎，以记忆管理在消费级 GPU 上扩展有效上下文。",
+  "description": "Longctx 是一个专为本地大语言模型设计的超长上下文优化引擎，通过创新的记忆管理架构，在消费级 GPU（RTX 3060 12GB）上实现 32K+ tokens 角色扮演“有效”上下文长度。",
+  "language": "Python",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

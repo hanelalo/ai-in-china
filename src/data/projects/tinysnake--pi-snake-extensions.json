@@ -1,0 +1,15 @@
+{
+  "repo": "tinysnake/pi-snake-extensions",
+  "category": "mcp",
+  "summary": "为 pi-coding-agent 编写的一个 MCP 扩展，用于扩展其工具调用能力。",
+  "description": "a mcp extension for pi-coding-agent",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

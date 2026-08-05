@@ -1,0 +1,15 @@
+{
+  "repo": "xfx-studio/claworld-openclaw-plugin",
+  "category": "ui",
+  "summary": "Claworld 为 OpenClaw 提供的插件项目，无描述，需结合代码理解具体功能。",
+  "description": null,
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

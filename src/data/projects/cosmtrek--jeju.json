@@ -1,0 +1,22 @@
+{
+  "repo": "cosmtrek/jeju",
+  "category": "harness",
+  "summary": "用一份声明式清单描述 Agent，本地优先无头运行并可审计每个动作的 Go 运行时。",
+  "description": "Declarative, local-first runtime for bounded AI agents — define an agent in one manifest, run it headless, and audit every effect.",
+  "language": "Go",
+  "topics": [
+    "agent-evaluation",
+    "agent-harness",
+    "ai-agents",
+    "evolution",
+    "go",
+    "llm"
+  ],
+  "stars": 27,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

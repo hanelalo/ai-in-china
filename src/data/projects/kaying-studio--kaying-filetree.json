@@ -1,0 +1,15 @@
+{
+  "repo": "kaying-studio/kaying-filetree",
+  "category": "ui",
+  "summary": "为 AI Agent 界面打造的带代码预览的文件树 Web Component。",
+  "description": "A file tree + code preview Web Component built for custom AI agent interfaces, fully benchmarked against the right-side file preview panel in ChatGPT Codex.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

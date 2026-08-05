@@ -1,0 +1,24 @@
+{
+  "repo": "web-infra-dev/midscene",
+  "category": "agent",
+  "summary": "Midscene 是字节 Web Infra 出品的视觉驱动、跨平台 AI UI 自动化框架，覆盖浏览器与手机端。",
+  "description": "AI-powered, vision-driven UI automation for every platform.",
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-test",
+    "browser-use",
+    "computer-use",
+    "gpt-operator",
+    "javascript",
+    "phone-use",
+    "testing"
+  ],
+  "stars": 14495,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

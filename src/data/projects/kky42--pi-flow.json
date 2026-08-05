@@ -1,0 +1,15 @@
+{
+  "repo": "kky42/pi-flow",
+  "category": "orchestrator",
+  "summary": "把 Claude Code、Codex、Pi 组合成子 Agent 处理复杂工作流的编排工具。",
+  "description": "Use Claude Code, Codex, Pi as subagents or agent in complex workflow.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 75,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

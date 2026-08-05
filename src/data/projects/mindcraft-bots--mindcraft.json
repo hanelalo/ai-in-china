@@ -1,0 +1,15 @@
+{
+  "repo": "mindcraft-bots/mindcraft",
+  "category": "agent",
+  "summary": "通过大模型与 Mineflayer 在 Minecraft 中自主活动的智能体项目。",
+  "description": "Minecraft AI with LLMs+Mineflayer",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 5602,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

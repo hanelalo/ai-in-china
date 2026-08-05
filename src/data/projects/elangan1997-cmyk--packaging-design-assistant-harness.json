@@ -1,0 +1,15 @@
+{
+  "repo": "elangan1997-cmyk/packaging-design-assistant-harness",
+  "category": "harness",
+  "summary": "对话生成包装结构 SVG 并编排 CMF 工艺效果图的包装设计助理 Harness 2.0。",
+  "description": "包装设计助理 Harness 2.0：对话生成包装结构 SVG、编排包装信息，并保留 CMF 工艺效果图工作流。",
+  "language": "Python",
+  "topics": [],
+  "stars": 10,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

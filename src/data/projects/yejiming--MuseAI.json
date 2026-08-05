@@ -1,0 +1,19 @@
+{
+  "repo": "yejiming/MuseAI",
+  "category": "agent",
+  "summary": "MuseAI 让用户创建 AI 角色进入故事世界，与角色聊天、冒险、互动并产生羁绊的伴侣型应用。",
+  "description": "创建你的 AI 角色，进入你的故事世界。和角色聊天、冒险、穿书，让每一次互动都留下羁绊",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "ai",
+    "companion-ai"
+  ],
+  "stars": 480,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

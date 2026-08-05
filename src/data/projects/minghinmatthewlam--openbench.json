@@ -1,0 +1,22 @@
+{
+  "repo": "minghinmatthewlam/openbench",
+  "category": "eval",
+  "summary": "同一模型不同外壳的编码 Agent harness 横向测评基准。",
+  "description": "Same model, different wrapper: a from-scratch benchmark comparing coding-agent harnesses (codex, pi, opencode, cursor, devin) and open models on correctness, speed, and token cost",
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "benchmark",
+    "coding-agents",
+    "evals",
+    "llm",
+    "open-models"
+  ],
+  "stars": 121,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

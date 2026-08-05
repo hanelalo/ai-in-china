@@ -1,0 +1,15 @@
+{
+  "repo": "ttttmr/pi-context",
+  "category": "infra",
+  "summary": "Pi-context 让 LLM 主动管理自身的上下文窗口，提供给 pi-coding-agent 使用。",
+  "description": "Letting AI Actively Manage Its Own Context",
+  "language": "Python",
+  "topics": [],
+  "stars": 271,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

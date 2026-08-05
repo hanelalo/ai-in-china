@@ -1,0 +1,22 @@
+{
+  "repo": "ttxttx1111/sts2-llm",
+  "category": "agent",
+  "summary": "用 MCP 让 AI Agent 玩杀戮尖塔2 的自进化系统：play→review→recall 循环中验证、修正、淘汰经验，探索 harness 自进化。",
+  "description": "GitHub Copilot player agent customization pack for Slay the Spire 2 via STS2MCP",
+  "language": "Python",
+  "topics": [
+    "ai-agent",
+    "copilot-cli",
+    "github-copilot",
+    "mcp",
+    "slay-the-spire-2",
+    "sts2"
+  ],
+  "stars": 41,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

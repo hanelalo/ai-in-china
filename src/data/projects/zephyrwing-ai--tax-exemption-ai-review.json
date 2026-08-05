@@ -1,0 +1,15 @@
+{
+  "repo": "zephyrwing-ai/tax-exemption-ai-review",
+  "category": "agent",
+  "summary": "一个针对税务豁免（tax exemption）场景的 AI 审核小工具 Python 仓库。",
+  "description": "tax-exemption-review",
+  "language": "Python",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

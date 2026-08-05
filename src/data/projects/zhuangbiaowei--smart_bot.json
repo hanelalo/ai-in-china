@@ -1,0 +1,15 @@
+{
+  "repo": "zhuangbiaowei/smart_bot",
+  "category": "agent",
+  "summary": "用 C 写的智能机器人（smart_bot），可能是偏底层/嵌入式的 bot 演示项目。",
+  "description": null,
+  "language": "C",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

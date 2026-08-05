@@ -1,0 +1,19 @@
+{
+  "repo": "Blushyes/reef",
+  "category": "ui",
+  "summary": "面向 AI 编程时代的轻量开发终端，重点帮助开发者审查 Agent 生成的代码。",
+  "description": " The minimal dev terminal for the AI coding era — AI writes the code, Reef is  where you review it.",
+  "language": "Rust",
+  "topics": [
+    "ai",
+    "ai-coding",
+    "claude-code"
+  ],
+  "stars": 72,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

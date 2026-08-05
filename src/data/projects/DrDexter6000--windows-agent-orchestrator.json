@@ -1,0 +1,15 @@
+{
+  "repo": "DrDexter6000/windows-agent-orchestrator",
+  "category": "orchestrator",
+  "summary": "Windows 原生无头调度器，可跨多种本地运行时派遣、认证和评估工作 Agent。",
+  "description": "Windows-native, headless orchestrator for dispatching certified worker agents through local agent runtimes (claude-code/codex/opencode/kimi). Transcript-as-source-of-truth, runtime-agnostic, scorecard gates, runtime certification.",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

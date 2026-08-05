@@ -1,0 +1,15 @@
+{
+  "repo": "test27818/rikkahub-math-plus",
+  "category": "ui",
+  "summary": "RikkaHub AI 聊天客户端二改版，新增 TikZ 自动渲染与 ai4math-lean 数学形式化技能。",
+  "description": "RikkaHub 二改增强版：TikZ 图表自动渲染（pdflatex 工作区管线）+ai4math-lean数学形式化技能。基于上游 2.4.3。",
+  "language": "Kotlin",
+  "topics": [],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,20 @@
+{
+  "repo": "genesiscosmos/downcity",
+  "category": "orchestrator",
+  "summary": "面向 Agent 的并行「城市」式隐式操作层，负责组织、调度与执行。",
+  "description": "Inspired by the idea of the Upside Down, Downcity is a parallel city built for agents — a hidden operating layer beneath the surface. It is where agents are organized, coordinated, and put to work.",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "ai",
+    "harness",
+    "productivity"
+  ],
+  "stars": 9,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

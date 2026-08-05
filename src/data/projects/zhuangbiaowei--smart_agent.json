@@ -1,0 +1,15 @@
+{
+  "repo": "zhuangbiaowei/smart_agent",
+  "category": "harness",
+  "summary": "Ruby 写的智能体（smart_agent）示例/教学项目，从命名看偏底层 Agent 框架。",
+  "description": null,
+  "language": "Ruby",
+  "topics": [],
+  "stars": 6,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

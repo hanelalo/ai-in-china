@@ -1,0 +1,21 @@
+{
+  "repo": "FutrixDev/FutrixData",
+  "category": "infra",
+  "summary": "面向 Agent 和团队的 AI 数据库网关，统一代理数据库访问并提供风险控制能力。",
+  "description": "The AI Database Gateway for Agents and Teams",
+  "language": "Go",
+  "topics": [
+    "ai-agent-database-proxy",
+    "ai-database-proxy",
+    "ai-gateway",
+    "database-proxy",
+    "database-risk-control-panel"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,25 @@
+{
+  "repo": "taekchef/agent-nocturne",
+  "category": "ui",
+  "summary": "用 MacBook 键盘背光演奏的 Agent 小夜曲，把 Claude Code/Codex/Pi 的状态可视化为键盘灯效。",
+  "description": "A nocturne for your coding agent, played on the MacBook keyboard backlight.",
+  "language": "JavaScript",
+  "topics": [
+    "agent-nocturne",
+    "claude-code",
+    "codex",
+    "coding-agent",
+    "coding-agents",
+    "keyboard-backlight",
+    "macbook",
+    "macos",
+    "pi"
+  ],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,21 @@
+{
+  "repo": "libra-tools/libra",
+  "category": "infra",
+  "summary": "面向 AI Agent 的下一代原生版本控制工具。",
+  "description": "Libra is evolving into an AI agent–native version control tools",
+  "language": "Rust",
+  "topics": [
+    "git",
+    "jj",
+    "pijul",
+    "rust",
+    "vcs"
+  ],
+  "stars": 81,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

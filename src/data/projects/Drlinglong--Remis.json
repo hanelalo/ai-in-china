@@ -1,0 +1,30 @@
+{
+  "repo": "Drlinglong/Remis",
+  "category": "agent",
+  "summary": "面向 Paradox 模组的 AI 桌面本地化系统，支持编排、校验、修复和人工审核。",
+  "description": "AI-native desktop localization system for Paradox mods—LLM orchestration, context engineering, structured validation, repair loops, human review, and local-first project control.",
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "ai",
+    "fastapi",
+    "human-in-the-loop",
+    "llm",
+    "llmops",
+    "localization",
+    "modding",
+    "paradox-games",
+    "pydantic-ai",
+    "python",
+    "rag",
+    "react",
+    "tauri"
+  ],
+  "stars": 25,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

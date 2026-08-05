@@ -1,0 +1,15 @@
+{
+  "repo": "HaoyueQin/picture-identification-MCP",
+  "category": "mcp",
+  "summary": "为 AI Agent 提供截图、界面、图表和照片描述及 OCR 能力的本地 MCP 服务。",
+  "description": "本地视觉理解 MCP 服务，为 AI agent 提供识图能力：通过 vision / ocr / list_models / providers 四个 MCP 工具描述截图、界面、图表与照片。",
+  "language": "Rust",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

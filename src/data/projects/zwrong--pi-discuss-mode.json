@@ -1,0 +1,15 @@
+{
+  "repo": "zwrong/pi-discuss-mode",
+  "category": "skill",
+  "summary": "为 Pi Coding Agent 增加的只读讨论模式：让用户在不引入规划阶段的情况下安全地与代码对话。",
+  "description": "A read-only discussion mode for Pi Coding Agent — safety without the planning.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 12,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

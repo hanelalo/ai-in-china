@@ -1,0 +1,23 @@
+{
+  "repo": "stonega/cusco",
+  "category": "ui",
+  "summary": "Cusco 是一个 GNOME 原生 AI 聊天桌面应用，主打 Linux/Wayland 环境下的轻量化对话。",
+  "description": "Cusco is a native GNOME AI chat app.",
+  "language": "JavaScript",
+  "topics": [
+    "agent",
+    "agents",
+    "ai",
+    "gnome",
+    "linux",
+    "llm",
+    "wayland"
+  ],
+  "stars": 3,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

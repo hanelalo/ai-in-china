@@ -1,0 +1,24 @@
+{
+  "repo": "xiaotonng/pikiloom",
+  "category": "agent",
+  "summary": "Pikiloom 是一个便携运行/分发 Claude、Codex 等顶尖 AI Agent 与插件的 Node/Telegram 工具。",
+  "description": "Put the world's smartest AI agents & plugins in your pocket",
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "claude",
+    "cli",
+    "codex",
+    "coding",
+    "nodejs",
+    "npx",
+    "telegram"
+  ],
+  "stars": 293,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

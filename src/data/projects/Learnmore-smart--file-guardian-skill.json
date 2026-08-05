@@ -1,0 +1,15 @@
+{
+  "repo": "Learnmore-smart/file-guardian-skill",
+  "category": "skill",
+  "summary": "强制 AI 在编写代码前先完善文档，以规范 Agent 软件开发流程的技能。",
+  "description": "File Guardian is a Skill that makes AI write documentation before writing code. ",
+  "language": null,
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

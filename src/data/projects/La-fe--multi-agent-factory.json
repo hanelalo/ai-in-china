@@ -1,0 +1,15 @@
+{
+  "repo": "La-fe/multi-agent-factory",
+  "category": "orchestrator",
+  "summary": "展示并实现高频协作开发的多 Agent 工厂，用于协调大量 Agent 持续提交代码。",
+  "description": "Multi-agent development factory — Peter Steinberger (OpenClaw) style. Learn how 30 AI agents commit 627 times/day.",
+  "language": "Shell",
+  "topics": [],
+  "stars": 3,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

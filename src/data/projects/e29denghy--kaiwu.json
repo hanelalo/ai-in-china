@@ -1,0 +1,22 @@
+{
+  "repo": "e29denghy/kaiwu",
+  "category": "orchestrator",
+  "summary": "本地优先、需人工批准的协调多套 Agent harness 的工作台。",
+  "description": "开物 KAIWU — a local-first, human-approved workbench for coordinating multiple agent harnesses.",
+  "language": "PHP",
+  "topics": [
+    "agent-harness",
+    "ai-agents",
+    "codex",
+    "laravel",
+    "vue",
+    "workflow"
+  ],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "zhuangbiaowei/smart_prompt",
+  "category": "skill",
+  "summary": "Ruby 写的 smart_prompt，可能是为 smart_agent/bot 提供 prompt/模板管理的组件。",
+  "description": null,
+  "language": "Ruby",
+  "topics": [],
+  "stars": 8,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

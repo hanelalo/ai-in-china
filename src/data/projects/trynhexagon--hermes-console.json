@@ -1,0 +1,25 @@
+{
+  "repo": "trynhexagon/hermes-console",
+  "category": "ui",
+  "summary": "Hermes Console 是面向多 Agent OS 的操作员控制台 UI，React 18 零构建集成编排界面。",
+  "description": "Operator console UI for orchestrating multi-agent systems — the control surface for a personal/enterprise Agent OS. React 18, zero-build.",
+  "language": "JavaScript",
+  "topics": [
+    "agent-os",
+    "ai-agent",
+    "console",
+    "hermes",
+    "llm",
+    "multi-agent",
+    "operator-console",
+    "prototype",
+    "react"
+  ],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

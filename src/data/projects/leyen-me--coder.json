@@ -1,0 +1,15 @@
+{
+  "repo": "leyen-me/coder",
+  "category": "harness",
+  "summary": "具备自主 Agent 循环、远程 SSH 执行、定时任务和技能系统的 AI 原生开发环境。",
+  "description": "An AI-native development environment with autonomous agent loop, remote SSH execution, cron-based automations, and a customizable skills system — built with Rust and React.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

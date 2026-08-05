@@ -1,0 +1,15 @@
+{
+  "repo": "crisxuan/bestJavaer",
+  "category": "content",
+  "summary": "cxuan 的个人 AI 实验室，记录 AI 文章、工具资源、Agent 实验与踩坑复盘。",
+  "description": "现在这个 repo 它已转型为 cxuan-ai-labs：一个普通开发者在 AI 时代的个人实验室，用来记录 AI 文章、工具资源、Agent 实验、模型观察、踩坑复盘，以及一些未必成熟但真实有趣的 AI 作品。旧 Java 内容已归档保留，新主线转向 AI。",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 6617,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

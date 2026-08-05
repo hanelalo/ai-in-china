@@ -1,0 +1,15 @@
+{
+  "repo": "ZacharyZhang-NY/Kigi-CLI",
+  "category": "ui",
+  "summary": "内置图工程能力的 Rust 命令行工具，基于 Grok Build 开源项目构建。",
+  "description": "Kigi — The world's first CLI with built-in Graph Engineering (Rust, based on Grok Build open source)",
+  "language": "Rust",
+  "topics": [],
+  "stars": 55,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

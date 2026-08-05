@@ -1,0 +1,32 @@
+{
+  "repo": "omnigent-ai/omnigent",
+  "category": "orchestrator",
+  "summary": "Omnigent 是一个统一编排 Claude Code、Codex、Cursor 等多 Agent 的 meta-harness 框架，支持沙箱与策略治理。",
+  "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+  "language": "Python",
+  "topics": [
+    "agent-framework",
+    "agent-governance",
+    "agent-orchestration",
+    "agents",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "llm",
+    "ml",
+    "multi-agent",
+    "python",
+    "sandbox"
+  ],
+  "stars": 8156,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

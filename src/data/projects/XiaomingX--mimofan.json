@@ -1,0 +1,19 @@
+{
+  "repo": "XiaomingX/mimofan",
+  "category": "harness",
+  "summary": "面向 AI 编程任务的 Agent 平台，提供基于 Rust 的智能编码运行环境。",
+  "description": "mimofan - AI coding agent platform",
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "mimo",
+    "openai"
+  ],
+  "stars": 5,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

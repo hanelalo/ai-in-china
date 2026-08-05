@@ -1,0 +1,24 @@
+{
+  "repo": "JunJD/Jingle",
+  "category": "ui",
+  "summary": "兼具桌面命令启动器与工作台功能，用于运行和审计 AI Agent 的操作过程。",
+  "description": "Jingle is a desktop command launcher and agent workbench for auditable AI agents.Jingle 是一款桌面命令启动器和可审计 AI Agent的工作台",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "ai",
+    "desktop",
+    "electron",
+    "langchain",
+    "launcher",
+    "raycast",
+    "typescript"
+  ],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

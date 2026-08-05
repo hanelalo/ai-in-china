@@ -1,0 +1,15 @@
+{
+  "repo": "zephyrwing-ai/GetClowHubSkills",
+  "category": "skill",
+  "summary": "面向 Codex 的技能目录（Skills Catalog）仓库，集中索引可被 Codex 调用的技能。",
+  "description": "Skills Catelog for Codex",
+  "language": "Python",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

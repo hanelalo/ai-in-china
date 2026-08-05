@@ -1,0 +1,15 @@
+{
+  "repo": "kevin0x5/deepmate",
+  "category": "harness",
+  "summary": "面向 DeepSeek 优化的低成本自进化 Agent 工作台：支持长程任务可靠执行与受控工具调用，沉淀 workflow 与 skill。",
+  "description": "A cost-efficient, self-evolving agent workbench for reliable long-running work and governed tool use, optimized for DeepSeek.",
+  "language": "Python",
+  "topics": [],
+  "stars": 5,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

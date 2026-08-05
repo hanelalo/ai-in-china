@@ -1,0 +1,32 @@
+{
+  "repo": "lencx/Noi",
+  "category": "ui",
+  "summary": "一站式浏览器扩展，聚合 ChatGPT、Claude、Copilot、DeepSeek 等多个 AI 站点。",
+  "description": "🚀 Less chaos. More flow.",
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "application",
+    "browser",
+    "chatgpt",
+    "claude",
+    "copilot",
+    "deepseek",
+    "extension",
+    "gemini",
+    "grok",
+    "macos",
+    "noi",
+    "perplexity",
+    "qwen",
+    "tools",
+    "windows"
+  ],
+  "stars": 8976,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

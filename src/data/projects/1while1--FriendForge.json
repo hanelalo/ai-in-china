@@ -1,0 +1,15 @@
+{
+  "repo": "1while1/FriendForge",
+  "category": "agent",
+  "summary": "将聊天记录转化为可复用的 AI 朋友分身，并提供构建、试聊、验收与导出工作台。",
+  "description": "  FriendForge 将聊天记录转化为可复用的 AI 朋友分身，无需微调模型。它提供 FastAPI + Vue Web 工作台，用于构建 owner→audience Persona Bundle，并支持流式验收、试聊天、产物导出、BYOK 大模型接入   和门禁发布检查。",
+  "language": "Python",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,20 @@
+{
+  "repo": "AtomicsLaboratory/atomstudio",
+  "category": "ui",
+  "summary": "用于开发、调试、验证和发布可执行文档的可视化文档工程环境。",
+  "description": "Document Engineering Environment for developing, debugging, validating, and publishing executable documents",
+  "language": "JavaScript",
+  "topics": [
+    "ai-agents",
+    "developer-tools",
+    "document-engineering",
+    "executable-documents"
+  ],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

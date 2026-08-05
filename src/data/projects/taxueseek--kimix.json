@@ -1,0 +1,24 @@
+{
+  "repo": "taxueseek/kimix",
+  "category": "agent",
+  "summary": "用 Rust 写的高性能通用终端 AI Agent，深度接入月之暗面 Kimi CLI 工作流。",
+  "description": "高性能，低门槛的通用终端 AI 代理工具 / General-purpose terminal AI agent",
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "ai-agent",
+    "cli",
+    "kimi",
+    "moonshot",
+    "rust",
+    "terminal",
+    "tui"
+  ],
+  "stars": 14,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

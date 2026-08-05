@@ -1,0 +1,15 @@
+{
+  "repo": "hilt21/Adaptive-Harness",
+  "category": "harness",
+  "summary": "本地优先、与客户端无关的渐进式 Agent harness，含身份校验与完成门禁。",
+  "description": "A local-first, client-agnostic progressive agent harness providing verified workspace identity, clear capability boundaries, trusted execution records, enforceable completion gates, and feedback-driven module recommendations.",
+  "language": "Python",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

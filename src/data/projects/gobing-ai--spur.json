@@ -1,0 +1,15 @@
+{
+  "repo": "gobing-ai/spur",
+  "category": "skill",
+  "summary": "与主流编码 Agent 协作的 solid harness 工程化工具集。",
+  "description": "Spur is a solid harness engineering toolkit which cooperates with these mainstream coding agents.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

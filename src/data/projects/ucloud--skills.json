@@ -1,0 +1,15 @@
+{
+  "repo": "ucloud/skills",
+  "category": "skill",
+  "summary": "UCloud 出品的 agent 技能集合仓库（description/topics 为空），具体内容以文件列表为准。",
+  "description": null,
+  "language": null,
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

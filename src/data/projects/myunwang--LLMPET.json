@@ -1,0 +1,31 @@
+{
+  "repo": "myunwang/LLMPET",
+  "category": "ui",
+  "summary": "一个盯 Claude Code 的桌面宠物 Electron 应用，随 agent 状态变表情、弹通知、一键授权并统计 token 用量。",
+  "description": "🐙 盯着 Claude Code 的桌面宠物：随 agent 状态变表情、弹消息气泡、一键授权，并统计 token 用量与花费。本地优先、MIT。",
+  "language": "JavaScript",
+  "topics": [
+    "ai-agent",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "coding-agent",
+    "cost-tracking",
+    "desktop-pet",
+    "developer-tools",
+    "electron",
+    "llm",
+    "macos",
+    "mascot",
+    "productivity",
+    "token-usage",
+    "tray-app"
+  ],
+  "stars": 75,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

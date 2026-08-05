@@ -1,0 +1,15 @@
+{
+  "repo": "ZhenHuangLab/collaborating-with-claude-code",
+  "category": "skill",
+  "summary": "通过 Codex 技能让主 Agent 与 Claude Code 协作完成编程任务。",
+  "description": "Let codex (main agent) collaborate with claude code Through codex skills",
+  "language": "Python",
+  "topics": [],
+  "stars": 40,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

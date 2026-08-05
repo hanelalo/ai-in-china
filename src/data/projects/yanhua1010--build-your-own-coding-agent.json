@@ -1,0 +1,15 @@
+{
+  "repo": "yanhua1010/build-your-own-coding-agent",
+  "category": "content",
+  "summary": "用三套工业级开源实现（pi/codex/grok-build）作案例的教学仓库：手把手带你写自己的编码 agent。",
+  "description": "从零写出你自己的 coding agent：对照 pi / codex / grok-build 三个工业级开源实现",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 27,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

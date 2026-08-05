@@ -1,0 +1,15 @@
+{
+  "repo": "lwmxiaobei/xbcode",
+  "category": "agent",
+  "summary": "基于 OpenAI SDK 与 Ink 的 TypeScript 命令行编码 Agent。",
+  "description": " a TypeScript-based CLI coding agent built with OpenAI SDK and Ink",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 48,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

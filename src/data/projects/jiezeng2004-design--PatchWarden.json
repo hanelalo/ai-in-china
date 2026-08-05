@@ -1,0 +1,30 @@
+{
+  "repo": "jiezeng2004-design/PatchWarden",
+  "category": "infra",
+  "summary": "把 ChatGPT 对话转成安全可审计本地执行的 Agent 任务编排系统。",
+  "description": "Turn your ChatGPT conversations into safe, auditable local execution. PatchWarden lets you discuss ideas and plans with ChatGPT, then hand the approved plan to local AI agents for guarded, traceable implementation—with scoped permissions, independent verification, and a complete execution record.Turn your ChatGPT conversations into safe, auditable ",
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "automation",
+    "chatgpt",
+    "github-copilot",
+    "learn",
+    "local-agents",
+    "local-first",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "opencode",
+    "safe-summaries",
+    "security",
+    "typescript"
+  ],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

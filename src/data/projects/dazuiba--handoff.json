@@ -1,0 +1,26 @@
+{
+  "repo": "dazuiba/handoff",
+  "category": "skill",
+  "summary": "让 Claude Code 或 Codex 会话直接把任务委派给 DeepSeek 的桥接工具。",
+  "description": "Delegate tasks to DeepSeek right inside your Claude Code / Codex sessions.",
+  "language": "Python",
+  "topics": [
+    "agent-handoffs",
+    "agent-orchestration",
+    "claude-cli",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "codex-skill",
+    "coding-agent",
+    "deepseek",
+    "orchestrators"
+  ],
+  "stars": 80,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

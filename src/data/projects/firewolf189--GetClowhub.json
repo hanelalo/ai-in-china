@@ -1,0 +1,15 @@
+{
+  "repo": "firewolf189/GetClowhub",
+  "category": "other",
+  "summary": "用于托管 dmg 等二进制文件的简单下载站。",
+  "description": "dmg文件托管",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

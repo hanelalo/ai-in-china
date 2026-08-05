@@ -1,0 +1,27 @@
+{
+  "repo": "SenmuuuuW/universal-diagnostic-tutor-skill",
+  "category": "skill",
+  "summary": "面向 STEM 和计算机学习的诊断式辅导技能，可讲解概念、检查理解并促进掌握。",
+  "description": "Diagnosis-first AI tutor skill for STEM, AI/CS learning: teaches concepts, checks understanding, and builds mastery.",
+  "language": null,
+  "topics": [
+    "ai-education",
+    "ai-tutor",
+    "codex",
+    "codex-skill",
+    "computer-science",
+    "diagnostics",
+    "learning-assistant",
+    "math",
+    "skill",
+    "stem",
+    "tutoring"
+  ],
+  "stars": 154,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

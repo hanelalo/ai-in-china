@@ -1,0 +1,15 @@
+{
+  "repo": "yangliangyl/project-handoff-memory",
+  "category": "skill",
+  "summary": "一个把项目记忆沉淀为文件、跨会话/模型/工具接力的 Agent Skill 包。",
+  "description": "给 AI 装上长期项目记忆的 Agent Skill：把项目记忆沉淀成文件，跨会话/模型/工具接力",
+  "language": "Python",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

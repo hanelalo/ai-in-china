@@ -1,0 +1,15 @@
+{
+  "repo": "phodal/routa",
+  "category": "orchestrator",
+  "summary": "面向 AI 开发的工作区优先多 Agent 协作平台，集成 Specs、看板编排与 MCP/ACP/A2A 协议，跨 Web/Desktop 运行。",
+  "description": "Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 1772,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

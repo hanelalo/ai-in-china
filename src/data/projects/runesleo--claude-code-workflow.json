@@ -1,0 +1,15 @@
+{
+  "repo": "runesleo/claude-code-workflow",
+  "category": "harness",
+  "summary": "一个轻量级工作系统 QuietHarness，统一调度 Claude Code、Codex、Cursor 等多 AI 编码工具的脚本流。",
+  "description": "QuietHarness：Claude Code、Codex、Cursor 共用的轻量 AI 工作系统",
+  "language": "Shell",
+  "topics": [],
+  "stars": 709,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

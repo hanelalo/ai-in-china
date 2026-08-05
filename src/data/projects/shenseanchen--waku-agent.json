@@ -1,0 +1,28 @@
+{
+  "repo": "shenseanchen/waku-agent",
+  "category": "harness",
+  "summary": "Waku-agent 是一个本地优先的个人 AI Agent，含 harness、主循环、记忆与评估四要素，半天可读完源码。",
+  "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
+  "language": "Python",
+  "topics": [
+    "agent-framework",
+    "ai-agent",
+    "ai-assistant",
+    "claude",
+    "evals",
+    "llm",
+    "llmops",
+    "local-first",
+    "openai",
+    "personal-assistant",
+    "python",
+    "sqlite"
+  ],
+  "stars": 882,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

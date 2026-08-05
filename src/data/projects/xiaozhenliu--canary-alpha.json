@@ -1,0 +1,15 @@
+{
+  "repo": "xiaozhenliu/canary-alpha",
+  "category": "agent",
+  "summary": "Canary-alpha 是一个了解用户行为并学习其思维模式的个人 AI 助手原型。",
+  "description": "An AI assistant that knows what you do and learns how you think.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

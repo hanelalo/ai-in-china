@@ -1,0 +1,15 @@
+{
+  "repo": "lumixraku/Forge3D",
+  "category": "ui",
+  "summary": "对话式工作流工作室，把对话转化为可执行流程。",
+  "description": "Conversational workflow studio",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,22 @@
+{
+  "repo": "ChatLab/ChatLab",
+  "category": "agent",
+  "summary": "本地优先的 AI 聊天记录分析工具，可对历史对话进行分析与数据可视化。",
+  "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+  "language": "TypeScript",
+  "topics": [
+    "ai-agent",
+    "ai-agents",
+    "chat-analyzer",
+    "chat-history",
+    "data-analysis",
+    "data-visualization"
+  ],
+  "stars": 7094,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

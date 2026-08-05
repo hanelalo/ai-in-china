@@ -1,0 +1,15 @@
+{
+  "repo": "SunChJ/skillbench",
+  "category": "eval",
+  "summary": "为 Codex 技能提供可复现且有证据支撑的基准测试与效果验证框架。",
+  "description": "Reproducible, evidence-backed benchmarks for Codex skills",
+  "language": "Rust",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

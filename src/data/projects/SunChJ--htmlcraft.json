@@ -1,0 +1,15 @@
+{
+  "repo": "SunChJ/htmlcraft",
+  "category": "skill",
+  "summary": "帮助 Claude Code 使用 Three.js、Canvas 和精选风格生成生产级单文件网页。",
+  "description": "Claude Code skill — generate production-quality self-contained HTML with Three.js, Canvas 2D, and 10 curated design styles",
+  "language": "Python",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

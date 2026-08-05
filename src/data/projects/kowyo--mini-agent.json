@@ -1,0 +1,15 @@
+{
+  "repo": "kowyo/mini-agent",
+  "category": "agent",
+  "summary": "在终端里运行的极简 Agent 实现。",
+  "description": "A minimal agent running in your terminal.",
+  "language": "Python",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

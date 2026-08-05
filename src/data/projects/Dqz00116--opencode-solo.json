@@ -1,0 +1,28 @@
+{
+  "repo": "Dqz00116/opencode-solo",
+  "category": "orchestrator",
+  "summary": "OpenCode 多 Agent 配置，由只读调度器向六个专用子 Agent 分派任务并交叉验证。",
+  "description": "OpenCode agent configuration — a read-only orchestrator delegates to 6 specialized subagents. Expert model plans, fast models execute. Isolated contexts, minimal permissions, adversarial verification built in. Ready to drop in.",
+  "language": null,
+  "topics": [
+    "agent-system",
+    "ai-agent",
+    "ai-coding-assistant",
+    "llm",
+    "llm-agents",
+    "model-routing",
+    "multi-agent",
+    "opencode",
+    "orchestrator",
+    "prompt-engineering",
+    "subagent",
+    "token-efficient"
+  ],
+  "stars": 32,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

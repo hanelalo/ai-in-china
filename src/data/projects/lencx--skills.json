@@ -1,0 +1,25 @@
+{
+  "repo": "lencx/skills",
+  "category": "skill",
+  "summary": "为各类 AI Agent 策展精选的可复用技能集合。",
+  "description": "💡 A curated collection of skills for AI agents — turning tacit knowledge into reliable execution.",
+  "language": "JavaScript",
+  "topics": [
+    "agent",
+    "ai",
+    "architecture",
+    "claude-code",
+    "codex",
+    "coding",
+    "gpt",
+    "openai",
+    "skills"
+  ],
+  "stars": 110,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

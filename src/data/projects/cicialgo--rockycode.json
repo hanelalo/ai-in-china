@@ -1,0 +1,15 @@
+{
+  "repo": "cicialgo/rockycode",
+  "category": "harness",
+  "summary": "可通过对话操作的编程 Agent，并提供用于验证其运行效果的 Harness 实验机制。",
+  "description": "A coding agent you can talk to — and the harness science to prove it works. amaze amaze!",
+  "language": "Python",
+  "topics": [],
+  "stars": 21,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

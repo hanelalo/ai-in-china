@@ -1,0 +1,15 @@
+{
+  "repo": "fakechris/mreviewer",
+  "category": "skill",
+  "summary": "面向编程 Agent 的代码评审辅助 Go 工具。",
+  "description": null,
+  "language": "Go",
+  "topics": [],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,24 @@
+{
+  "repo": "Zhenyu98/codex-chatgpt-bridge",
+  "category": "orchestrator",
+  "summary": "在 Codex 与 ChatGPT 间安全交接编程工作，节省令牌并控制本地执行。",
+  "description": "A safe bridge for Codex and ChatGPT to hand off coding work, save tokens, and keep local execution under control.",
+  "language": "PowerShell",
+  "topics": [
+    "agentic-workflow",
+    "ai-agents",
+    "chatgpt",
+    "codex-skill",
+    "devspace",
+    "mcp",
+    "multi-agent",
+    "token-saving"
+  ],
+  "stars": 168,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

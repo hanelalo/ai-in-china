@@ -1,0 +1,15 @@
+{
+  "repo": "luwill/research-skills",
+  "category": "skill",
+  "summary": "把常见研究经验与流程封装成可复用的 Agent 技能集合。",
+  "description": "Some commonly used research experiences and processes are encapsulated into Agent skills.",
+  "language": "Python",
+  "topics": [],
+  "stars": 791,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

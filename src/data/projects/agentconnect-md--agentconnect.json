@@ -1,0 +1,18 @@
+{
+  "repo": "agentconnect-md/agentconnect",
+  "category": "orchestrator",
+  "summary": "让团队在现有工作场景中召唤多个 Agent，使其与人类及彼此协作和持续学习。",
+  "description": "Tag any agent, wherever work happens, your agents work alongside your team and each other, learning as they go.",
+  "language": "TypeScript",
+  "topics": [
+    "ai-agent",
+    "developer-tools"
+  ],
+  "stars": 10,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

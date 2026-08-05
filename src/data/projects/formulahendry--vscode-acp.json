@@ -1,0 +1,21 @@
+{
+  "repo": "formulahendry/vscode-acp",
+  "category": "ui",
+  "summary": "VS Code 中连接 Claude、Codex、Copilot 等 ACP 兼容 Agent 的客户端扩展。",
+  "description": "Agent Client Protocol client for VS Code — connect to any ACP-compatible AI coding agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode, Kiro, OpenClaw, Hermes and more)",
+  "language": "TypeScript",
+  "topics": [
+    "acp",
+    "agent-client-protocol",
+    "agentclientprotocol",
+    "vscode",
+    "vscode-extension"
+  ],
+  "stars": 344,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

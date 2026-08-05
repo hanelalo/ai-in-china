@@ -1,0 +1,15 @@
+{
+  "repo": "ltoddy/aries",
+  "category": "agent",
+  "summary": "作者自研的通用型 AI Agent，用于辅助日常开发工作。",
+  "description": "一个自研的通用型 AI Agent，用于辅助日常开发工作。",
+  "language": "Rust",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

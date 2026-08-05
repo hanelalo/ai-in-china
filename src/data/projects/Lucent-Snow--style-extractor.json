@@ -1,0 +1,15 @@
+{
+  "repo": "Lucent-Snow/style-extractor",
+  "category": "skill",
+  "summary": "从现有网页中尽可能完整提取视觉样式，供 Agent 复刻和生成页面的技能。",
+  "description": "一个能够提取最大化提取网页风格的skill",
+  "language": "CSS",
+  "topics": [],
+  "stars": 435,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

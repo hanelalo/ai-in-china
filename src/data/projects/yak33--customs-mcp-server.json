@@ -1,0 +1,25 @@
+{
+  "repo": "yak33/customs-mcp-server",
+  "category": "mcp",
+  "summary": "一个提供 14 项报关/贸易工具的 MCP server，对接 Claude/Cursor/Windsurf 等客户端，含单证解析与船舶追踪。",
+  "description": "14 customs & trade capabilities as Model Context Protocol tools — declarations, ship tracking, tariff, dual-use       screening, AI-powered document parsing. Works with Claude Desktop, Claude Code, Cursor, Windsurf, Trae & any MCP-compatible AI client.",
+  "language": "TypeScript",
+  "topics": [
+    "ai-agent",
+    "ai-tools",
+    "claude-code",
+    "cursor",
+    "customs",
+    "declaration",
+    "mcp",
+    "typescript",
+    "windsurf"
+  ],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

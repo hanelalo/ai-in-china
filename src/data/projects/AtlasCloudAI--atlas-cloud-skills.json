@@ -1,0 +1,25 @@
+{
+  "repo": "AtlasCloudAI/atlas-cloud-skills",
+  "category": "skill",
+  "summary": "让主流编程 Agent 调用数百种云端模型并生成图片、视频的技能集合。",
+  "description": "Atlas Cloud skills for Claude Code, Codex & Gemini CLI — generate images/videos and call 300+ AI models from your coding agent.",
+  "language": "Shell",
+  "topics": [
+    "agent-skills",
+    "ai",
+    "atlascloud",
+    "claude-code",
+    "generative-ai",
+    "image-generation",
+    "llm",
+    "mcp",
+    "video-generation"
+  ],
+  "stars": 14,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,24 @@
+{
+  "repo": "ZhenHuangLab/pi-xai-search",
+  "category": "skill",
+  "summary": "为 Pi 提供模型无关的 X 平台实时搜索扩展，底层调用 xAI 原生搜索工具。",
+  "description": "Model-independent live X search for Pi, powered by xAI's native x_search tool",
+  "language": "TypeScript",
+  "topics": [
+    "ai-tools",
+    "grok",
+    "pi-extension",
+    "search",
+    "twitter",
+    "typescript",
+    "x-search",
+    "xai"
+  ],
+  "stars": 5,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

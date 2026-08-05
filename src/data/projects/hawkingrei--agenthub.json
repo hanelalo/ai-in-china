@@ -1,0 +1,19 @@
+{
+  "repo": "hawkingrei/agenthub",
+  "category": "orchestrator",
+  "summary": "面向长期 AI 编码 Agent 的自托管控制面，含 ACP 时间线与多 Agent 团队工作流。",
+  "description": "Self-hosted control plane for long-lived AI coding agents — structured ACP timelines, multi-agent team workflows, and remote execution nodes in one surface.",
+  "language": "Rust",
+  "topics": [
+    "agent-teams",
+    "agents",
+    "local-first"
+  ],
+  "stars": 32,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

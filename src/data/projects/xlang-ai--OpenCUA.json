@@ -1,0 +1,22 @@
+{
+  "repo": "xlang-ai/OpenCUA",
+  "category": "agent",
+  "summary": "OpenCUA 是 NeurIPS'25 Spotlight，面向 Computer-Use Agent 的开源基础（含数据/模型/评测）。",
+  "description": "[NeurIPS 2025 Spotlight] OpenCUA: Open Foundations for Computer-Use Agents",
+  "language": "Python",
+  "topics": [
+    "benchmark",
+    "computer-use-agent",
+    "dataset",
+    "foundation-models",
+    "gui",
+    "vision-language-model"
+  ],
+  "stars": 812,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

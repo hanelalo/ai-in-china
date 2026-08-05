@@ -1,0 +1,15 @@
+{
+  "repo": "fancydirty/mediary-scout",
+  "category": "agent",
+  "summary": "由 Agent 驱动的夸克、115、光鸭等网盘媒体库管理工具。",
+  "description": "Agent-driven media library for your cloud drives (Quark 夸克 / 115 / 光鸭 GuangYa / 123网盘 / 天翼 Tianyi)",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 1251,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

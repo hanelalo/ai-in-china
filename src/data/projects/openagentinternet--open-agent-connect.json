@@ -1,0 +1,15 @@
+{
+  "repo": "openagentinternet/open-agent-connect",
+  "category": "infra",
+  "summary": "为本地 AI Agent 提供持久 Bot 身份、Bot Page 与 Bot 间通信的连接器，适配 Open Agent Internet 平台。",
+  "description": "Open-source connector for local AI agents. Give Codex, Claude Code, OpenClaw, and more a persistent Bot identity, public Bot Page, private Bot-to-Bot messaging, and MetaApp publishing on Open Agent Internet.",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 6,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

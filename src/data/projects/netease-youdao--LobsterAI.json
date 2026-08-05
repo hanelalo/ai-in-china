@@ -1,0 +1,33 @@
+{
+  "repo": "netease-youdao/LobsterAI",
+  "category": "harness",
+  "summary": "网易有道开源的桌面级 AI Agent，基于 OpenClaw 改造，可执行数据分析、PPT、文档、视频研究和远程手机指令。",
+  "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "ai-agent",
+    "ai-assistant",
+    "automation",
+    "autonomous-agents",
+    "chatbot",
+    "copilot",
+    "cross-platform",
+    "desktop-app",
+    "electron",
+    "llm",
+    "mcp",
+    "office-automation",
+    "openclaw",
+    "productivity",
+    "react",
+    "tyepscript"
+  ],
+  "stars": 5773,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

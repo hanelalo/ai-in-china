@@ -1,0 +1,23 @@
+{
+  "repo": "tddworks/baguette",
+  "category": "infra",
+  "summary": "Baguette 通过 Swift 提供对 iOS 模拟器的无头控制，支持 3D 模型、点击滑动、多指手势与设备群。",
+  "description": "Headless control for Apple's Simulators — 3D models, taps, swipes, multi-finger gestures, 60 fps streaming, and a multi-device farm",
+  "language": "Swift",
+  "topics": [
+    "agent",
+    "cli",
+    "devicefarm",
+    "ios",
+    "simulator",
+    "simulatorkit",
+    "streaming"
+  ],
+  "stars": 1600,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,23 @@
+{
+  "repo": "neoclide/coc.nvim",
+  "category": "infra",
+  "summary": "为 Vim/Neovim 提供类 VSCode 的扩展宿主和 LSP 客户端生态，是 coc.nvim 这个老牌编辑器增强框架。",
+  "description": "Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.",
+  "language": "TypeScript",
+  "topics": [
+    "autocompletion",
+    "language-client",
+    "lsp",
+    "neovim-plugin",
+    "nvim",
+    "vim",
+    "vim-plugin"
+  ],
+  "stars": 25166,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

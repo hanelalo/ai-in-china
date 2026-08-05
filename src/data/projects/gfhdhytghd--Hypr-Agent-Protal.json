@@ -1,0 +1,15 @@
+{
+  "repo": "gfhdhytghd/Hypr-Agent-Protal",
+  "category": "mcp",
+  "summary": "在 Hyprland 桌面提供桌面自动化能力的 Computer Use MCP server。",
+  "description": "Computer Use MCP for Hyprland",
+  "language": "Python",
+  "topics": [],
+  "stars": 2,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

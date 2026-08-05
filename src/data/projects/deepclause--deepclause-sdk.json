@@ -1,0 +1,15 @@
+{
+  "repo": "deepclause/deepclause-sdk",
+  "category": "harness",
+  "summary": "DeepClause 的 TypeScript DML（决策逻辑语言）SDK 与运行时，让 Agent 用小型可执行逻辑程序自建技能与工具。",
+  "description": "DeepClause Typescript DML SDK and runtime",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 47,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

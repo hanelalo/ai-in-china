@@ -1,0 +1,15 @@
+{
+  "repo": "maka-agent/maka-agent",
+  "category": "ui",
+  "summary": "本地优先的 AI 桌面助手，支持多模型与自动化任务。",
+  "description": "Maka — local-first AI desktop assistant",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 1202,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

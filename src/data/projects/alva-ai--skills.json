@@ -1,0 +1,15 @@
+{
+  "repo": "alva-ai/skills",
+  "category": "skill",
+  "summary": "用于构建金融 Agent 应用的技能包，可访问数据、云端分析、回测并发布交互方案。",
+  "description": "Build and deploy agentic finance applications on the Alva platform. Access 250+ financial data sources, run cloud-side analytics, backtest trading strategies, and publish interactive playbooks.",
+  "language": "CSS",
+  "topics": [],
+  "stars": 34,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

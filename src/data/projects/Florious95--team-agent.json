@@ -1,0 +1,28 @@
+{
+  "repo": "Florious95/team-agent",
+  "category": "orchestrator",
+  "summary": "连接 Claude Code 与 Codex CLI 的多 Agent 运行时，由主 Agent 跨模型协调团队。",
+  "description": "Talk once, ship a team. A multi-agent runtime for Claude Code and Codex CLI where the lead does the orchestration — across providers, in conversation.",
+  "language": "Rust",
+  "topics": [
+    "agent-teams",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "codex",
+    "codex-cli",
+    "cross-provider",
+    "harness",
+    "mcp",
+    "mcp-server",
+    "multi-agent",
+    "tmux"
+  ],
+  "stars": 6,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

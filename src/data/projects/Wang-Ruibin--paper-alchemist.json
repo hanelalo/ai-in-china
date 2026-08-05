@@ -1,0 +1,15 @@
+{
+  "repo": "Wang-Ruibin/paper-alchemist",
+  "category": "skill",
+  "summary": "跨 Agent 使用的双语学术写作风格提炼技能，用于复现和迁移论文表达风格。",
+  "description": "Cross-agent bilingual academic writing style distillation skill",
+  "language": "Python",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

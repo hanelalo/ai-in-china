@@ -1,0 +1,25 @@
+{
+  "repo": "joeseesun/poster-studio",
+  "category": "ui",
+  "summary": "基于浏览器的乔木画布，用于小红书封面与社媒海报设计的工作台。",
+  "description": "乔木画布：小红书封面、知识卡片和社媒海报设计工作台 | Browser poster studio for Xiaohongshu covers and social graphics.",
+  "language": "TypeScript",
+  "topics": [
+    "ai-design",
+    "ai-image",
+    "design-tool",
+    "fabricjs",
+    "nextjs",
+    "poster-studio",
+    "qiaomu",
+    "vercel",
+    "xiaohongshu"
+  ],
+  "stars": 79,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

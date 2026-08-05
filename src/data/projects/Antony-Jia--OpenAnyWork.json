@@ -1,0 +1,23 @@
+{
+  "repo": "Antony-Jia/OpenAnyWork",
+  "category": "ui",
+  "summary": "面向深度 Agent 的桌面工作台，集成文件访问、容器隔离、MCP 与子 Agent 系统。",
+  "description": "OpenAnyWork is the flagship desktop workbench for deepagentsjs. It's more than just a chat window; it's a productivity tool for \"deep agents.\" By integrating file system access, Docker isolation, the MCP protocol, and a powerful sub-agent system, OpenAnyWork enables AI to truly perform complex tasks on your computer.",
+  "language": "JavaScript",
+  "topics": [
+    "cowork",
+    "deepagents",
+    "langchain",
+    "mcp",
+    "openwork",
+    "ralph",
+    "skills"
+  ],
+  "stars": 10,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

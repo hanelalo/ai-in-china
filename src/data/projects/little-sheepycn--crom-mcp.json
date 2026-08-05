@@ -1,0 +1,15 @@
+{
+  "repo": "little-sheepycn/crom-mcp",
+  "category": "mcp",
+  "summary": "通过 MCP 协议查询 crom 页面信息的轻量服务器。",
+  "description": "A mcp server to query pages on crom",
+  "language": "Python",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

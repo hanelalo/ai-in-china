@@ -1,0 +1,23 @@
+{
+  "repo": "liudf0716/apfree-wifidog",
+  "category": "infra",
+  "summary": "高性能 captive portal 网关，连接无线网络与互联网并支持 HTTPS。",
+  "description": "apfree-wifidog is a high-performance captive portal solution that serves as a gateway between your wireless networks and the Internet. Optimized for both HTTP and HTTPS traffic, it ensures secure border control while enabling seamless user authentication and efficient network management. 技术交流QQ群 331230369",
+  "language": "C",
+  "topics": [
+    "apfree-wifidog",
+    "c",
+    "captive-portal",
+    "libevent",
+    "openwrt",
+    "wifi",
+    "wifidog"
+  ],
+  "stars": 933,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

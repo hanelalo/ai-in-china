@@ -1,0 +1,25 @@
+{
+  "repo": "rullerzhou-afk/clawd-on-desk",
+  "category": "ui",
+  "summary": "一个盯着 Claude Code、Codex、Cursor 等编码 Agent 的像素风桌面宠物，Electron 实现。",
+  "description": "A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.",
+  "language": "JavaScript",
+  "topics": [
+    "claude-code",
+    "codex",
+    "copilot",
+    "cursor",
+    "desktop-pet",
+    "electron",
+    "gemini",
+    "pixel-art",
+    "svg-animation"
+  ],
+  "stars": 5832,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

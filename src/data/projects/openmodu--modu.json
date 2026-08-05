@@ -1,0 +1,15 @@
+{
+  "repo": "openmodu/modu",
+  "category": "harness",
+  "summary": "用 Go 写的又一个 AI Agent 运行时（Yet Another Agent Runtime），定位是 agent 执行底座。",
+  "description": "Yet Another Agent Runtime",
+  "language": "Go",
+  "topics": [],
+  "stars": 6,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

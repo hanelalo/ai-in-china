@@ -1,0 +1,33 @@
+{
+  "repo": "Anionex/agent-vision-toolkit",
+  "category": "skill",
+  "summary": "为纯文本 Agent 提供图片问答、OCR、截图理解与视觉定位能力的工具和技能包。",
+  "description": "给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agent-skills",
+    "claude-code",
+    "cli",
+    "codex",
+    "computer-use",
+    "deepseek",
+    "deepseek-v4",
+    "glm",
+    "harness-engineering",
+    "kimi",
+    "llm",
+    "multimodal",
+    "ocr",
+    "opencode",
+    "vision",
+    "vision-language-model"
+  ],
+  "stars": 292,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,26 @@
+{
+  "repo": "binaricat/Netcatty",
+  "category": "ui",
+  "summary": "将 SSH 工作区、SFTP 文件管理和多个终端整合在一起的桌面客户端。",
+  "description": "SSH workspace, SFTP, and terminals in one",
+  "language": "TypeScript",
+  "topics": [
+    "electron",
+    "electron-app",
+    "radix-ui",
+    "react",
+    "sftp-client",
+    "ssh",
+    "ssh-client",
+    "terminal",
+    "terminal-emulator",
+    "xterm"
+  ],
+  "stars": 4706,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

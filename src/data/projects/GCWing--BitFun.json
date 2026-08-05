@@ -1,0 +1,27 @@
+{
+  "repo": "GCWing/BitFun",
+  "category": "harness",
+  "summary": "结合 Rust 高性能 Agent 运行时与桌面应用的通用智能工作和编程环境。",
+  "description": "BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+  "language": "Rust",
+  "topics": [
+    "agent-teams",
+    "agentic",
+    "agentic-os",
+    "agentic-runtime",
+    "ai-coding",
+    "ai-ide",
+    "ai-sdk",
+    "computer-use-agent",
+    "cowork",
+    "openclaw",
+    "vibe-coding"
+  ],
+  "stars": 1464,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

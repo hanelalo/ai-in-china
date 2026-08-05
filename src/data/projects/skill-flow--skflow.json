@@ -1,0 +1,15 @@
+{
+  "repo": "skill-flow/skflow",
+  "category": "skill",
+  "summary": "把自然语言描述的技能编译成确定性 TS 状态机脚本（含 sh/ask/done 三态）的工具。",
+  "description": "Transform natural-language skills into deterministic TypeScript scripts (sh/ask/done state machines)",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 24,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

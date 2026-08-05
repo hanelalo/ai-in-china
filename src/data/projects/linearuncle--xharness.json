@@ -1,0 +1,30 @@
+{
+  "repo": "linearuncle/xharness",
+  "category": "harness",
+  "summary": "装在电脑上的 macOS GUI + CLI AI 编程搭档，含技能系统与多模型支持。",
+  "description": "🤝 装在你电脑上的 AI 编程搭档（macOS GUI + CLI）：把项目文件夹丢给它，用聊天布置任务——自动读代码、改代码、跑命令验证，全程可见。支持 DeepSeek / Kimi / 任意 Anthropic 兼容模型；截图粘贴看图干活；技能系统；数据全本地。",
+  "language": "TypeScript",
+  "topics": [
+    "agentic-coding",
+    "ai",
+    "ai-agent",
+    "anthropic",
+    "claude",
+    "cli",
+    "coding-agent",
+    "deepseek",
+    "developer-tools",
+    "electron",
+    "kimi",
+    "llm",
+    "macos",
+    "typescript"
+  ],
+  "stars": 9,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,32 @@
+{
+  "repo": "Alisa0808/vox-director",
+  "category": "skill",
+  "summary": "把单个主题自动制作成 Vox 风格拼贴解说或广告视频的端到端 Agent 技能。",
+  "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+  "language": "Python",
+  "topics": [
+    "ai",
+    "ai-video",
+    "claude-code",
+    "claude-skill",
+    "collage-video",
+    "explainer-video",
+    "ffmpeg",
+    "generative-ai",
+    "llm",
+    "motion-graphics",
+    "python",
+    "text-to-video",
+    "tts",
+    "video",
+    "video-generation",
+    "vox"
+  ],
+  "stars": 1092,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

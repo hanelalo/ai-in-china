@@ -1,0 +1,24 @@
+{
+  "repo": "joeseesun/qmreader",
+  "category": "agent",
+  "summary": "中文 RSS 阅读工作台，集成订阅、双语翻译与乔木风格改写。",
+  "description": "中文 RSS 阅读工作台：订阅源、双语翻译、乔木风格改写与公开阅读资产 | Chinese RSS workbench for feeds, translation, rewrites, and public reading assets.",
+  "language": "JavaScript",
+  "topics": [
+    "ai-workflow",
+    "deepseek",
+    "expressjs",
+    "qiaomu",
+    "rss-reader",
+    "rsshub",
+    "self-hosted",
+    "sqlite"
+  ],
+  "stars": 175,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

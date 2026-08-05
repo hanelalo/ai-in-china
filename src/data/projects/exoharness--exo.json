@@ -1,0 +1,19 @@
+{
+  "repo": "exoharness/exo",
+  "category": "harness",
+  "summary": "能递归自我编辑以更好完成任务的 Agent + harness 一体架构。",
+  "description": "Exo is an agent + harness architecture that is fully recursive, able to safely edit all aspects of itself at runtime to get better at your tasks.",
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "harness",
+    "self-evolution"
+  ],
+  "stars": 625,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

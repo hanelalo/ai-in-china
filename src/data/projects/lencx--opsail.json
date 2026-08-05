@@ -1,0 +1,22 @@
+{
+  "repo": "lencx/opsail",
+  "category": "skill",
+  "summary": "Agent 可直接调用的本地原生工具集合，输出 JSON、Markdown 等规整格式。",
+  "description": "⛵ Native tools that agents can rely on.",
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "ai",
+    "cli",
+    "codex",
+    "json",
+    "markdown"
+  ],
+  "stars": 55,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

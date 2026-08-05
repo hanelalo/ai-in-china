@@ -1,0 +1,15 @@
+{
+  "repo": "GordenSun/GordenPPTSkill",
+  "category": "skill",
+  "summary": "提供中文 PPT 模板和无损文本编辑工具，帮助 Agent 自动生成可编辑演示文稿。",
+  "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
+  "language": "Python",
+  "topics": [],
+  "stars": 2872,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

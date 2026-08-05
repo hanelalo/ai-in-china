@@ -1,0 +1,30 @@
+{
+  "repo": "QVerisAI/qveris-agent-toolkit",
+  "category": "mcp",
+  "summary": "通过 CLI、MCP、SDK 和 API 帮助 Agent 发现、调用并审计现实世界工具。",
+  "description": "Open-source toolkit for the QVeris capability routing network: CLI, MCP server, Python SDK, skills, and REST API docs for agents to discover, inspect, call, and audit real-world tools.",
+  "language": "JavaScript",
+  "topics": [
+    "ai-agent",
+    "ai-tools",
+    "cli",
+    "developer-tools",
+    "mcp",
+    "model-context-protocol",
+    "openclaw",
+    "plugin",
+    "python-sdk",
+    "qveris",
+    "rest-api",
+    "tool-calling",
+    "tool-discovery",
+    "typescript"
+  ],
+  "stars": 253,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

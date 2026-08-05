@@ -1,0 +1,25 @@
+{
+  "repo": "luoziyan100/lumen",
+  "category": "ui",
+  "summary": "本地优先的个人 AI 工作台，聊天即操作、活儿直接落到真实工作区。",
+  "description": "本机个人 AI 工作台:聊天是操作面,活儿写进真实工作区 | Local-first personal AI workbench",
+  "language": "TypeScript",
+  "topics": [
+    "ai-agent",
+    "desktop",
+    "llm",
+    "local-first",
+    "pdf",
+    "react",
+    "research-tools",
+    "tauri",
+    "workbench"
+  ],
+  "stars": 6,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

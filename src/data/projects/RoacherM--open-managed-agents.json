@@ -1,0 +1,15 @@
+{
+  "repo": "RoacherM/open-managed-agents",
+  "category": "harness",
+  "summary": "开源自托管的 Claude Managed Agents 兼容 API 与 Agent 运行时实现。",
+  "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible; runs on Cloudflare Workers/Durable Objects or Node.js. Apache 2.0.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,30 @@
+{
+  "repo": "termlnk/termlnk",
+  "category": "ui",
+  "summary": "Termlnk 是一个融合 AI Agent、SSH 工作流和扩展体系的新一代跨平台终端模拟器。",
+  "description": "Termlnk is a modern terminal reimagined with AI agents, SSH workflows, and a rich extension system.",
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "cross-platform",
+    "developer-tools",
+    "mcp",
+    "productivity",
+    "sftp",
+    "sftp-client",
+    "ssh",
+    "ssh-client",
+    "terminal",
+    "terminal-emulator",
+    "termlnk",
+    "termlnk-server"
+  ],
+  "stars": 11,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

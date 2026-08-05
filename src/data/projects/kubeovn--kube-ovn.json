@@ -1,0 +1,26 @@
+{
+  "repo": "kubeovn/kube-ovn",
+  "category": "infra",
+  "summary": "CNCF 项目，作为 SDN 与云原生 Kubernetes 网络之间的桥梁。",
+  "description": "A Bridge between SDN and Cloud Native (Project under CNCF)",
+  "language": "Go",
+  "topics": [
+    "cni",
+    "kubernetes",
+    "kubernetes-networking",
+    "network",
+    "networking",
+    "openvswitch",
+    "overlay-network",
+    "ovn",
+    "ovs",
+    "sdn"
+  ],
+  "stars": 2363,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "Malxi/novelgen",
+  "category": "agent",
+  "summary": "用于生成小说内容的 Go 项目，但仓库未提供足够描述来判断具体能力与流程。",
+  "description": null,
+  "language": "Go",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

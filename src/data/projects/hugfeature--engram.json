@@ -1,0 +1,15 @@
+{
+  "repo": "hugfeature/engram",
+  "category": "infra",
+  "summary": "给 AI 编码 Agent 用的运行时记忆与中断恢复 MCP server。",
+  "description": "Runtime continuity and interruption recovery for AI coding agents — auto-checkpoint on SIGTERM, semantic recall with decay, structured task/handoff/failure tracking. MCP server. pip install mcp-engram",
+  "language": "Python",
+  "topics": [],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

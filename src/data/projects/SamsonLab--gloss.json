@@ -1,0 +1,15 @@
+{
+  "repo": "SamsonLab/gloss",
+  "category": "ui",
+  "summary": "支持 GPT 与本地模型提供商的 macOS 原生翻译桌面应用。",
+  "description": "Native macOS translation app with GPT and local model providers",
+  "language": "Swift",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

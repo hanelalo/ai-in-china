@@ -1,0 +1,15 @@
+{
+  "repo": "fakechris/obsidian_vault_pipeline",
+  "category": "skill",
+  "summary": "自动用 LLM 处理 Obsidian 剪藏、Pinboard 等来源的笔记流水线。",
+  "description": "A automatic pipeline that processing obsidian vault by llm from pinbord, obsidian Clipper etc.",
+  "language": "Rust",
+  "topics": [],
+  "stars": 163,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

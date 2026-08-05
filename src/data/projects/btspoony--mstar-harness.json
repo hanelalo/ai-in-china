@@ -1,0 +1,27 @@
+{
+  "repo": "btspoony/mstar-harness",
+  "category": "harness",
+  "summary": "由技能驱动的 Agent Harness 与循环工程框架，支持规范开发、子 Agent 和知识管理。",
+  "description": "A Skill-driven Harness/Loop Engineering Framework",
+  "language": "TypeScript",
+  "topics": [
+    "agents-team",
+    "codex-plugin",
+    "cursor-plugin",
+    "harness-engineering",
+    "knowledge-management",
+    "loop-engineering",
+    "opencode-plugin",
+    "sdd",
+    "skills",
+    "spec-driven",
+    "subagents"
+  ],
+  "stars": 11,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

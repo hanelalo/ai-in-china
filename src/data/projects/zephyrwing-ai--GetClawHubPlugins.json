@@ -1,0 +1,15 @@
+{
+  "repo": "zephyrwing-ai/GetClawHubPlugins",
+  "category": "skill",
+  "summary": "GetClawHub 官方的插件集合仓库，提供 OpenClaw Hub 体系的各类插件。",
+  "description": "GetClawHub Plugins",
+  "language": "JavaScript",
+  "topics": [],
+  "stars": 0,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

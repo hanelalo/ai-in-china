@@ -1,0 +1,22 @@
+{
+  "repo": "l1veIn/rambledesk",
+  "category": "ui",
+  "summary": "把人类碎碎念整形为结构化提示，反馈给本地编码 Agent 的桌面反馈站。",
+  "description": "Humans, as an API, for coding agents. Your rambling, shaped into prompts — a local, experiential feedback desk for coding hosts.",
+  "language": "Rust",
+  "topics": [
+    "coding-agents",
+    "feedback",
+    "mcp",
+    "rust",
+    "svelte",
+    "tauri"
+  ],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

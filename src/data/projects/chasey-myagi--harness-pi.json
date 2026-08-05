@@ -1,0 +1,15 @@
+{
+  "repo": "chasey-myagi/harness-pi",
+  "category": "harness",
+  "summary": "基于 pi-ai 的 Hook 优先 Agent Harness，提供插件、控制器和第一方工具运行时。",
+  "description": "Hook-first agent harness on @earendil-works/pi-ai — minimal kernel + 22 plugin factories + 14 controllers + first-party tools. Backend/worker runtime for pi-ai agents; not a fork of pi-coding-agent.",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 3,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

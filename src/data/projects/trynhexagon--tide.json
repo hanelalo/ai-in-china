@@ -1,0 +1,26 @@
+{
+  "repo": "trynhexagon/tide",
+  "category": "agent",
+  "summary": "潮汐 Tide 是面向飞书的本地优先第二大脑：从聊天归档生成每日简报、任务、主题关系和工作流洞察。",
+  "description": "潮汐 · Tide — a local-first second brain for Lark/Feishu: chat archives → daily briefs, tasks, topic relations and workflow insights.",
+  "language": "JavaScript",
+  "topics": [
+    "anthropic",
+    "fastapi",
+    "feishu",
+    "lark",
+    "llm",
+    "multi-agent",
+    "personal-assistant",
+    "productivity",
+    "react",
+    "sqlite"
+  ],
+  "stars": 6,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

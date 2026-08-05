@@ -1,0 +1,31 @@
+{
+  "repo": "yyykf/spellbook-skills",
+  "category": "skill",
+  "summary": "面向工程师的 Claude Code/Codex 技能集：worktree、MR、CR、YApi 查询、Java DDD 指导一应俱全。",
+  "description": "Claude Code and Codex skills for daily engineering workflows: worktrees, merge requests, code review, YApi lookup, and Java DDD guidance.",
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "ai-coding",
+    "claude-code",
+    "code-review",
+    "codex-plugin",
+    "ddd",
+    "developer-tools",
+    "developer-workflow",
+    "git-worktrees",
+    "github",
+    "gitlab",
+    "java",
+    "merge-request",
+    "spring-boot",
+    "yapi"
+  ],
+  "stars": 1,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

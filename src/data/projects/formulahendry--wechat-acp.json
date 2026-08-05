@@ -1,0 +1,21 @@
+{
+  "repo": "formulahendry/wechat-acp",
+  "category": "ui",
+  "summary": "把微信聊天消息桥接到任意 ACP 兼容 AI Agent 的桥接机器人。",
+  "description": "Bridge WeChat chat messages to any ACP-compatible AI agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode, OpenClaw, Hermes, Kiro, Kimi, Pi and more)",
+  "language": "TypeScript",
+  "topics": [
+    "acp",
+    "agent-client-protocol",
+    "agentclientprotocol",
+    "wechat-bot",
+    "weixin"
+  ],
+  "stars": 796,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

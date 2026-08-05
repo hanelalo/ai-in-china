@@ -1,0 +1,30 @@
+{
+  "repo": "mainline-org/mainline",
+  "category": "infra",
+  "summary": "为编码 Agent 提供 Git 原生仓库记忆，在代码变更前先记住上下文。",
+  "description": "Git-native memory for coding agents. Repo memory before the diff.",
+  "language": "Go",
+  "topics": [
+    "agent-context",
+    "agent-memory",
+    "ai-agents",
+    "ai-code-review",
+    "ai-coding",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "git",
+    "repo-memory",
+    "software-engineering"
+  ],
+  "stars": 181,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

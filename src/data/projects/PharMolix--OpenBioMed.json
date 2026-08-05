@@ -1,0 +1,15 @@
+{
+  "repo": "PharMolix/OpenBioMed",
+  "category": "agent",
+  "summary": "面向生物医学研究的开放式 AI 平台，为药物和医学任务提供模型与智能能力。",
+  "description": null,
+  "language": "Python",
+  "topics": [],
+  "stars": 1098,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,15 @@
+{
+  "repo": "La-fe/vercel-claude-code",
+  "category": "harness",
+  "summary": "基于 Vercel AI SDK 重构的 Claude Code，实现上下文压缩和核心编程能力。",
+  "description": "Claude Code rebuilt with Vercel AI SDK — 100x compression, 22 core capabilities",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 4,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

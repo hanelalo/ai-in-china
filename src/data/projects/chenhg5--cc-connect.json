@@ -1,0 +1,15 @@
+{
+  "repo": "chenhg5/cc-connect",
+  "category": "infra",
+  "summary": "将本地 AI 编程 Agent 桥接到飞书、Slack、Telegram 等消息平台以便远程使用。",
+  "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+  "language": "Go",
+  "topics": [],
+  "stars": 14705,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

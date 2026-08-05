@@ -1,0 +1,15 @@
+{
+  "repo": "kurzcraft/DeepTask",
+  "category": "agent",
+  "summary": "VS Codium 中开源的 AI 编码 Agent。",
+  "description": "open source agent in vscodium",
+  "language": "TypeScript",
+  "topics": [],
+  "stars": 67,
+  "website": null,
+  "platform": [],
+  "tags": [],
+  "status": "active",
+  "source": "deepseek-harness-x",
+  "addedAt": "2026-08-05"
+}

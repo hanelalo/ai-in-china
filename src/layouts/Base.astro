@@ -4,11 +4,27 @@ import site from '../data/site.json';
 interface Props {
   title?: string;
   description?: string;
+  noindex?: boolean;
 }
 
-const { title, description } = Astro.props;
-const pageTitle = title ? `${title} · ${site.name}` : `${site.name} · ${site.tagline}`;
-const canonical = new URL(Astro.url.pathname, Astro.site);
+const { title, description, noindex } = Astro.props;
+
+const MAX_TITLE = 70;
+const MAX_DESC = 160;
+
+// 按 Unicode 码点截断(中文按单字计),超长用省略号结尾,保证 title/description 不超过上限
+function clamp(text: string, max: number): string {
+  const chars = [...text];
+  return chars.length <= max ? text : chars.slice(0, max - 1).join('') + '…';
+}
+
+const pageTitle = clamp(
+  title ? `${title} · ${site.name}` : `${site.name} · ${site.tagline}`,
+  MAX_TITLE
+);
+const pageDescription = clamp(description ?? site.description, MAX_DESC);
+// canonical 与当前页面路径一致;noindex(如 404)不输出 canonical
+const canonical = noindex ? undefined : new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!doctype html>
@@ -16,9 +32,10 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {noindex && <meta name="robots" content="noindex" />}
     <title>{pageTitle}</title>
-    <meta name="description" content={description ?? site.description} />
-    <link rel="canonical" href={canonical} />
+    <meta name="description" content={pageDescription} />
+    {canonical && <link rel="canonical" href={canonical} />}
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="/styles/global.css" />
   </head>

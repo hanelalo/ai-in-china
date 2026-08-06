@@ -25,6 +25,9 @@ const pageTitle = clamp(
 const pageDescription = clamp(description ?? site.description, MAX_DESC);
 // canonical 与当前页面路径一致;noindex(如 404)不输出 canonical
 const canonical = noindex ? undefined : new URL(Astro.url.pathname, Astro.site);
+
+// Google Analytics 4:仅正式构建注入,本地 dev 不加载
+const gaId = import.meta.env.PROD ? site.gaId : undefined;
 ---
 
 <!doctype html>
@@ -36,6 +39,10 @@ const canonical = noindex ? undefined : new URL(Astro.url.pathname, Astro.site);
     <title>{pageTitle}</title>
     <meta name="description" content={pageDescription} />
     {canonical && <link rel="canonical" href={canonical} />}
+    {gaId && <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>}
+    {gaId && (
+      <script is:inline set:html={`window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '${gaId}');`} />
+    )}
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="/styles/global.css" />
   </head>

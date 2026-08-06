@@ -1,7 +1,7 @@
 {
   "repo": "ophielel/middle-cat-localization",
-  "category": "other",
-  "summary": "仓库无描述，从目录命名看是一个面向中间层的中文化/本地化项目，含翻译数据资源。",
+  "category": "harness",
+  "summary": "面向SCP-CN查询的本地Agent Harness，含MCP工具、路由、Web fallback与Tauri桌面端",
   "description": null,
   "language": "TypeScript",
   "topics": [],

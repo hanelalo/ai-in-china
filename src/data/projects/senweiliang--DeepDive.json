@@ -1,7 +1,7 @@
 {
   "repo": "senweiliang/DeepDive",
-  "category": "other",
-  "summary": "DeepDive Rust 项目，描述缺失",
+  "category": "harness",
+  "summary": "DeepSeek原生终端Coding Agent，含Auto Memory、智能路由、Subagent与MCP/Skill",
   "description": null,
   "language": "Rust",
   "topics": [],

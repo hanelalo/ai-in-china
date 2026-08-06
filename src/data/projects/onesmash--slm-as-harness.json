@@ -1,7 +1,7 @@
 {
   "repo": "onesmash/slm-as-harness",
   "category": "harness",
-  "summary": "以小模型充当 harness 的实验性项目（描述缺失）",
+  "summary": "以小语言模型充当agent harness方向的探索性项目，申请参与内测",
   "description": null,
   "language": "Python",
   "topics": [],

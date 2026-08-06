@@ -1,7 +1,7 @@
 {
   "repo": "desperateoicat/Xianyu-Reply-Bot",
-  "category": "agent",
-  "summary": "基于 Playwright+DeepSeek 的闲鱼自动回复脚本，复用本地 Chrome 登录态。",
+  "category": "other",
+  "summary": "作者的首个开源项目（闲鱼回复机器人），X 自述未详述功能。",
   "description": null,
   "language": "JavaScript",
   "topics": [],

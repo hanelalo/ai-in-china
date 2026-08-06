@@ -1,7 +1,7 @@
 {
   "repo": "YangKGcsdms/antlegion-platform",
   "category": "orchestrator",
-  "summary": "蚂蚁军团平台：多 Agent 协作编排平台（无描述，按命名推断）。",
+  "summary": "作者基于汽车 CAN 协议与多 Agent 协作经验开发的工程交付平台。",
   "description": null,
   "language": "TypeScript",
   "topics": [],

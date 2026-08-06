@@ -1,7 +1,7 @@
 {
   "repo": "zhuangbiaowei/smart_prompt",
   "category": "skill",
-  "summary": "Ruby 写的 smart_prompt，可能是为 smart_agent/bot 提供 prompt/模板管理的组件。",
+  "summary": "作者用Ruby语言打造的提示词工程相关skill Gems，面向agent prompt场景",
   "description": null,
   "language": "Ruby",
   "topics": [],

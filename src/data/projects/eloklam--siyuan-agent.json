@@ -1,7 +1,7 @@
 {
   "repo": "eloklam/siyuan-agent",
-  "category": "skill",
-  "summary": "为 SiYuan 笔记软件开发的独立 CLI Agent 技能，直接 HTTP API 调用无需 npm 依赖。",
+  "category": "mcp",
+  "summary": "让 Agent 浏览和管理思源笔记个人知识库的 CLI/MCP 工具。",
   "description": null,
   "language": "JavaScript",
   "topics": [],

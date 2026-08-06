@@ -1,7 +1,7 @@
 {
   "repo": "RichieChoo/grill-lite",
-  "category": "other",
-  "summary": "仓库未提供描述、主题或主语言，当前无法可靠判断该项目的用途。",
+  "category": "skill",
+  "summary": "根据任务复杂度智能选择直接执行或批量澄清的 Agent Skill，提升日常开发效率。",
   "description": null,
   "language": null,
   "topics": [],

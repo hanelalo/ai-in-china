@@ -1,7 +1,7 @@
 {
   "repo": "fakechris/turnkeyai",
-  "category": "skill",
-  "summary": "为 AI 编码 Agent 提供即用型工程模板的 TypeScript 工具套件。",
+  "category": "harness",
+  "summary": "作者定位为agent方向的交钥匙式AI项目，具体功能与定位未展开说明",
   "description": null,
   "language": "TypeScript",
   "topics": [],

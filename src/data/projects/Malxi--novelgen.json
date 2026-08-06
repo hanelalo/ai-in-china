@@ -1,7 +1,7 @@
 {
   "repo": "Malxi/novelgen",
   "category": "agent",
-  "summary": "用于生成小说内容的 Go 项目，但仓库未提供足够描述来判断具体能力与流程。",
+  "summary": "多 Agent 协作的小说生成工具，通过三级大纲与 RPG DSL 约束保证剧情一致性与战力平衡。",
   "description": null,
   "language": "Go",
   "topics": [],

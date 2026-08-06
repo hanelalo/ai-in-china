@@ -1,7 +1,7 @@
 {
   "repo": "Xnmk029/Xnmk_Prompt_Library_1.0",
-  "category": "content",
-  "summary": "作者整理的 Prompt 模板/提示词库（HTML 展示）。",
+  "category": "eval",
+  "summary": "以当前 SOTA 模型为基准的 Harness 能力边界测试用例库。",
   "description": null,
   "language": "HTML",
   "topics": [],

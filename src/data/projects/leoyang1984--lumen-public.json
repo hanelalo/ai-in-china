@@ -1,7 +1,7 @@
 {
   "repo": "leoyang1984/lumen-public",
-  "category": "skill",
-  "summary": "Lumen Pro：Obsidian Vault 内嵌的轻量级 AI Agent 与数字员工层。",
+  "category": "harness",
+  "summary": "本地优先的AI Agent知识与工作流层，含上下文管理、Skill、RAG、MCP与协作空间",
   "description": null,
   "language": "CSS",
   "topics": [],

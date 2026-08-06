@@ -1,7 +1,7 @@
 {
   "repo": "discord9/e-agent",
   "category": "harness",
-  "summary": "基于 OpenAI 兼容 /chat/completions 与 ChatGPT Codex /responses API 的小型流式 Rust 编程 agent。",
+  "summary": "极简 Agent Harness，稳定调度多 Agent 框架，可日常替代 OpenCode。",
   "description": null,
   "language": "Rust",
   "topics": [],

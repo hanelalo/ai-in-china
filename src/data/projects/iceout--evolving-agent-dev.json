@@ -1,7 +1,7 @@
 {
   "repo": "iceout/evolving-agent-dev",
-  "category": "eval",
-  "summary": "在动手写 agent 前先把'agent 该如何行为'的迭代系统搭起来：真实使用→摩擦记录→根因→策略更新→评估验证。",
+  "category": "skill",
+  "summary": "自我进化的coding agent skill，通过捕获使用摩擦、分析根因、更新策略并补评估形成闭环",
   "description": null,
   "language": "Python",
   "topics": [],

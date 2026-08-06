@@ -1,7 +1,7 @@
 {
   "repo": "fakechris/lumen-asr",
   "category": "skill",
-  "summary": "为 AI Agent 提供语音识别能力的轻量 Rust 工具集。",
+  "summary": "作者自述为语音识别ASR方向的agent技能项目，详细功能描述尚未展开",
   "description": null,
   "language": "Rust",
   "topics": [],

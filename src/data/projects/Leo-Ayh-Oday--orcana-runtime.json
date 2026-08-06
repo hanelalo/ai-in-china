@@ -1,7 +1,7 @@
 {
   "repo": "Leo-Ayh-Oday/orcana-runtime",
   "category": "harness",
-  "summary": "Agent 运行时（orcana-runtime），具体用途需进一步查证。",
+  "summary": "面向长期自主任务的可信 Agent Runtime，让 AI 在真实代码库与 Linux/Windows 环境中可控执行与恢复。",
   "description": null,
   "language": "TypeScript",
   "topics": [],

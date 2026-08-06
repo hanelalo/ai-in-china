@@ -1,7 +1,7 @@
 {
   "repo": "wowyuarm/Loom",
-  "category": "other",
-  "summary": "Loom 项目（TypeScript，描述缺失）",
+  "category": "harness",
+  "summary": "面向长期关系主体的proactive Agent Harness，强调主动、好奇、独立、人本",
   "description": null,
   "language": "TypeScript",
   "topics": [],

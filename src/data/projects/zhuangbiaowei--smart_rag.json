@@ -1,7 +1,7 @@
 {
   "repo": "zhuangbiaowei/smart_rag",
   "category": "infra",
-  "summary": "Ruby 写的 smart_rag，从名称看是 smart_agent 系列里负责检索增强生成（RAG）的模块。",
+  "summary": "作者用Ruby语言打造的RAG检索增强Gems，为agent提供外部知识检索能力",
   "description": null,
   "language": "Ruby",
   "topics": [],

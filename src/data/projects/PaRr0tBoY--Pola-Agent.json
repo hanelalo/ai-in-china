@@ -1,7 +1,7 @@
 {
   "repo": "PaRr0tBoY/Pola-Agent",
   "category": "agent",
-  "summary": "一个 Python 实现的 AI Agent 项目，但仓库元数据未说明其具体应用场景。",
+  "summary": "面向机械建模的垂类 Agent，把 SolidWorks VBA 脚本内化为工具并附机械领域通用 Skills。",
   "description": null,
   "language": "Python",
   "topics": [],

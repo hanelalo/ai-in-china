@@ -1,7 +1,7 @@
 {
   "repo": "michael910321/mwrs",
-  "category": "other",
-  "summary": "仓库无描述、无主题，疑似未开源的初始仓库",
+  "category": "infra",
+  "summary": "面向Agent世界状态设计的运行时，通过MCP暴露状态/规则/权限/历史",
   "description": null,
   "language": "JavaScript",
   "topics": [],

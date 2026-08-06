@@ -1,7 +1,7 @@
 {
   "repo": "effi0724/token-ledger",
-  "category": "infra",
-  "summary": "本地优先的 AI 编程工具 Token 用量总账：抓取 ccusage 数据、按版本化价目折算 API 等价值。",
+  "category": "other",
+  "summary": "作者在自建工作站与工作流，具体功能未在 X 自述中详述。",
   "description": null,
   "language": "TypeScript",
   "topics": [],

@@ -1,7 +1,7 @@
 {
   "repo": "tttpob/jcli",
-  "category": "infra",
-  "summary": "仓库无描述，从命名（jcli）与 Python 实现推测是一个终端命令行工具，可能为编码/作业脚本辅助。",
+  "category": "ui",
+  "summary": "主打jupyter体验的CLI脚手架，用hook做上下文管理，服务科研工作流",
   "description": null,
   "language": "Python",
   "topics": [],

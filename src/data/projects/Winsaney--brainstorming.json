@@ -1,7 +1,7 @@
 {
   "repo": "Winsaney/brainstorming",
-  "category": "skill",
-  "summary": "头脑风暴/创意激发类 Agent skill（无描述，按命名推断）。",
+  "category": "harness",
+  "summary": "帮用户把模糊想法逐步整理成设计方案的 Agent Harness，支持多模型与流式会话。",
   "description": null,
   "language": "JavaScript",
   "topics": [],

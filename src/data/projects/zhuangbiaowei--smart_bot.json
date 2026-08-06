@@ -1,7 +1,7 @@
 {
   "repo": "zhuangbiaowei/smart_bot",
   "category": "agent",
-  "summary": "用 C 写的智能机器人（smart_bot），可能是偏底层/嵌入式的 bot 演示项目。",
+  "summary": "作者用Ruby语言打造的Agent bot应用Gems，面向对话机器人交互场景",
   "description": null,
   "language": "C",
   "topics": [],

@@ -1,7 +1,7 @@
 {
   "repo": "xfx-studio/claworld-openclaw-plugin",
-  "category": "ui",
-  "summary": "Claworld 为 OpenClaw 提供的插件项目，无描述，需结合代码理解具体功能。",
+  "category": "orchestrator",
+  "summary": "依托hermes与openclaw提供插件能力增强的agent协同harness，集skills/tools/orchestration于一身",
   "description": null,
   "language": "JavaScript",
   "topics": [],

@@ -1,7 +1,7 @@
 {
   "repo": "FeiZhuLulu/webFA",
-  "category": "other",
-  "summary": "仓库无描述，无法判定用途。",
+  "category": "ui",
+  "summary": "专为 Agent 设计的浏览器，将网页内容暴露为 JSON 等结构化格式以提升 Agent 互联网操作效率。",
   "description": null,
   "language": "Python",
   "topics": [],

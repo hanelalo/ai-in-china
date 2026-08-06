@@ -1,7 +1,7 @@
 {
   "repo": "duh17/oppi",
   "category": "ui",
-  "summary": "iPhone/iPad 客户端，把 Pi 编程会话的消息、工具调用与扩展 UI 投射到 iOS 上。",
+  "summary": "Pi coding agent 的 iOS/iPadOS 原生移动客户端，支持 session 镜像与文件/媒体浏览。",
   "description": null,
   "language": "Swift",
   "topics": [],

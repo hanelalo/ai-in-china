@@ -1,7 +1,7 @@
 {
   "repo": "GordenSun/mathVideoMaker",
-  "category": "agent",
-  "summary": "用于自动制作数学讲解视频的 Python 项目，但仓库未提供更详细的用途描述。",
+  "category": "skill",
+  "summary": "自动生成数学讲解视频的 Skill 工具（项目同时包含套用模板生成 PPT 的 GordenPPTSkill）。",
   "description": null,
   "language": "Python",
   "topics": [],

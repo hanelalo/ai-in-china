@@ -1,7 +1,7 @@
 {
   "repo": "ucloud/skills",
-  "category": "skill",
-  "summary": "UCloud 出品的 agent 技能集合仓库（description/topics 为空），具体内容以文件列表为准。",
+  "category": "mcp",
+  "summary": "让Agent接入UCloud云平台资源管理与运维能力的skills/MCP工具集成层",
   "description": null,
   "language": null,
   "topics": [],

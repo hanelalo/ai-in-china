@@ -1,7 +1,7 @@
 {
   "repo": "windwhiterain/liana",
-  "category": "other",
-  "summary": "Liana Rust 项目，描述缺失",
+  "category": "harness",
+  "summary": "agent记忆算法harness，在可组合性（稀疏性）与缓存命中率之间可调权衡",
   "description": null,
   "language": "Rust",
   "topics": [],

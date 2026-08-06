@@ -1,7 +1,7 @@
 {
   "repo": "cheukyin175/learn-faster-kit",
-  "category": "skill",
-  "summary": "学习教练包：把任意知识按艾宾浩斯曲线间隔重复，配 Claude Code 加速掌握。",
+  "category": "orchestrator",
+  "summary": "集成在 Claude Code 中的 AI 学习教练 Agent Orchestrator 与 CLI 工具。",
   "description": null,
   "language": null,
   "topics": [],

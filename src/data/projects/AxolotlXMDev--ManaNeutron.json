@@ -1,7 +1,7 @@
 {
   "repo": "AxolotlXMDev/ManaNeutron",
-  "category": "other",
-  "summary": "仓库未提供用途描述，仅从现有元数据无法可靠判断该项目的具体功能。",
+  "category": "harness",
+  "summary": "Java 实现的前后端分离 Agent Harness，通过 REST+SSE 提供交互与监听并探索通用数据交换协议。",
   "description": null,
   "language": "Java",
   "topics": [],

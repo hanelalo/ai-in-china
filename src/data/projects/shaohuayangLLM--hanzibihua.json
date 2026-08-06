@@ -1,7 +1,7 @@
 {
   "repo": "shaohuayangLLM/hanzibihua",
-  "category": "other",
-  "summary": "仓库无描述与 topics，从名称推测是一个关于汉字笔画（hanzi-bihua）数据/工具的项目。",
+  "category": "ui",
+  "summary": "面向小学一年级语文数学的开源学习应用，计划接入DeepSeek Harness升级为Agent UI",
   "description": null,
   "language": "TypeScript",
   "topics": [],

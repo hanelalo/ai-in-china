@@ -1,7 +1,7 @@
 {
   "repo": "zhongerxin/Cowart",
-  "category": "other",
-  "summary": "Cowart JavaScript 项目，描述缺失，5k stars 值得关注",
+  "category": "ui",
+  "summary": "面向Codex的无限画布插件，基于tldraw+MCP Widget支持视觉构思/图片生成/HTML/Slides",
   "description": null,
   "language": "JavaScript",
   "topics": [],

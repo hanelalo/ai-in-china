@@ -1,7 +1,7 @@
 {
   "repo": "ZMGID/kivio",
-  "category": "ui",
-  "summary": "基于 Tauri 的 macOS/Windows 桌面级 AI 助手，支持屏幕取词、截图 OCR、视觉问答，多模型 API Key 管理。",
+  "category": "harness",
+  "summary": "桌面端 Work/编码 Agent Harness，可作为统一 GUI 接入 Claude Code、Codex、Kimi 等多种 CLI。",
   "description": null,
   "language": "Rust",
   "topics": [],

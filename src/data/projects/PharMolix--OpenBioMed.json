@@ -1,7 +1,7 @@
 {
   "repo": "PharMolix/OpenBioMed",
   "category": "agent",
-  "summary": "面向生物医学研究的开放式 AI 平台，为药物和医学任务提供模型与智能能力。",
+  "summary": "水木分子（清华 AIR）团队开发的 AI 驱动药物发现（AIDD）开源平台。",
   "description": null,
   "language": "Python",
   "topics": [],

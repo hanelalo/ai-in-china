@@ -1,7 +1,7 @@
 {
   "repo": "Dajucoder/GraphCoder",
-  "category": "other",
-  "summary": "仓库无描述，无法判定用途。",
+  "category": "orchestrator",
+  "summary": "多智能体协作的 AI 编程系统，让项目经理、架构师、开发者、审查者等角色自动分工迭代完成开发。",
   "description": null,
   "language": "Python",
   "topics": [],

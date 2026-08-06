@@ -1,7 +1,7 @@
 {
   "repo": "zhuangbiaowei/smart_agent",
   "category": "harness",
-  "summary": "Ruby 写的智能体（smart_agent）示例/教学项目，从命名看偏底层 Agent 框架。",
+  "summary": "作者用Ruby语言打造的Agent核心Gems之一，构筑智能体运行框架基础",
   "description": null,
   "language": "Ruby",
   "topics": [],

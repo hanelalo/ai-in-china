@@ -1,7 +1,7 @@
 {
   "repo": "zl827654-source/prism-agent",
   "category": "agent",
-  "summary": "Prism agent 项目（TypeScript，描述缺失）",
+  "summary": "根据生产资料或市场事件分析股市情况的金融agent（初步开发阶段）",
   "description": null,
   "language": "TypeScript",
   "topics": [],

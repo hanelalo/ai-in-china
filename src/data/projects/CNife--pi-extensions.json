@@ -1,7 +1,7 @@
 {
   "repo": "CNife/pi-extensions",
   "category": "skill",
-  "summary": "pi 编码代理的扩展插件合集（无详细描述）。",
+  "summary": "为 Pi 编码 Agent 开发的扩展插件集合，丰富其能力与生态。",
   "description": null,
   "language": "TypeScript",
   "topics": [],

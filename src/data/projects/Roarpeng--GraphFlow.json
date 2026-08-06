@@ -1,7 +1,7 @@
 {
   "repo": "Roarpeng/GraphFlow",
-  "category": "other",
-  "summary": "仓库无描述，无法判定用途。",
+  "category": "mcp",
+  "summary": "通过知识图谱与 DAG 显著压缩 token 输入的 MCP+Skill，助力技能学习与复用。",
   "description": null,
   "language": "TypeScript",
   "topics": [],

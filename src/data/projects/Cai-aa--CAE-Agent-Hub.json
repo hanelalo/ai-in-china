@@ -1,7 +1,7 @@
 {
   "repo": "Cai-aa/CAE-Agent-Hub",
-  "category": "agent",
-  "summary": "CAE（计算机辅助工程）领域的 Agent 集合/枢纽（无详细描述，按 star 与命名推断）。",
+  "category": "mcp",
+  "summary": "面向主流工程仿真软件的 MCP Server、Agent Skill、求解器自动化脚本与浏览器结果查看器集合。",
   "description": null,
   "language": "Python",
   "topics": [],

@@ -1,7 +1,7 @@
 {
   "repo": "leo-liushuhong/qalore",
-  "category": "other",
-  "summary": "仓库描述缺失，无法判断用途。",
+  "category": "agent",
+  "summary": "作者将基于DeepSeek构建的testing skill升级为面向测试场景的agent",
   "description": null,
   "language": "Python",
   "topics": [],

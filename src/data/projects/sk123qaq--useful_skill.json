@@ -1,7 +1,7 @@
 {
   "repo": "sk123qaq/useful_skill",
   "category": "skill",
-  "summary": "实用 agent skill 集合（描述缺失）",
+  "summary": "面向AI Agent/Codex/Claude的本地skills集合，覆盖语音/搜索/数据分析/文档解析/浏览器自动化",
   "description": null,
   "language": "Python",
   "topics": [],

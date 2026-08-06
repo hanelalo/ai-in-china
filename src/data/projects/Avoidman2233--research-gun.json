@@ -1,7 +1,7 @@
 {
   "repo": "Avoidman2233/research-gun",
-  "category": "other",
-  "summary": "仓库无描述，无法判定用途。",
+  "category": "mcp",
+  "summary": "本机优先的科研实验归档 MCP 层，组合可迁移 Skill、后台执行与持久化存储供 Agent 调用。",
   "description": null,
   "language": "TypeScript",
   "topics": [],

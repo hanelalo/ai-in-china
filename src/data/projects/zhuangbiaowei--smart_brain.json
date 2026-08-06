@@ -1,7 +1,7 @@
 {
   "repo": "zhuangbiaowei/smart_brain",
-  "category": "infra",
-  "summary": "Ruby 写的 smart_brain，可能是构建 smart_agent/bot 的核心大脑/推理模块。",
+  "category": "harness",
+  "summary": "作者用Ruby语言打造的Agent brain核心模块Gems，承担agent大脑调度职责",
   "description": null,
   "language": "Ruby",
   "topics": [],

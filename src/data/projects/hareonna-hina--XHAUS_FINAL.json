@@ -1,7 +1,7 @@
 {
   "repo": "hareonna-hina/XHAUS_FINAL",
-  "category": "agent",
-  "summary": "XHAUS·栖屋：本地优先、人格化、可进化的 AI 私人管家工作区，整合人格运行时、自进化流水线与 GUI 环境。",
+  "category": "harness",
+  "summary": "本地生活私人管家agent，含可视化工作流、自进化用户建模、skills与沙盒",
   "description": null,
   "language": "Python",
   "topics": [],

@@ -1,7 +1,7 @@
 {
   "repo": "fakechris/mreviewer",
-  "category": "skill",
-  "summary": "面向编程 Agent 的代码评审辅助 Go 工具。",
+  "category": "agent",
+  "summary": "作者定位为代码review方向的reviewbot，自动化进行代码审查的agent项目",
   "description": null,
   "language": "Go",
   "topics": [],

@@ -1,7 +1,7 @@
 {
   "repo": "QuantumBFS/quantum.harness",
   "category": "harness",
-  "summary": "QuantumBFS 出品的量子计算 Agent Harness（无描述，按命名推断）。",
+  "summary": "面向 autoresearch 研究的 Agent Harness 工具集合（作者亦维护问题归约与 Yao.jl 等项目）。",
   "description": null,
   "language": "Python",
   "topics": [],

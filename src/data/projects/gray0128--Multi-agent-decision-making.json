@@ -1,7 +1,7 @@
 {
   "repo": "gray0128/Multi-agent-decision-making",
   "category": "orchestrator",
-  "summary": "本地、可审计、可恢复的多 Agent 审议工具，调度已认证 AI CLI 做结构化审议与透明档案。",
+  "summary": "本地、可审计、可恢复的多Agent审议决策工具，面向本地化部署运行",
   "description": null,
   "language": "TypeScript",
   "topics": [],

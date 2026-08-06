@@ -1,7 +1,7 @@
 {
   "repo": "Vita0818/Intatis",
-  "category": "other",
-  "summary": "该 Swift 仓库没有用途描述或主题信息，现有元数据不足以判断具体功能。",
+  "category": "harness",
+  "summary": "基于 Swift 的 Mac/iPhone Agent Harness，支持 subagent 调用与权限审计。",
   "description": null,
   "language": "Swift",
   "topics": [],

@@ -1,7 +1,7 @@
 {
   "repo": "citarreikee/visible_manus",
-  "category": "ui",
-  "summary": "可视化多 Agent 编排系统：在交互画布上实时观察 agent 的计划、执行与协作过程。",
+  "category": "other",
+  "summary": "作者手写的从 API 到 Agent 的学习性项目集合，并尝试 swarm 相关 Harness。",
   "description": null,
   "language": "TypeScript",
   "topics": [],

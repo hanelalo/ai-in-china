@@ -1,7 +1,7 @@
 {
   "repo": "TabbyML/pochi",
   "category": "agent",
-  "summary": "TabbyML 出品的编码代理项目 pochi（无描述）。",
+  "summary": "持续迭代一年多、发布几十个版本的全功能 Coding Agent，覆盖编码全流程。",
   "description": null,
   "language": "TypeScript",
   "topics": [],

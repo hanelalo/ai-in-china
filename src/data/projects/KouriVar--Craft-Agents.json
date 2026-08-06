@@ -1,7 +1,7 @@
 {
   "repo": "KouriVar/Craft-Agents",
-  "category": "other",
-  "summary": "仓库无描述，无法判定用途。",
+  "category": "harness",
+  "summary": "基于 Craft Agents OSS 深度二开的 Agent Harness，扩展多模型运行时、MCP/插件、记忆与权限审计等能力。",
   "description": null,
   "language": "TypeScript",
   "topics": [],

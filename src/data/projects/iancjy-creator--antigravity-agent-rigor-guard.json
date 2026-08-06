@@ -1,7 +1,7 @@
 {
   "repo": "iancjy-creator/antigravity-agent-rigor-guard",
   "category": "infra",
-  "summary": "Antigravity AI 编码 agent 的 fail-closed 护栏与验证闸门：拦截不安全工具调用、留审计证据、防假完成。",
+  "summary": "面向编码Agent长流程任务的严谨性守卫工具，源自实际使用痛点",
   "description": null,
   "language": "JavaScript",
   "topics": [],

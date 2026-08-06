@@ -1,7 +1,7 @@
 {
   "repo": "JackWPP/fox-say",
-  "category": "other",
-  "summary": "仓库无描述，无法判定用途。",
+  "category": "content",
+  "summary": "面向大学生与 K12 教育的 LLM-Wiki+知识图谱学习工具。",
   "description": null,
   "language": "Python",
   "topics": [],

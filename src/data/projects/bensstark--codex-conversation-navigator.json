@@ -1,7 +1,7 @@
 {
   "repo": "bensstark/codex-conversation-navigator",
-  "category": "ui",
-  "summary": "Codex 长对话的只读伴生页面，按用户消息生成侧边导航并提供本地代码查看器。",
+  "category": "skill",
+  "summary": "在 Agent 客户端中根据用户消息快速定位历史消息的 UI 类 Skill。",
   "description": null,
   "language": "JavaScript",
   "topics": [],

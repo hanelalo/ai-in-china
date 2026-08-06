@@ -1,7 +1,7 @@
 {
   "repo": "Feyker5642/Harness-routebench",
-  "category": "eval",
-  "summary": "Agent Harness 路由性能基准测试（按命名推断，无描述）。",
+  "category": "infra",
+  "summary": "面向 Agent Harness 的 provider-neutral 决策层，负责自然语言 Skill 路由、显式拒绝与 Subagent 执行形态判断。",
   "description": null,
   "language": "Python",
   "topics": [],

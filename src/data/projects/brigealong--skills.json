@@ -1,7 +1,7 @@
 {
   "repo": "brigealong/skills",
   "category": "skill",
-  "summary": "把意图落到一张五段'契约'页面的 agent 工作流技能套件，弥合点子到计划之间的'完成定义'空白。",
+  "summary": "用于任务定义、跨 Agent 交接与多 Agent 编排的 Agent Workflow Skills 集合。",
   "description": null,
   "language": "Python",
   "topics": [],

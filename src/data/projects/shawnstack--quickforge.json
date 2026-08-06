@@ -1,7 +1,7 @@
 {
   "repo": "shawnstack/quickforge",
-  "category": "other",
-  "summary": "Quickforge 快速原型/脚手架工具（描述缺失）",
+  "category": "harness",
+  "summary": "开源本地优先的AI对话与编码工作台，模型/数据/Agent权限由用户自主控制",
   "description": null,
   "language": "TypeScript",
   "topics": [],
